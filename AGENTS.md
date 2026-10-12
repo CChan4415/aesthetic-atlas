@@ -134,15 +134,23 @@ python3 tools/build_index.py    # 生成 index/compact.md 与 graph.json
 
 校验器**只查结构不查内容质量**——它查不出"质感描述是否会生效"。**别把它当质量保证。**
 
-### 版本控制（本库已启用 Git）
+### 版本控制（Git + GitHub）
 
-本库是 Git 仓库。**改动前后建议提交**，这是唯一的回滚手段：
+本库是 Git 仓库，远程同步到 **https://github.com/CChan4415/aesthetic-atlas**（私有）。
+**改动前后建议提交**，这是唯一的回滚手段：
 
 ```bash
 git status                  # 看改了什么
 git diff                    # 看具体改动
 git add -A && git commit -m "说明改了什么"
+git push                    # 同步到 GitHub
 git checkout -- <文件>       # 撤销单个文件的改动
+```
+
+**在别的机器上使用**：
+```bash
+git clone git@github.com:CChan4415/aesthetic-atlas.git
+# 无需任何额外安装即可使用（含校验与索引工具）
 ```
 
 **为什么必须有**：库里全是审美决策，改错一次可能损失数月积累。

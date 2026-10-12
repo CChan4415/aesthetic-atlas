@@ -243,3 +243,30 @@ CLI 二进制**确实存在**（建议中该条属实），但**本库不需要*
 ### 验证
 * `tools/validate.py`：203 个 Markdown，**0 错误**。
 * 索引重建正常；Git 已提交，回滚实测通过。
+
+---
+
+## 2026-10-12 · 第八阶段：清理归档 + 关联 GitHub
+
+### 删除归档
+* 删除 `aesthetic-atlas.okf-backup/`（13MB）——删除前再次核实**独有文件数 = 0**，
+  且主库已有 Git 兜底。
+
+### 关联 GitHub 远程
+* 远程：**https://github.com/CChan4415/aesthetic-atlas**
+* SSH 认证核实：`Hi CChan4415! You've successfully authenticated` ✅
+* 本地调整：
+  - 作者 `cc <cc@local>` → `CChan4415 <CChan4415@users.noreply.github.com>`（重写历史，使其关联 GitHub 账号）
+  - 分支 `master` → `main`（GitHub 默认）
+  - `git remote add origin` + `git push -u origin main`（220 文件）
+* 已验证：本地 HEAD == origin/main。
+
+### 修复 clone 后断链（实测发现）
+* 首次推送后**真实克隆测试**发现：`index/compact.md` 被 `.gitignore` 排除，
+  但被 **5 个文档**用 `[[compact]]` 引用 → **新机器 clone 后立即断链**。
+* 修复：`index/` 产物改为**入库**（它可随时用 `tools/build_index.py` 重建，入库无副作用）。
+* 重新克隆验证：**222 文件、203 Markdown、0 错误、824 wikilink 全部解析** ✅
+
+### 教训
+"本地校验通过"≠"克隆后可用"。**生成物与引用它的文档必须一起入库**，
+否则库在别人机器上是坏的。这次是靠真实 clone 测试才发现的。
