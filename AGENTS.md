@@ -154,8 +154,15 @@ git clone git@github.com:CChan4415/aesthetic-atlas.git
 ```
 
 **为什么必须有**：库里全是审美决策，改错一次可能损失数月积累。
-`.gitignore` 已排除生成物（`index/graph.json`、`index/compact.md`）与
-Obsidian 私有状态（`.obsidian/workspace.json`），这些可重建或不该共享。
+
+`.gitignore` 的取舍（**曾经踩坑，勿轻易改**）：
+- ✅ `index/compact.md`、`index/graph.json` **入库** —— 它们被多篇文档用 `[[compact]]` 引用，
+  若排除则**新机器 clone 后立即断链**（实测过）。它们随时可用 `tools/build_index.py` 重建，入库无副作用。
+- ❌ `.obsidian/workspace.json` 排除 —— 每台机器的窗口布局状态，含噪音且易冲突。
+- ❌ `.DS_Store` 排除 —— 系统噪音。
+
+> **通用教训**：「本地校验通过」≠「克隆后可用」。
+> 生成物若被文档引用，就必须和引用它的文档一起入库。
 
 ### 人机同时编辑
 人和 agent **不要同时改同一个文件**。改完先提交，再让对方接手——
