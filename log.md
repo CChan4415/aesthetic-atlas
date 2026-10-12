@@ -199,3 +199,47 @@
 ### 当前状态
 * 单库 `aesthetic-atlas/`：203 个 Markdown，0 错误，0 孤儿页，824 wikilink 全通。
 * 工作区 `AGENTS.md` + 库内 `AGENTS.md` 均已更新为单库架构。
+
+---
+
+## 2026-10-12 · 第七阶段：整理工作区（参考另一会话建议）
+
+### 背景
+参考另一个会话（`obsidian和llm wiki哪个更好用？`）关于 Obsidian 接入 agent 的建议，
+**逐条核实后**采纳其中两条真实有价值的改进，其余已在做或不需要。
+
+### 核实结果
+| 建议 | 核实结论 | 处理 |
+|---|---|---|
+| Agent 直接读写 vault 文件夹 | ✅ 已实现（本库设计如此，`build_index.py` 纯 Python 解析） | 无需改动 |
+| 使用 `[[双向链接]]` | ✅ 已实现（839 个 wikilink） | 无需改动 |
+| `sources/` 只读区 | ✅ 已有 `raw/` 承担该角色 | 无需改动 |
+| **`inbox/` 暂存区** | ⚠️ **真实缺口**——此前丢原料必须先想清楚归哪类 | **已采纳** |
+| **版本控制/可回滚** | 🔴 **真实缺口**——此前零回滚能力 | **已采纳** |
+| Obsidian 官方 CLI | ✅ 核实存在（`/Applications/Obsidian.app/Contents/MacOS/obsidian-cli`） | 未启用（见下） |
+
+### 采纳 1：`raw/inbox/` 暂存区
+* 新建 `raw/inbox/`；`raw/index.md` 补充说明；`guides/ingestion.md` 新增 **Step 0：inbox 归位**。
+* 规则：拿不准分类就丢 `inbox/`，INGEST 时 agent 判断类型 → 移动到目标目录 → 建 `_source.md` → 登记。
+  **移动而非复制**，处理完 `inbox/` 应为空。
+* 目的：降低"投喂原料"的心理成本。
+
+### 采纳 2：启用 Git 版本控制
+* 此前**无任何版本控制**——改坏无法回滚，是最大的运维缺口。
+* `git init` + 首次提交（220 文件），`.gitignore` 排除：
+  - 生成物：`index/graph.json`、`index/compact.md`（可重建）
+  - Obsidian 私有状态：`.obsidian/workspace.json`（每台机器不同）
+  - 系统噪音：`.DS_Store`
+* **实测验证回滚可用**：改坏文件 → `git status` 可见 → `git checkout --` 恢复成功。
+* 库内 `AGENTS.md` 新增「工具与版本控制」段，含常用命令与"人机勿同时编辑同一文件"提醒。
+
+### 未采纳：Obsidian 官方 CLI
+CLI 二进制**确实存在**（建议中该条属实），但**本库不需要**：
+* 它要求 Obsidian 应用常驻运行，而本库的设计目标是**不依赖 Obsidian**（已实测删除 `.obsidian/` 后全功能可用）。
+* CLI 主要价值是搜索、每日笔记、未解析链接检查——这些我们已有等价实现
+  （`build_index.py` 检索索引、`validate.py` 链接校验），且**不需要运行 GUI**。
+* 若将来需要"在 Obsidian 内操作每日笔记"之类能力，可再启用。
+
+### 验证
+* `tools/validate.py`：203 个 Markdown，**0 错误**。
+* 索引重建正常；Git 已提交，回滚实测通过。

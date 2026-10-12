@@ -125,7 +125,7 @@ outputs:
 | Y2K v2 prompt 未验证 | 🔴 高 | 修复是结构性的，未经出图验证  |
 | 视觉系 3/4 分支无配方     | 🟡 中 | 图鉴建了但不可直接用      |
 
-## 7. 工具
+## 7. 工具与版本控制
 
 ```bash
 python3 tools/validate.py       # 链接/frontmatter/配方引用/资产/命名
@@ -133,6 +133,31 @@ python3 tools/build_index.py    # 生成 index/compact.md 与 graph.json
 ```
 
 校验器**只查结构不查内容质量**——它查不出"质感描述是否会生效"。**别把它当质量保证。**
+
+### 版本控制（本库已启用 Git）
+
+本库是 Git 仓库。**改动前后建议提交**，这是唯一的回滚手段：
+
+```bash
+git status                  # 看改了什么
+git diff                    # 看具体改动
+git add -A && git commit -m "说明改了什么"
+git checkout -- <文件>       # 撤销单个文件的改动
+```
+
+**为什么必须有**：库里全是审美决策，改错一次可能损失数月积累。
+`.gitignore` 已排除生成物（`index/graph.json`、`index/compact.md`）与
+Obsidian 私有状态（`.obsidian/workspace.json`），这些可重建或不该共享。
+
+### 人机同时编辑
+人和 agent **不要同时改同一个文件**。改完先提交，再让对方接手——
+否则 git 会报冲突，需要手动合并 markdown。
+
+## 7.5 raw/inbox 暂存区
+
+拿不准原料该归到哪个子目录时，**直接丢 `raw/inbox/`**。
+不需要先想清楚分类——INGEST 时 agent 会判断归属并登记。
+目的是降低"投喂原料"的心理成本。
 
 ## 8. 参考
 

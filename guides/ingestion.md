@@ -16,6 +16,7 @@ generated: { by: human:cc, at: 2026-10-12T00:00:00+08:00 }
 
 ```
 raw/
+├── inbox/        # 【暂存区】未分类原料，agent 编译时判断归属
 ├── books/        # 书籍（PDF/EPUB/扫描）
 ├── magazines/    # 杂志（单期或专题）
 ├── scans/        # 图片扫描、lookbook、广告片
@@ -26,7 +27,21 @@ raw/
 每批原料：
 
 1. 放入对应子目录（建议 `作者或刊物-年份-标题/` 单独成文件夹）。
+   **拿不准放哪就丢 `inbox/`** —— 不需要先想清楚分类。
 2. 复制 [[_template-source|`_template-source.md`]] 为 `_source.md`，填写元数据与 `status: pending`。
+
+### Step 0：inbox 归位（若原料来自 `inbox/`）
+
+INGEST 开始时先检查 `raw/inbox/`，对每份原料：
+
+1. **判断类型**：书籍 → `books/`；杂志 → `magazines/`；图片/lookbook → `scans/`；文章/网页 → `articles/`
+2. **移动到目标目录**（可保留原名或按 `作者或刊物-年份-标题/` 重命名）
+3. **建 `_source.md`**：按模板填写元数据，`source_status: pending`
+4. **在 raw/index.md 登记**
+5. 继续执行下方七步管道
+
+> 移动而非复制——`inbox/` 是暂存区，处理完应为空。
+> 若无法判断类型，默认归入 `articles/` 并在 log 中标注待确认。
 
 ## 2. 编译七步
 
