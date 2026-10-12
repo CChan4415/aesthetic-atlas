@@ -1,6 +1,7 @@
-# 生成物（可重建，不入库）
-index/graph.json
-index/compact.md
+# 生成物说明：index/ 下的产物【入库】。
+# 理由：多篇文档用 [[compact]] 链接它，若不入库则 clone 后立即断链。
+# 它可随时用 `python3 tools/build_index.py` 重建，入库不影响正确性。
+# （曾短暂忽略，实测 clone 后出现断链，故改回入库）
 
 # Obsidian 私有状态（每台机器不同，且含窗口布局等噪音）
 .obsidian/workspace.json

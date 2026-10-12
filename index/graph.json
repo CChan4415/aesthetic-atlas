@@ -1,0 +1,5640 @@
+{
+ "generated_by": "tools/build_index.py",
+ "note": "可再生成产物，请勿手工编辑",
+ "count": 169,
+ "entries": [
+  {
+   "id": "AGENTS",
+   "path": "AGENTS.md",
+   "type": "Unknown",
+   "title": "AGENTS.md",
+   "description": "",
+   "tags": [],
+   "status": "",
+   "one_liner": "原子元素   ──组合──▶  子风格   ──锁定──▶  配方",
+   "keywords": [],
+   "links_to": [
+    "atlas/grade/anti-modern-digital.md",
+    "guides/image-generation.md",
+    "guides/index.md",
+    "guides/ingestion.md",
+    "guides/maintenance.md",
+    "guides/new-style-pack.md",
+    "guides/recipe-schema.md",
+    "guides/style-exploration.md",
+    "guides/video-generation.md",
+    "index/compact.md",
+    "log.md",
+    "🎬 配方.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ],
+   "linked_from": [
+    "🏠 主页.md",
+    "📘 Obsidian 使用指南.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/bandana",
+   "path": "atlas/accessories/bandana.md",
+   "type": "Visual Element",
+   "title": "印花方巾（Bandana）",
+   "description": "佩斯利印花棉质方巾，系于颈、头、腕或包袋，街头与嘻哈元素。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "bandana, paisley print scarf, tied around head / neck / wrist, red / pink / black, Y2K street",
+   "keywords": [
+    "`bandana",
+    "paisley print scarf",
+    "tied around head / neck / wrist",
+    "red / pink / black",
+    "Y2K street`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/belly-chain",
+   "path": "atlas/accessories/belly-chain.md",
+   "type": "Visual Element",
+   "title": "肚链（Belly Chain）",
+   "description": "环绕腰腹、垂在小腹或髋骨的细链，强调露腰造型，是千禧辣妹标志。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "belly chain, waist chain, body chain, gold chain across hips, dangling charm at navel, Y2K midriff",
+   "keywords": [
+    "`belly chain",
+    "waist chain",
+    "body chain",
+    "gold chain across hips",
+    "dangling charm at navel",
+    "Y2K midriff`"
+   ],
+   "links_to": [
+    "atlas/wardrobe/baby-tee.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/metallic-cami.md"
+   ],
+   "linked_from": [
+    "atlas/wardrobe/baby-tee.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/metallic-cami.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/body-glitter",
+   "path": "atlas/accessories/body-glitter.md",
+   "type": "Visual Element",
+   "title": "身体亮片/水钻贴（Body Glitter）",
+   "description": "涂抹或贴在肩颈、锁骨、手臂、腰腹的闪粉与水钻，让皮肤本身成为装饰。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "body glitter, shimmer gel on collarbones and shoulders, body gems, sparkly skin, stick-on",
+   "keywords": [
+    "`body glitter",
+    "shimmer gel on collarbones and shoulders",
+    "body gems",
+    "sparkly skin",
+    "stick-on",
+    "rhinestones",
+    "Y2K festival sparkle`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/choker",
+   "path": "atlas/accessories/choker.md",
+   "type": "Visual Element",
+   "title": "Choker（贴颈项链）",
+   "description": "紧贴脖颈的短项链，材质从丝绒、珍珠到水钻、纹身印花皆有，Y2K 各子风格通用。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "choker, velvet / pearl / rhinestone / tattoo choker, pendant close to neck, layered necklaces, Y2K",
+   "keywords": [
+    "`choker",
+    "velvet / pearl / rhinestone / tattoo choker",
+    "pendant close to neck",
+    "layered necklaces",
+    "Y2K`"
+   ],
+   "links_to": [
+    "atlas/wardrobe/halter-top.md",
+    "atlas/wardrobe/metallic-cami.md"
+   ],
+   "linked_from": [
+    "atlas/wardrobe/cargo-pants.md",
+    "atlas/wardrobe/halter-top.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/hair-accessories",
+   "path": "atlas/accessories/hair-accessories.md",
+   "type": "Visual Element",
+   "title": "发饰（Hair Accessories）",
+   "description": "蝴蝶夹、鸭嘴夹、大肠圈、缎带发带等千禧发饰聚合。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "Y2K hair accessories, butterfly clips, sparkly barrettes, scrunchie, ribbon, playful hair adornment",
+   "keywords": [
+    "`Y2K hair accessories",
+    "butterfly clips",
+    "sparkly barrettes",
+    "scrunchie",
+    "ribbon",
+    "playful hair adornment`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/hoop-earrings",
+   "path": "atlas/accessories/hoop-earrings.md",
+   "type": "Visual Element",
+   "title": "圈形耳环（Hoop Earrings）",
+   "description": "大小不一的金属圆环耳环，嘻哈与名流造型常见，大号最具年代感。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "hoop earrings, large gold / silver hoops, oversized circles, huggie hoops, Y2K hip-hop glamour",
+   "keywords": [
+    "`hoop earrings",
+    "large gold / silver hoops",
+    "oversized circles",
+    "huggie hoops",
+    "Y2K hip-hop glamour`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/logo-belt",
+   "path": "atlas/accessories/logo-belt.md",
+   "type": "Visual Element",
+   "title": "徽标腰带（Logo Belt）",
+   "description": "带醒目品牌字母扣、铆钉或水钻的腰带，系在低腰裤/裙上，强调腰线与 logo 狂热。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "logo belt, statement buckle, rhinestone / studded belt, initial buckle, worn over low-rise,",
+   "keywords": [
+    "`logo belt",
+    "statement buckle",
+    "rhinestone / studded belt",
+    "initial buckle",
+    "worn over low-rise",
+    "visible belt",
+    "Y2K logomania`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/wardrobe/baby-tee.md",
+    "atlas/wardrobe/low-rise-jeans.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/mini-bag",
+   "path": "atlas/accessories/mini-bag.md",
+   "type": "Visual Element",
+   "title": "迷你包（Mini Bag）",
+   "description": "腋下或手持的极小包袋，金属、漆皮、徽标款，容量让位造型。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "mini bag, micro shoulder bag, underarm baguette bag, patent / metallic / beaded, tiny purse, Y2K",
+   "keywords": [
+    "`mini bag",
+    "micro shoulder bag",
+    "underarm baguette bag",
+    "patent / metallic / beaded",
+    "tiny purse",
+    "Y2K`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/wardrobe/velour-tracksuit.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/rhinestone-jewelry-set",
+   "path": "atlas/accessories/rhinestone-jewelry-set.md",
+   "type": "Visual Element",
+   "title": "水钻叠戴首饰（Rhinestone Jewelry Set）",
+   "description": "成组、多层叠戴的水钻/水晶首饰（项链、手链、戒指、耳环），制造密集闪亮。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "rhinestone jewelry set, layered crystal necklaces, stacked bracelets, cocktail rings, sparkling,",
+   "keywords": [
+    "`rhinestone jewelry set",
+    "layered crystal necklaces",
+    "stacked bracelets",
+    "cocktail rings",
+    "sparkling",
+    "bedazzled",
+    "ice-out",
+    "Y2K glamour`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/wardrobe/metallic-cami.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/accessories/wrap-sunglasses",
+   "path": "atlas/accessories/wrap-sunglasses.md",
+   "type": "Visual Element",
+   "title": "包裹式墨镜（Wrap Sunglasses）",
+   "description": "流线包裹、窄框或无边、镜面镜片的运动感墨镜，千禧未来感标志。",
+   "tags": [
+    "y2k",
+    "accessories"
+   ],
+   "status": "stable",
+   "one_liner": "wrap-around sunglasses, rimless shield shades, mirrored lenses, slim futuristic frames, tinted",
+   "keywords": [
+    "`wrap-around sunglasses",
+    "rimless shield shades",
+    "mirrored lenses",
+    "slim futuristic frames",
+    "tinted",
+    "visor sunglasses",
+    "Y2K cyber eyewear`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/wardrobe/velour-tracksuit.md",
+    "atlas/wardrobe/vinyl-pants.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/audio/europop-dance-anthem",
+   "path": "atlas/audio/europop-dance-anthem.md",
+   "type": "Visual Element",
+   "title": "欧陆舞曲（Europop Dance Anthem）",
+   "description": "千禧年明亮欧陆舞曲/Teen Pop 风格。",
+   "tags": [
+    "y2k",
+    "audio",
+    "music"
+   ],
+   "status": "stable",
+   "one_liner": "千禧年欧陆舞曲 / Teen Pop：明亮合成器、强劲四拍、甜美人声，派对与偶像 MV 的标配。",
+   "keywords": [
+    "`upbeat Europop / dance-pop anthem",
+    "bright synths",
+    "four-on-the-floor beat",
+    "sweet female vocals",
+    "catchy chorus",
+    "120 BPM",
+    "year-2000 hit energy`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/audio/rnb-ballad",
+   "path": "atlas/audio/rnb-ballad.md",
+   "type": "Visual Element",
+   "title": "R&B 抒情（R&B Ballad）",
+   "description": "千禧年丝滑 R&B 慢板风格。",
+   "tags": [
+    "y2k",
+    "audio",
+    "music"
+   ],
+   "status": "stable",
+   "one_liner": "2000 年代当代 R&B 抒情曲：丝滑和声、暖合成器垫、慵懒律动，亲密而感性。",
+   "keywords": [
+    "`smooth 2000s R&B ballad",
+    "silky harmonies",
+    "warm synth pads",
+    "slow groove",
+    "sensual and intimate",
+    "80 BPM",
+    "late-night vibe`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/camera/fisheye-lens",
+   "path": "atlas/camera/fisheye-lens.md",
+   "type": "Visual Element",
+   "title": "鱼眼镜头（Fisheye Lens）",
+   "description": "超广角、桶形畸变、球面夸张透视，千禧滑板/派对/偶像写真的标志镜头。",
+   "tags": [
+    "y2k",
+    "camera",
+    "lens",
+    "wide"
+   ],
+   "status": "stable",
+   "one_liner": "fisheye lens, extreme wide angle, barrel distortion, curved horizon, spherical perspective,",
+   "keywords": [
+    "`fisheye lens",
+    "extreme wide angle",
+    "barrel distortion",
+    "curved horizon",
+    "spherical perspective",
+    "bulging wide view",
+    "skate-video look",
+    "Y2K fisheye`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/color/chrome-cool-palette",
+   "path": "atlas/color/chrome-cool-palette.md",
+   "type": "Color Palette",
+   "title": "冷调金属（Chrome Cool）",
+   "description": "铬银、冰蓝、亮黑、纯白构成的冷峻科技配色。",
+   "tags": [
+    "y2k",
+    "color",
+    "palette",
+    "cool"
+   ],
+   "status": "stable",
+   "one_liner": "铬银 #C8C8C8、冰蓝 #A5D8FF、亮黑 #0A0A0A、纯白 #FFFFFF，点缀电光青 #00E5FF。",
+   "keywords": [
+    "`chrome cool palette",
+    "silver",
+    "icy blue",
+    "glossy black",
+    "white",
+    "electric cyan accents",
+    "cold futuristic",
+    "tones",
+    "sleek and sterile`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/mood/cold-futuristic.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/color/neon-clash-palette",
+   "path": "atlas/color/neon-clash-palette.md",
+   "type": "Color Palette",
+   "title": "霓虹撞色（Neon Clash）",
+   "description": "热粉、电光蓝、酸绿在深色底上高饱和对撞，视觉侵略性强。",
+   "tags": [
+    "y2k",
+    "color",
+    "palette",
+    "neon"
+   ],
+   "status": "stable",
+   "one_liner": "热粉 #FF3EA5、电光蓝 #00C2FF、酸绿 #A6FF00、紫 #B026FF，底为深黑/深蓝 #0D0221。",
+   "keywords": [
+    "`neon clash palette",
+    "hot pink",
+    "electric blue",
+    "acid green on near-black",
+    "high saturation",
+    "vivid",
+    "contrasts",
+    "cyber neon",
+    "rave colors`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-retro-future.md"
+   ]
+  },
+  {
+   "id": "atlas/color/pastel-candy-palette",
+   "path": "atlas/color/pastel-candy-palette.md",
+   "type": "Color Palette",
+   "title": "梦幻马卡龙（Pastel Candy）",
+   "description": "婴儿粉、婴儿蓝、淡紫、薄荷构成的柔和甜美配色。",
+   "tags": [
+    "y2k",
+    "color",
+    "palette",
+    "pastel"
+   ],
+   "status": "stable",
+   "one_liner": "婴儿粉 #FFC2D4、婴儿蓝 #BDE0FE、淡紫 #CDB4DB、薄荷 #C8F4DE、奶白 #FFF6F9。",
+   "keywords": [
+    "`pastel candy palette",
+    "baby pink",
+    "baby blue",
+    "lavender",
+    "mint",
+    "soft cream",
+    "dreamy sweet tones",
+    "light and airy",
+    "Y2K kawaii`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/color/visual-kei-monochrome",
+   "path": "atlas/color/visual-kei-monochrome.md",
+   "type": "Color Palette",
+   "title": "视觉系·黑白冷调（Visual Kei Monochrome）",
+   "description": "视觉系的骨架配色——纯黑、石膏白、银灰三色构成的高对比冷调，Kote-kei 的标准色板。",
+   "tags": [
+    "visual-kei",
+    "color",
+    "palette",
+    "monochrome",
+    "kote-kei"
+   ],
+   "status": "stable",
+   "one_liner": "它只有三个角色，但对比关系极强：",
+   "keywords": [],
+   "links_to": [
+    "atlas/color/chrome-cool-palette.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md"
+   ],
+   "linked_from": [
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/color/warm-dv-bronze-palette",
+   "path": "atlas/color/warm-dv-bronze-palette.md",
+   "type": "Color Palette",
+   "title": "暖调 DV · 古铜脏金（Warm DV Bronze）",
+   "description": "橙粉、古铜、脏金、焦橙构成的暖调配色，像老 DV 磁带与千禧杂志内页的夕照色调。",
+   "tags": [
+    "y2k",
+    "color",
+    "palette",
+    "warm"
+   ],
+   "status": "stable",
+   "one_liner": "温暖、怀旧、亲密、微醺；带胶片/DV 的褪色与暖偏色。",
+   "keywords": [
+    "`warm bronze and peach color palette",
+    "dirty gold accents",
+    "burnt orange",
+    "cream tones",
+    "coral",
+    "highlights",
+    "sun-kissed warm grade",
+    "faded vintage DV color",
+    "golden nostalgic tones`"
+   ],
+   "links_to": [
+    "atlas/grade/vhs-dv-texture.md",
+    "atlas/lighting/golden-hour-backlight.md",
+    "atlas/material/gold-lame.md"
+   ],
+   "linked_from": [
+    "atlas/mood/nostalgic-bittersweet.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🎬 配方.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/grade/anti-modern-digital",
+   "path": "atlas/grade/anti-modern-digital.md",
+   "type": "Visual Element",
+   "title": "去现代数码感（Anti-Modern-Digital / Period Authenticity）",
+   "description": "对抗生成模型\"默认输出当代高清数码照片\"倾向的负向控制元素——年代真实性的强制手段。",
+   "tags": [
+    "y2k",
+    "grade",
+    "negative",
+    "period-accuracy",
+    "critical"
+   ],
+   "status": "stable",
+   "one_liner": "它专门用来对抗图像模型的一个顽固倾向——不管 prompt 怎么写，模型都倾向于输出",
+   "keywords": [],
+   "links_to": [
+    "atlas/grade/cross-processing.md",
+    "atlas/grade/digital-overlays.md",
+    "atlas/grade/film-grain.md",
+    "atlas/grade/vhs-dv-texture.md",
+    "atlas/lighting/direct-flash.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ],
+   "linked_from": [
+    "AGENTS.md",
+    "guides/image-generation.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🎬 配方.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/grade/cross-processing",
+   "path": "atlas/grade/cross-processing.md",
+   "type": "Visual Element",
+   "title": "交叉冲洗 / 褪色（Cross-Processing）",
+   "description": "胶片以错误药水冲洗产生的偏色、高对比与不饱和褪色，复古艺术质感。",
+   "tags": [
+    "y2k",
+    "grade",
+    "film",
+    "grade"
+   ],
+   "status": "stable",
+   "one_liner": "cross-processed film, color shift, faded vintage tones, lifted blacks, cyan / magenta cast,",
+   "keywords": [
+    "`cross-processed film",
+    "color shift",
+    "faded vintage tones",
+    "lifted blacks",
+    "cyan / magenta cast",
+    "retro film color",
+    "expired film look",
+    "Y2K lomography`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/grade/anti-modern-digital.md"
+   ]
+  },
+  {
+   "id": "atlas/grade/digital-overlays",
+   "path": "atlas/grade/digital-overlays.md",
+   "type": "Visual Element",
+   "title": "后期叠层（Digital Overlays）",
+   "description": "时间码、REC 标识、贴纸、边框、UI 元素、星形闪光等后期图形叠层。",
+   "tags": [
+    "y2k",
+    "grade",
+    "overlay",
+    "graphics"
+   ],
+   "status": "stable",
+   "one_liner": "Y2K digital overlays, camcorder timestamp, playful stickers and frames, retro UI elements,",
+   "keywords": [
+    "`Y2K digital overlays",
+    "camcorder timestamp",
+    "playful stickers and frames",
+    "retro UI elements",
+    "sparkle graphics",
+    "early-2000s on-screen decoration`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/grade/film-grain",
+   "path": "atlas/grade/film-grain.md",
+   "type": "Visual Element",
+   "title": "胶片颗粒（Film Grain）",
+   "description": "胶片介质的银盐颗粒与自然宽容度，比数码更有呼吸感。",
+   "tags": [
+    "y2k",
+    "grade",
+    "film",
+    "texture"
+   ],
+   "status": "stable",
+   "one_liner": "film grain, 35mm grain texture, silver halide, organic grain, halation, film stock look, slight",
+   "keywords": [
+    "`film grain",
+    "35mm grain texture",
+    "silver halide",
+    "organic grain",
+    "halation",
+    "film stock look",
+    "slight",
+    "grain over highlights",
+    "analog photography`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/mood/rebellious-angsty.md"
+   ]
+  },
+  {
+   "id": "atlas/grade/high-contrast-grade",
+   "path": "atlas/grade/high-contrast-grade.md",
+   "type": "Visual Element",
+   "title": "高对比戏剧质感（High-Contrast Dramatic Grade）",
+   "description": "视觉系的画面质感——深黑压暗、高光锐利、整体去饱和或强偏色，去掉一切生活感。",
+   "tags": [
+    "visual-kei",
+    "grade",
+    "contrast",
+    "dramatic"
+   ],
+   "status": "stable",
+   "one_liner": "而是把画面从现实里拽出来——让观众立刻感到\"这是舞台/这是作品\"。",
+   "keywords": [
+    "`high contrast dramatic grade",
+    "deep crushed blacks",
+    "sharp crisp highlights",
+    "desaturated color",
+    "grade",
+    "strong chiaroscuro",
+    "hard-edged shadows",
+    "theatrical poster look",
+    "moody dark grading",
+    "clean deep shadows",
+    "cinematic high contrast",
+    "cool blue tint or deep red tint",
+    "graphic lighting`"
+   ],
+   "links_to": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/grade/vhs-dv-texture.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md"
+   ],
+   "linked_from": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/motion/stage-performance-motion.md",
+    "atlas/setting/dark-stage.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/grade/lens-flare-haze",
+   "path": "atlas/grade/lens-flare-haze.md",
+   "type": "Visual Element",
+   "title": "光晕 / 柔焦（Lens Flare & Haze）",
+   "description": "镜头眩光、光晕、雾化与柔焦，制造梦幻和神圣感。",
+   "tags": [
+    "y2k",
+    "grade",
+    "optical"
+   ],
+   "status": "stable",
+   "one_liner": "lens flare, anamorphic glow, hazy soft focus, bloom around highlights, dreamy diffusion, glowing",
+   "keywords": [
+    "`lens flare",
+    "anamorphic glow",
+    "hazy soft focus",
+    "bloom around highlights",
+    "dreamy diffusion",
+    "glowing",
+    "halation",
+    "misty atmosphere",
+    "Y2K sparkle`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/grade/light-leak",
+   "path": "atlas/grade/light-leak.md",
+   "type": "Visual Element",
+   "title": "漏光（Light Leak）",
+   "description": "胶片相机漏光在画面边缘形成的暖色光斑，随机而复古。",
+   "tags": [
+    "y2k",
+    "grade",
+    "optical",
+    "film"
+   ],
+   "status": "stable",
+   "one_liner": "light leak, warm orange light streaks at frame edge, film light leak, accidental exposure glow,",
+   "keywords": [
+    "`light leak",
+    "warm orange light streaks at frame edge",
+    "film light leak",
+    "accidental exposure glow",
+    "vintage analog`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/grade/magazine-flash-grade",
+   "path": "atlas/grade/magazine-flash-grade.md",
+   "type": "Visual Element",
+   "title": "千禧杂志片调色（Magazine Flash Grade）",
+   "description": "高饱和、闪光灯直打、肤色暖亮、对比明快的杂志内页/封面调色。",
+   "tags": [
+    "y2k",
+    "grade",
+    "grade",
+    "magazine"
+   ],
+   "status": "stable",
+   "one_liner": "early-2000s magazine editorial grade, vivid saturated color, flash-lit, warm glowing skin, crisp",
+   "keywords": [
+    "`early-2000s magazine editorial grade",
+    "vivid saturated color",
+    "flash-lit",
+    "warm glowing skin",
+    "crisp",
+    "contrast",
+    "glossy fashion spread",
+    "Y2K magazine look`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/grade/vhs-dv-texture",
+   "path": "atlas/grade/vhs-dv-texture.md",
+   "type": "Visual Element",
+   "title": "VHS / DV 磁带质感（VHS-DV Texture）",
+   "description": "家用录像带与数码摄像机的影像特征：噪点、扫描线、色差、跟踪条、低分辨率与时间码。",
+   "tags": [
+    "y2k",
+    "grade",
+    "video",
+    "texture",
+    "lofi"
+   ],
+   "status": "stable",
+   "one_liner": "VHS / DV / Hi8 camcorder look, analog tape grain, scanlines, chroma aberration, tracking bars,",
+   "keywords": [
+    "`VHS / DV / Hi8 camcorder look",
+    "analog tape grain",
+    "scanlines",
+    "chroma aberration",
+    "tracking bars",
+    "color bleed",
+    "soft low-resolution",
+    "4:3 home video",
+    "timestamp overlay",
+    "magnetic tape noise",
+    "Y2K footage`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/color/warm-dv-bronze-palette.md",
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/mood/nostalgic-bittersweet.md",
+    "atlas/motion/handheld-sway.md",
+    "atlas/taxonomy/movements/y2k-retro-future.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🎬 配方.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/hair/chunky-highlights",
+   "path": "atlas/hair/chunky-highlights.md",
+   "type": "Visual Element",
+   "title": "块状挑染（Chunky Highlights）",
+   "description": "用粗大发片做高对比度的高光挑染，是千禧年最具辨识度的染发方式，强调光泽与层次。",
+   "tags": [
+    "y2k",
+    "hair"
+   ],
+   "status": "stable",
+   "one_liner": "用粗大发片做高对比度的高光挑染，是千禧年最具辨识度的染发方式，强调光泽与层次。",
+   "keywords": [
+    "`chunky highlights",
+    "thick highlighted streaks",
+    "contrasting blonde panels",
+    "glossy shiny hair",
+    "early-2000s highlights",
+    "face-brightening streaks",
+    "dimensional hair color`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/hair/crimped-hair",
+   "path": "atlas/hair/crimped-hair.md",
+   "type": "Visual Element",
+   "title": "锡纸/玉米烫（Crimped Hair）",
+   "description": "用夹板压出细密波浪纹理（玉米须/锡纸烫），制造巨大蓬松体积与纹理光泽。",
+   "tags": [
+    "y2k",
+    "hair"
+   ],
+   "status": "stable",
+   "one_liner": "用夹板压出细密波浪纹理（玉米须/锡纸烫），制造巨大蓬松体积与纹理光泽。",
+   "keywords": [
+    "`crimped hair",
+    "crimped texture waves",
+    "zig-zag texture",
+    "voluminous teased hair",
+    "90s-2000s crimping",
+    "fluffy textured mane",
+    "lots of volume`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/hair/eye-covering-bangs",
+   "path": "atlas/hair/eye-covering-bangs.md",
+   "type": "Visual Element",
+   "title": "遮眼刘海（Eye-Covering Bangs）",
+   "description": "长刘海完全或部分遮盖眼睛的发型，制造神秘、阴郁、不可接近的视觉系气质。",
+   "tags": [
+    "visual-kei",
+    "hair",
+    "androgynous",
+    "mysterious"
+   ],
+   "status": "stable",
+   "one_liner": "换取极强的神秘感与疏离感——观众看不到完整的面孔，因此只能感到气质的压迫。",
+   "keywords": [
+    "`long bangs covering one eye",
+    "eye-covering fringe",
+    "asymmetric hair with one eye hidden",
+    "heavy straight fringe over eyes",
+    "mysterious face partially veiled by hair",
+    "dark hair falling",
+    "across the face",
+    "moody androgynous hairstyle",
+    "hair obscuring the gaze",
+    "blunt heavy bangs`"
+   ],
+   "links_to": [
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/mood/cold-futuristic.md",
+    "atlas/mood/nostalgic-bittersweet.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md"
+   ],
+   "linked_from": [
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/motion/stage-performance-motion.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/hair/face-framing-highlights",
+   "path": "atlas/hair/face-framing-highlights.md",
+   "type": "Visual Element",
+   "title": "脸际高光碎发（Face-Framing Pieces）",
+   "description": "脸周细碎、更亮的发丝（类似蝴蝶剪/层次剪），修饰脸型并制造蓬松灵动的轮廓。",
+   "tags": [
+    "y2k",
+    "hair"
+   ],
+   "status": "stable",
+   "one_liner": "脸周细碎、更亮的发丝（类似蝴蝶剪/层次剪），修饰脸型并制造蓬松灵动的轮廓。",
+   "keywords": [
+    "`face-framing highlights",
+    "wispy front pieces",
+    "butterfly cut",
+    "layered tendrils around face",
+    "shiny wisps",
+    "voluminous crown",
+    "soft face-framing layers`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/hair/pin-straight-ionic",
+   "path": "atlas/hair/pin-straight-ionic.md",
+   "type": "Visual Element",
+   "title": "离子烫中分长直（Pin-Straight Ionic）",
+   "description": "离子烫打造的中分/偏分超亮泽长直发，垂顺服帖，是千禧偶像剧女主标配。",
+   "tags": [
+    "y2k",
+    "hair"
+   ],
+   "status": "stable",
+   "one_liner": "离子烫打造的中分/偏分超亮泽长直发，垂顺服帖，是千禧偶像剧女主标配。",
+   "keywords": [
+    "`pin-straight hair",
+    "ionic straightening",
+    "glassy glossy long hair",
+    "center-parted",
+    "sleek",
+    "shiny flat-ironed hair",
+    "smooth flyaway-free",
+    "2000s drama heroine`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/hair/side-ponytail",
+   "path": "atlas/hair/side-ponytail.md",
+   "type": "Visual Element",
+   "title": "侧马尾（Side Ponytail）",
+   "description": "在耳侧高位或低位扎起的马尾，俏皮复古，常留蓬松碎发与高光。",
+   "tags": [
+    "y2k",
+    "hair"
+   ],
+   "status": "stable",
+   "one_liner": "在耳侧高位或低位扎起的马尾，俏皮复古，常留蓬松碎发与高光。",
+   "keywords": [
+    "`side ponytail",
+    "high side pony",
+    "glossy sleek crown with loose wisps",
+    "playful",
+    "hair-tied to one side",
+    "voluminous shiny ponytail`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/hair/space-buns",
+   "path": "atlas/hair/space-buns.md",
+   "type": "Visual Element",
+   "title": "双丸子/面包头（Space Buns）",
+   "description": "头顶两侧盘起的圆发髻（面包头），俏皮太空感，常留碎发与挑染。",
+   "tags": [
+    "y2k",
+    "hair"
+   ],
+   "status": "stable",
+   "one_liner": "头顶两侧盘起的圆发髻（面包头），俏皮太空感，常留碎发与挑染。",
+   "keywords": [
+    "`space buns",
+    "double hair buns",
+    "half-up buns",
+    "loose face wisps",
+    "playful",
+    "festival",
+    "Y2K hairstyle",
+    "messy buns with tendrils`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/hair/spiky-styled-hair",
+   "path": "atlas/hair/spiky-styled-hair.md",
+   "type": "Visual Element",
+   "title": "尖刺立发（Spiky Styled Hair）",
+   "description": "用大量定型剂把头发做成放射状、有方向的尖刺结构，是 Kote-kei 视觉系最具辨识度的发型符号。",
+   "tags": [
+    "visual-kei",
+    "hair",
+    "kote-kei",
+    "styling"
+   ],
+   "status": "stable",
+   "one_liner": "它不是\"头发自然竖起来\"，而是用大量发蜡、发胶、定型喷雾把发束硬化成雕塑的结果。",
+   "keywords": [
+    "`extremely spiky styled hair",
+    "sharp gelled hair spikes",
+    "sculptural hair with heavy styling",
+    "product",
+    "rigid hair structure",
+    "radiating hair spikes",
+    "directional spiky hair",
+    "hard-set hair",
+    "high-contrast black or platinum hair",
+    "avant-garde hairstyle",
+    "punk-inspired structured hair`"
+   ],
+   "links_to": [
+    "atlas/makeup/white-foundation.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-retro-future.md",
+    "atlas/wardrobe/black-tailored-suit.md"
+   ],
+   "linked_from": [
+    "atlas/makeup/white-foundation.md",
+    "atlas/motion/stage-performance-motion.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/lighting/direct-flash",
+   "path": "atlas/lighting/direct-flash.md",
+   "type": "Visual Element",
+   "title": "闪光灯直打（Direct On-Camera Flash）",
+   "description": "机顶闪光灯正面硬光，背景压暗、皮肤油亮、红眼与硬阴影，千禧派对与杂志快照标志。",
+   "tags": [
+    "y2k",
+    "lighting",
+    "flash",
+    "hard"
+   ],
+   "status": "stable",
+   "one_liner": "direct on-camera flash, harsh frontal flash, blown-out highlights, dark background, red-eye, hard",
+   "keywords": [
+    "`direct on-camera flash",
+    "harsh frontal flash",
+    "blown-out highlights",
+    "dark background",
+    "red-eye",
+    "hard",
+    "shadows",
+    "snapshot party flash",
+    "glossy skin",
+    "point-and-shoot look",
+    "Y2K flash photography`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/lighting/dramatic-single-source",
+   "path": "atlas/lighting/dramatic-single-source.md",
+   "type": "Visual Element",
+   "title": "强单点光（Dramatic Single Source）",
+   "description": "单一强光源造成的极端明暗对比光型，是视觉系与戏剧肖像的照明基础。",
+   "tags": [
+    "visual-kei",
+    "lighting",
+    "dramatic",
+    "contrast",
+    "core"
+   ],
+   "status": "stable",
+   "one_liner": "另一面落入深阴影。它拒绝\"均匀补光\"——补光会消灭阴影，而阴影才是这个光型的作品本身。",
+   "keywords": [
+    "`dramatic single light source",
+    "strong directional lighting",
+    "harsh hard shadows",
+    "high contrast",
+    "lighting",
+    "chiaroscuro",
+    "spotlight on face",
+    "deep shadow side",
+    "side lit portrait",
+    "theatrical",
+    "stage lighting",
+    "rim light separating from dark background",
+    "moody low-key lighting",
+    "single",
+    "beam of light",
+    "dramatic falloff`"
+   ],
+   "links_to": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/lighting/warm-tungsten.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md"
+   ],
+   "linked_from": [
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/motion/stage-performance-motion.md",
+    "atlas/setting/dark-stage.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/lighting/golden-hour-backlight",
+   "path": "atlas/lighting/golden-hour-backlight.md",
+   "type": "Visual Element",
+   "title": "黄金时刻逆光（Golden-Hour Backlight）",
+   "description": "日落前后低角度暖光，逆光勾勒发丝与身体轮廓，橙金色氛围。",
+   "tags": [
+    "y2k",
+    "lighting",
+    "warm",
+    "backlight"
+   ],
+   "status": "stable",
+   "one_liner": "golden hour, low warm sunset light, backlight, rim light on hair, glowing orange halo, long soft",
+   "keywords": [
+    "`golden hour",
+    "low warm sunset light",
+    "backlight",
+    "rim light on hair",
+    "glowing orange halo",
+    "long soft",
+    "shadows",
+    "warm hazy atmosphere",
+    "Y2K sunlight`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/color/warm-dv-bronze-palette.md"
+   ]
+  },
+  {
+   "id": "atlas/lighting/neon-practicals",
+   "path": "atlas/lighting/neon-practicals.md",
+   "type": "Visual Element",
+   "title": "霓虹实景光（Neon Practicals）",
+   "description": "霓虹灯牌、串灯等画面内光源，提供彩色点/线状光与反射。",
+   "tags": [
+    "y2k",
+    "lighting",
+    "neon"
+   ],
+   "status": "stable",
+   "one_liner": "neon practical lights, glowing signs, colored point lights, string-light bokeh, neon reflections",
+   "keywords": [
+    "`neon practical lights",
+    "glowing signs",
+    "colored point lights",
+    "string-light bokeh",
+    "neon reflections",
+    "on skin",
+    "night color",
+    "Y2K`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/lighting/tv-crt-glow",
+   "path": "atlas/lighting/tv-crt-glow.md",
+   "type": "Visual Element",
+   "title": "屏幕辉光（TV / CRT Glow）",
+   "description": "电视机或 CRT 显示器打在脸上的冷色、闪烁的屏幕光，暗室中氛围独特。",
+   "tags": [
+    "y2k",
+    "lighting",
+    "screen",
+    "cool"
+   ],
+   "status": "stable",
+   "one_liner": "TV / CRT screen glow, flickering cold light on face, dark room, blue-white screen illumination,",
+   "keywords": [
+    "`TV / CRT screen glow",
+    "flickering cold light on face",
+    "dark room",
+    "blue-white screen illumination",
+    "cyan glow",
+    "late-night television light",
+    "Y2K`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/lighting/warm-tungsten",
+   "path": "atlas/lighting/warm-tungsten.md",
+   "type": "Visual Element",
+   "title": "暖色钨丝灯（Warm Tungsten）",
+   "description": "室内灯泡/台灯的暖黄低色温柔光，亲密、有生活感。",
+   "tags": [
+    "y2k",
+    "lighting",
+    "warm",
+    "indoor"
+   ],
+   "status": "stable",
+   "one_liner": "warm tungsten light, incandescent bulb glow, cozy yellow indoor light, soft practical lamps,",
+   "keywords": [
+    "`warm tungsten light",
+    "incandescent bulb glow",
+    "cozy yellow indoor light",
+    "soft practical lamps",
+    "intimate warm ambiance",
+    "Y2K bedroom light`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/lighting/dramatic-single-source.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🎬 配方.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/dark-lips",
+   "path": "atlas/makeup/dark-lips.md",
+   "type": "Visual Element",
+   "title": "暗色唇（Dark Lips）",
+   "description": "黑、暗红、酒红、紫黑等深色唇妆，与白妆形成面部第二组强对比，是视觉系妆容的收尾重音。",
+   "tags": [
+    "visual-kei",
+    "makeup",
+    "lips",
+    "dark",
+    "dramatic"
+   ],
+   "status": "stable",
+   "one_liner": "在视觉系的妆容结构里，暗色唇承担的是\"第二对比点\"的角色——",
+   "keywords": [
+    "`dark black lips",
+    "deep crimson lipstick",
+    "wine red lips",
+    "matte dark red lips",
+    "plum purple",
+    "lipstick",
+    "dramatic dark lip color",
+    "gothic lips",
+    "high contrast dark mouth",
+    "glossy black vinyl",
+    "lips",
+    "pale bloodless lips for androgynous look`"
+   ],
+   "links_to": [
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md"
+   ],
+   "linked_from": [
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/face-rhinestones",
+   "path": "atlas/makeup/face-rhinestones.md",
+   "type": "Visual Element",
+   "title": "水钻贴脸（Face Rhinestones）",
+   "description": "把水钻/珍珠/金属贴饰点缀在眼尾、眉心、颧骨或鼻梁，制造闪亮装饰。",
+   "tags": [
+    "y2k",
+    "makeup"
+   ],
+   "status": "stable",
+   "one_liner": "把水钻/珍珠/金属贴饰点缀在眼尾、眉心、颧骨或鼻梁，制造闪亮装饰。",
+   "keywords": [
+    "`face rhinestones",
+    "gem stickers",
+    "crystal eye corner",
+    "brow-center jewel",
+    "pearl face gems",
+    "sparkling face decoration",
+    "bedazzled makeup`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/frosted-eyeshadow",
+   "path": "atlas/makeup/frosted-eyeshadow.md",
+   "type": "Visual Element",
+   "title": "霜状珠光眼影（Frosted Eyeshadow）",
+   "description": "带珍珠/金属光泽的霜状眼影，大面积铺在眼皮甚至眉骨，是千禧年标志性眼妆。",
+   "tags": [
+    "y2k",
+    "makeup"
+   ],
+   "status": "stable",
+   "one_liner": "带珍珠/金属光泽的霜状眼影，大面积铺在眼皮甚至眉骨，是千禧年标志性眼妆。",
+   "keywords": [
+    "`frosted eyeshadow",
+    "pearlescent metallic lids",
+    "icy silver-blue shimmer",
+    "frosted highlight on brow bone",
+    "white lower lash line",
+    "glossy lids",
+    "2000s eye makeup`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/glossy-lips",
+   "path": "atlas/makeup/glossy-lips.md",
+   "type": "Visual Element",
+   "title": "镜面唇彩（Glossy Lips）",
+   "description": "高光泽、丰盈的玻璃唇（常叠在裸色/粉色口红上），唇峰高光、微嘟。",
+   "tags": [
+    "y2k",
+    "makeup"
+   ],
+   "status": "stable",
+   "one_liner": "高光泽、丰盈的玻璃唇（常叠在裸色/粉色口红上），唇峰高光、微嘟。",
+   "keywords": [
+    "`glossy lips",
+    "high-shine lip gloss",
+    "glassy plump lips",
+    "nude-pink gloss",
+    "defined lip liner",
+    "wet look lips",
+    "frosted lipstick",
+    "2000s lip`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/long-acrylic-nails",
+   "path": "atlas/makeup/long-acrylic-nails.md",
+   "type": "Visual Element",
+   "title": "长美甲片（Long Acrylic Nails）",
+   "description": "延长的亚克力美甲，常做法式、空气刷绘、水钻或火焰/爱心图案，是千禧辣妹标志。",
+   "tags": [
+    "y2k",
+    "makeup"
+   ],
+   "status": "stable",
+   "one_liner": "延长的亚克力美甲，常做法式、空气刷绘、水钻或火焰/爱心图案，是千禧辣妹标志。",
+   "keywords": [
+    "`long acrylic nails",
+    "airbrushed nails",
+    "french tip",
+    "rhinestone nails",
+    "flame / zebra / heart nail art",
+    "square coffin nails",
+    "bedazzled manicure",
+    "2000s nails`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/smoky-eye-visual-kei",
+   "path": "atlas/makeup/smoky-eye-visual-kei.md",
+   "type": "Visual Element",
+   "title": "深色烟熏眼（Dark Smoky Eye for Visual Kei）",
+   "description": "以黑、灰、深紫、深红在眼周大面积晕染的眼妆，制造深邃眼窝与阴郁气质，视觉系的重型眼妆方案。",
+   "tags": [
+    "visual-kei",
+    "makeup",
+    "eye",
+    "smoky",
+    "dramatic"
+   ],
+   "status": "stable",
+   "one_liner": "把眼睛周围处理成一片深色阴影区的妆容。与日常烟熏不同，视觉系的版本：",
+   "keywords": [
+    "`heavy dark smoky eye",
+    "deep black and charcoal eyeshadow",
+    "large smudged dark eye area",
+    "deep",
+    "sunken eyes",
+    "purple and black blended eyeshadow",
+    "dramatic gothic eye makeup",
+    "smudged",
+    "theatrical eye shadow",
+    "dark circles of shadow around eyes",
+    "moody deep-set eyes",
+    "heavily",
+    "blended dark eye makeup`"
+   ],
+   "links_to": [
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md"
+   ],
+   "linked_from": [
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/tear-bag-makeup.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/sunburnt-blush",
+   "path": "atlas/makeup/sunburnt-blush.md",
+   "type": "Visual Element",
+   "title": "晒伤腮红（Sunburnt Blush）",
+   "description": "横跨鼻梁、连接两颊的暖橘/粉色腮红，像日晒后的自然红晕，甜美而有元气。",
+   "tags": [
+    "y2k",
+    "makeup"
+   ],
+   "status": "stable",
+   "one_liner": "横跨鼻梁、连接两颊的暖橘/粉色腮红，像日晒后的自然红晕，甜美而有元气。",
+   "keywords": [
+    "`sunburnt blush",
+    "blush across nose bridge",
+    "warm coral-apricot flush",
+    "draped blush",
+    "glowing cheeks",
+    "freckled sun-kissed nose",
+    "peachy flush`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/tear-bag-makeup",
+   "path": "atlas/makeup/tear-bag-makeup.md",
+   "type": "Visual Element",
+   "title": "泪袋妆 / 下眼睑强调（Tear Bag & Lower Lash Emphasis）",
+   "description": "刻意强调下眼睑与眼下区域的妆容——下眼线、眼下红晕、泪痕，制造病态、脆弱或阴郁的视觉系气质。",
+   "tags": [
+    "visual-kei",
+    "makeup",
+    "eye",
+    "tear-bag"
+   ],
+   "status": "stable",
+   "one_liner": "常规美妆用遮瑕\"消除\"眼下阴影，视觉系反过来——主动加深、加红、加亮这一区域。",
+   "keywords": [
+    "`emphasized lower lash line",
+    "red rimmed eyes",
+    "tear bag makeup",
+    "smudged lower eyeliner",
+    "dark under-eye shading",
+    "reddish under-eye blush",
+    "conjunctival redness makeup",
+    "tearful",
+    "glassy eyes",
+    "accentuated aegyo-sal highlighted with shimmer",
+    "dramatic lower eye area",
+    "puffy tearful eyes",
+    "sickly fragile eye makeup`"
+   ],
+   "links_to": [
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md"
+   ],
+   "linked_from": [
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/thin-arched-brows",
+   "path": "atlas/makeup/thin-arched-brows.md",
+   "type": "Visual Element",
+   "title": "高挑细眉（Thin Arched Brows）",
+   "description": "修剪得细而高挑的拱形眉，带成熟、精明或冷艳气质，是 90s 末–2000s 审美。",
+   "tags": [
+    "y2k",
+    "makeup"
+   ],
+   "status": "stable",
+   "one_liner": "修剪得细而高挑的拱形眉，带成熟、精明或冷艳气质，是 90s 末–2000s 审美。",
+   "keywords": [
+    "`thin arched eyebrows",
+    "high-plucked brows",
+    "defined slim brow arch",
+    "90s-2000s brows",
+    "penciled precise brows`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/under-eye-glitter",
+   "path": "atlas/makeup/under-eye-glitter.md",
+   "type": "Visual Element",
+   "title": "眼下亮片（Under-Eye Glitter）",
+   "description": "在下眼睑/眼角点缀亮片或闪粉，像泪光一样闪烁，偶像舞台与甜辣写真常见。",
+   "tags": [
+    "y2k",
+    "makeup"
+   ],
+   "status": "stable",
+   "one_liner": "在下眼睑/眼角点缀亮片或闪粉，像泪光一样闪烁，偶像舞台与甜辣写真常见。",
+   "keywords": [
+    "`under-eye glitter",
+    "glitter tears",
+    "sparkling lower lash line",
+    "scattered sequins beneath eyes",
+    "idol stage makeup",
+    "twinkling eye gems`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/white-foundation",
+   "path": "atlas/makeup/white-foundation.md",
+   "type": "Visual Element",
+   "title": "白妆（White Foundation / 白塗り）",
+   "description": "刻意失真的极度白皙底妆，制造面具感与非人感，是视觉系妆容体系的共同基础。",
+   "tags": [
+    "visual-kei",
+    "makeup",
+    "base",
+    "theatrical",
+    "core"
+   ],
+   "status": "stable",
+   "one_liner": "关键在\"刻意\"二字——它必须让人一眼看出这不是自然肤色，而是化了妆的脸。",
+   "keywords": [
+    "`extreme pale white foundation",
+    "porcelain white skin",
+    "kabuki-like white face makeup",
+    "mask-like",
+    "complexion",
+    "theatrical pale makeup",
+    "flat matte porcelain skin",
+    "starkly white face contrasting",
+    "with darker neck",
+    "porcelain doll skin",
+    "deliberately unnatural pale complexion`"
+   ],
+   "links_to": [
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/tear-bag-makeup.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md"
+   ],
+   "linked_from": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/tear-bag-makeup.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/makeup/winged-eyeliner",
+   "path": "atlas/makeup/winged-eyeliner.md",
+   "type": "Visual Element",
+   "title": "上挑眼线（Sharp Winged Eyeliner）",
+   "description": "向外上挑的锐利粗眼线，眼尾明显拉长，是视觉系眼妆的核心结构，制造锐利与攻击性。",
+   "tags": [
+    "visual-kei",
+    "makeup",
+    "eye",
+    "eyeliner",
+    "core"
+   ],
+   "status": "stable",
+   "one_liner": "眼线不是\"强调眼睛轮廓\"的辅助，而是重构眼形的主要工具——",
+   "keywords": [
+    "`sharp winged eyeliner",
+    "dramatic upward eyeliner",
+    "elongated outer eye corner",
+    "thick black",
+    "cat-eye liner",
+    "angular sharp eyeliner flick",
+    "exaggerated elongated eyes",
+    "heavy upper lash line",
+    "gothic eye makeup",
+    "dramatic theatrical eye design",
+    "precise graphic eyeliner`"
+   ],
+   "links_to": [
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/tear-bag-makeup.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md"
+   ],
+   "linked_from": [
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/tear-bag-makeup.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/material/denim-wash",
+   "path": "atlas/material/denim-wash.md",
+   "type": "Visual Element",
+   "title": "牛仔与洗水（Denim Wash）",
+   "description": "不同洗水、做旧与装饰的牛仔布，Y2K 下装核心面料。",
+   "tags": [
+    "y2k",
+    "material",
+    "fabric",
+    "denim"
+   ],
+   "status": "stable",
+   "one_liner": "denim, bleached / faded / stone-wash, distressed frayed denim, bedazzled pockets, light-wash",
+   "keywords": [
+    "`denim",
+    "bleached / faded / stone-wash",
+    "distressed frayed denim",
+    "bedazzled pockets",
+    "light-wash",
+    "jeans",
+    "Y2K denim texture`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-grunge-glam.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/material/gold-lame",
+   "path": "atlas/material/gold-lame.md",
+   "type": "Visual Element",
+   "title": "金葱面料（Gold Lamé）",
+   "description": "含金属细线、呈现金/银/古铜闪光的织物，暖调与舞台造型常用。",
+   "tags": [
+    "y2k",
+    "material",
+    "fabric",
+    "metal"
+   ],
+   "status": "stable",
+   "one_liner": "gold lame fabric, metallic thread cloth, glittering bronze / silver textile, shimmering woven",
+   "keywords": [
+    "`gold lame fabric",
+    "metallic thread cloth",
+    "glittering bronze / silver textile",
+    "shimmering woven",
+    "metal",
+    "sparkly lamé",
+    "Y2K disco fabric`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/color/warm-dv-bronze-palette.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/material/lace-and-tulle",
+   "path": "atlas/material/lace-and-tulle.md",
+   "type": "Visual Element",
+   "title": "蕾丝与网纱（Lace and Tulle）",
+   "description": "半透的蕾丝与网纱面料，制造繁复、脆弱、贵族式的华丽感，是 Angura 与哥特系视觉系的材质核心。",
+   "tags": [
+    "visual-kei",
+    "material",
+    "lace",
+    "gothic",
+    "angura"
+   ],
+   "status": "stable",
+   "one_liner": "它们的共同特征是半透明——覆盖在皮肤或其它面料之上，让下层隐约可见。",
+   "keywords": [
+    "`black lace fabric",
+    "intricate lace detailing",
+    "sheer tulle overlay",
+    "layered lace and mesh",
+    "semi-transparent fabric",
+    "ornate lace trim",
+    "ruffled lace edges",
+    "gothic lace sleeves",
+    "delicate",
+    "see-through mesh",
+    "layered black tulle skirt",
+    "victorian lace",
+    "gossamer fabric",
+    "fine netting`"
+   ],
+   "links_to": [
+    "atlas/material/leather-and-hardware.md",
+    "atlas/material/satin-velvet.md",
+    "atlas/material/sheer-mesh.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/wardrobe/black-tailored-suit.md"
+   ],
+   "linked_from": [
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/material/satin-velvet.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/material/leather-and-hardware",
+   "path": "atlas/material/leather-and-hardware.md",
+   "type": "Visual Element",
+   "title": "皮革与金属件（Leather and Hardware）",
+   "description": "黑色皮革与银/铬金属五金件的组合，提供硬质、冷峻、有攻击性的质感对比，是视觉系的\"骨架\"材质。",
+   "tags": [
+    "visual-kei",
+    "material",
+    "leather",
+    "metal",
+    "hardware"
+   ],
+   "status": "stable",
+   "one_liner": "的组合使用。它们为视觉系造型提供硬度——与蕾丝的柔软脆弱形成对比，",
+   "keywords": [
+    "`black leather",
+    "glossy patent leather",
+    "leather straps and buckles",
+    "silver metal hardware",
+    "chrome studs and spikes",
+    "metal chains",
+    "industrial zippers",
+    "black nickel hardware",
+    "punk",
+    "leather harness",
+    "leather gloves",
+    "studded collar",
+    "heavy metal detailing",
+    "hard-edged material`"
+   ],
+   "links_to": [
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/pvc-vinyl.md",
+    "atlas/material/satin-velvet.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md",
+    "atlas/wardrobe/black-tailored-suit.md"
+   ],
+   "linked_from": [
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/satin-velvet.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/material/liquid-chrome",
+   "path": "atlas/material/liquid-chrome.md",
+   "type": "Visual Element",
+   "title": "液态铬（Liquid Chrome）",
+   "description": "像水银一样流动、镜面反射的金属表面，Cyber Metal 的核心材质。",
+   "tags": [
+    "y2k",
+    "material",
+    "metal"
+   ],
+   "status": "stable",
+   "one_liner": "liquid chrome, molten metal, mirror-polished silver, mercury-like flowing surface, high reflective",
+   "keywords": [
+    "`liquid chrome",
+    "molten metal",
+    "mirror-polished silver",
+    "mercury-like flowing surface",
+    "high reflective",
+    "chrome",
+    "distorted reflections",
+    "inflatable metal forms",
+    "cyber Y2K`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/mood/cold-futuristic.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/material/pvc-vinyl",
+   "path": "atlas/material/pvc-vinyl.md",
+   "type": "Visual Element",
+   "title": "PVC / 乙烯基（PVC / Vinyl）",
+   "description": "光滑亮面、可透视的合成材料，反光强烈，未来感与性感并存。",
+   "tags": [
+    "y2k",
+    "material",
+    "synthetic"
+   ],
+   "status": "stable",
+   "one_liner": "PVC, vinyl, glossy patent synthetic, shiny plastic, latex-look, reflective smooth surface, clear",
+   "keywords": [
+    "`PVC",
+    "vinyl",
+    "glossy patent synthetic",
+    "shiny plastic",
+    "latex-look",
+    "reflective smooth surface",
+    "clear",
+    "vinyl",
+    "cyber slick",
+    "Y2K`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/material/leather-and-hardware.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/material/satin-velvet",
+   "path": "atlas/material/satin-velvet.md",
+   "type": "Visual Element",
+   "title": "缎面与天鹅绒（Satin and Velvet）",
+   "description": "缎面的流动光泽与天鹅绒的深邃吸光，为视觉系提供\"华美腐败\"的高阶质感对比。",
+   "tags": [
+    "visual-kei",
+    "material",
+    "satin",
+    "velvet",
+    "luxurious"
+   ],
+   "status": "stable",
+   "one_liner": "两者经常组合使用，因为它们在光下形成完美对比：缎面抓光，天鹅绒吃光。",
+   "keywords": [
+    "`smooth satin fabric with liquid sheen",
+    "glossy satin drape",
+    "deep black velvet",
+    "plush velvet",
+    "texture",
+    "light-absorbing velvet",
+    "luxurious velvet and satin",
+    "iridescent satin folds",
+    "crimson",
+    "velvet",
+    "velvet with soft nap",
+    "rich lustrous fabric",
+    "vintage velvet sheen",
+    "elegant heavy fabric`"
+   ],
+   "links_to": [
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md"
+   ],
+   "linked_from": [
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/material/sequins-beading",
+   "path": "atlas/material/sequins-beading.md",
+   "type": "Visual Element",
+   "title": "亮片 / 珠饰 / 水钻（Sequins & Beading）",
+   "description": "满幅缝缀的亮片、珠串与切面水钻，产生密集闪烁高光。",
+   "tags": [
+    "y2k",
+    "material",
+    "embellishment"
+   ],
+   "status": "stable",
+   "one_liner": "sequins, beadwork, rhinestone encrusting, sparkling embellishment, glittering scales, faceted",
+   "keywords": [
+    "`sequins",
+    "beadwork",
+    "rhinestone encrusting",
+    "sparkling embellishment",
+    "glittering scales",
+    "faceted",
+    "crystals",
+    "all-over shimmer",
+    "Y2K glamour`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/material/sheer-mesh",
+   "path": "atlas/material/sheer-mesh.md",
+   "type": "Visual Element",
+   "title": "薄纱 / 渔网（Sheer Mesh）",
+   "description": "透视网纱、渔网袜与网眼面料，叠穿与 Grunge 风格常用。",
+   "tags": [
+    "y2k",
+    "material",
+    "fabric",
+    "sheer"
+   ],
+   "status": "stable",
+   "one_liner": "sheer mesh, fishnet, tulle, netting, translucent fabric, see-through layering, open-work, Y2K",
+   "keywords": [
+    "`sheer mesh",
+    "fishnet",
+    "tulle",
+    "netting",
+    "translucent fabric",
+    "see-through layering",
+    "open-work",
+    "Y2K`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/material/lace-and-tulle.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/material/velour",
+   "path": "atlas/material/velour.md",
+   "type": "Visual Element",
+   "title": "丝绒 / 天鹅绒（Velour / Velvet）",
+   "description": "柔软、短绒、带柔和漫反射光泽的面料，运动套装与礼服皆用。",
+   "tags": [
+    "y2k",
+    "material",
+    "fabric"
+   ],
+   "status": "stable",
+   "one_liner": "velour, velvet, plush short-pile fabric, soft sheen, rich drape, velvety texture, Y2K tracksuit",
+   "keywords": [
+    "`velour",
+    "velvet",
+    "plush short-pile fabric",
+    "soft sheen",
+    "rich drape",
+    "velvety texture",
+    "Y2K tracksuit`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/mood/cold-futuristic",
+   "path": "atlas/mood/cold-futuristic.md",
+   "type": "Visual Element",
+   "title": "冷冽未来（Cold & Futuristic）",
+   "description": "疏离、克制、无机质的科技冷感，Cyber Metal 的情绪。",
+   "tags": [
+    "y2k",
+    "mood"
+   ],
+   "status": "stable",
+   "one_liner": "疏离、克制、无机质的科技冷感，Cyber Metal 的情绪。",
+   "keywords": [
+    "`cold",
+    "futuristic",
+    "detached",
+    "sleek",
+    "sterile",
+    "android-like",
+    "minimalist",
+    "sharp",
+    "icy",
+    "controlled`"
+   ],
+   "links_to": [
+    "atlas/color/chrome-cool-palette.md",
+    "atlas/material/liquid-chrome.md",
+    "atlas/motion/slow-orbit.md"
+   ],
+   "linked_from": [
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/setting/dark-stage.md",
+    "recipes/visual-kei-kote-cold-black.md"
+   ]
+  },
+  {
+   "id": "atlas/mood/nostalgic-bittersweet",
+   "path": "atlas/mood/nostalgic-bittersweet.md",
+   "type": "Visual Element",
+   "title": "怀旧微苦（Nostalgic & Bittersweet）",
+   "description": "对逝去时光的温柔怀念，甜里带一点怅然，老 DV 与夕阳的情绪底色。",
+   "tags": [
+    "y2k",
+    "mood"
+   ],
+   "status": "stable",
+   "one_liner": "对逝去时光的温柔怀念，甜里带一点怅然，老 DV 与夕阳的情绪底色。",
+   "keywords": [
+    "`nostalgic",
+    "bittersweet",
+    "wistful",
+    "tender",
+    "hazy memory",
+    "golden reminiscence",
+    "softly melancholic`"
+   ],
+   "links_to": [
+    "atlas/color/warm-dv-bronze-palette.md",
+    "atlas/grade/vhs-dv-texture.md",
+    "atlas/motion/handheld-sway.md"
+   ],
+   "linked_from": [
+    "atlas/hair/eye-covering-bangs.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/mood/playful-bubbly",
+   "path": "atlas/mood/playful-bubbly.md",
+   "type": "Visual Element",
+   "title": "俏皮元气（Playful & Bubbly）",
+   "description": "明亮、自信、停不下来的少女活力，甜辣偶像的情绪。",
+   "tags": [
+    "y2k",
+    "mood"
+   ],
+   "status": "stable",
+   "one_liner": "明亮、自信、停不下来的少女活力，甜辣偶像的情绪。",
+   "keywords": [
+    "`playful",
+    "bubbly",
+    "cheerful",
+    "energetic",
+    "cheeky",
+    "fun",
+    "sparkling",
+    "lively",
+    "carefree",
+    "cute`"
+   ],
+   "links_to": [
+    "atlas/color/index.md",
+    "atlas/motion/dance-routine.md",
+    "atlas/motion/fast-montage.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/mood/rebellious-angsty",
+   "path": "atlas/mood/rebellious-angsty.md",
+   "type": "Visual Element",
+   "title": "叛逆有攻击性（Rebellious & Angsty）",
+   "description": "慵懒、不屑、带一点愤怒的酷，Grunge Glam 的情绪。",
+   "tags": [
+    "y2k",
+    "mood"
+   ],
+   "status": "stable",
+   "one_liner": "慵懒、不屑、带一点愤怒的酷，Grunge Glam 的情绪。",
+   "keywords": [
+    "`rebellious",
+    "angsty",
+    "gritty",
+    "defiant",
+    "lazy cool",
+    "edgy",
+    "punk attitude",
+    "nonchalant",
+    "fierce`"
+   ],
+   "links_to": [
+    "atlas/grade/film-grain.md",
+    "atlas/motion/handheld-sway.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md"
+   ],
+   "linked_from": [
+    "atlas/setting/dark-stage.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/candid-laugh",
+   "path": "atlas/motion/candid-laugh.md",
+   "type": "Motion Element",
+   "title": "抓拍说笑（Candid Laugh & Talk）",
+   "description": "像没注意到镜头一样自然说笑、捂嘴、歪头，DV 真实感的核心表演。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "像没注意到镜头一样自然说笑、捂嘴、歪头，DV 真实感的核心表演。",
+   "keywords": [
+    "`candid laughter",
+    "natural talking and giggling",
+    "hand covering mouth",
+    "unposed spontaneousreaction",
+    "looking away then back",
+    "documentary-style performance`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/motion/handheld-sway.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/dance-routine",
+   "path": "atlas/motion/dance-routine.md",
+   "type": "Motion Element",
+   "title": "舞蹈律动（Dance / Groove）",
+   "description": "随节拍起舞或上半身律动，偶像与派对场景的高能动作。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "随节拍起舞或上半身律动，偶像与派对场景的高能动作。",
+   "keywords": [
+    "`dancing",
+    "choreographed routine",
+    "grooving to the beat",
+    "rhythmic arm moves",
+    "spin and jump",
+    "idoldance",
+    "party energy`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/mood/playful-bubbly.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/datamosh",
+   "path": "atlas/motion/datamosh.md",
+   "type": "Motion Element",
+   "title": "数据 Moshing（Datamosh）",
+   "description": "利用视频压缩错误产生的画面融化、拖尾与撕裂，数字破坏美学。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "利用视频压缩错误产生的画面融化、拖尾与撕裂，数字破坏美学。",
+   "keywords": [
+    "`datamosh",
+    "compression-artifact melting",
+    "pixel bleeding",
+    "frame glitch",
+    "digital corruption",
+    "motion-vector smear",
+    "broken video aesthetic`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/dolly-tracking",
+   "path": "atlas/motion/dolly-tracking.md",
+   "type": "Motion Element",
+   "title": "跟拍平移（Dolly / Tracking）",
+   "description": "镜头平滑横向移动或跟随主体行进，稳定流畅，电影感。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "镜头平滑横向移动或跟随主体行进，稳定流畅，电影感。",
+   "keywords": [
+    "`smooth tracking shot",
+    "lateral dolly",
+    "follow shot",
+    "gliding camera",
+    "parallax background",
+    "steadycinematic move`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/dutch-drift",
+   "path": "atlas/motion/dutch-drift.md",
+   "type": "Motion Element",
+   "title": "斜角漂移（Dutch Drift）",
+   "description": "倾斜构图并缓慢漂移，制造不安、迷幻或先锋时尚感。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "倾斜构图并缓慢漂移，制造不安、迷幻或先锋时尚感。",
+   "keywords": [
+    "`dutch angle",
+    "tilted horizon",
+    "slow drifting camera",
+    "off-kilter framing",
+    "disorienting dreamliketilt",
+    "avant-garde fashion move`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/fast-montage",
+   "path": "atlas/motion/fast-montage.md",
+   "type": "Motion Element",
+   "title": "快切高能（Fast Montage）",
+   "description": "短镜头快速组接、信息密集、节奏强烈，适合高能与潮流内容。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "短镜头快速组接、信息密集、节奏强烈，适合高能与潮流内容。",
+   "keywords": [
+    "`fast montage",
+    "rapid cuts",
+    "quick shot sequence",
+    "high energy",
+    "beat-synced editing",
+    "dynamicmulti-angle",
+    "snappy pacing`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/mood/playful-bubbly.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/flash-frame",
+   "path": "atlas/motion/flash-frame.md",
+   "type": "Motion Element",
+   "title": "闪白/遮挡转场（Flash Frame）",
+   "description": "用闪白、闪光灯、物体掠过遮挡完成切换，干脆且有节奏。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "用闪白、闪光灯、物体掠过遮挡完成切换，干脆且有节奏。",
+   "keywords": [
+    "`flash-frame transition",
+    "white flash cut",
+    "flash-bulb switch",
+    "whip pan",
+    "object passing lens",
+    "match cut on motion`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/floating-particles",
+   "path": "atlas/motion/floating-particles.md",
+   "type": "Motion Element",
+   "title": "漂浮粒子（Floating Particles）",
+   "description": "空气中漂浮的尘埃、亮片、光点或泡泡，在光下闪烁，增强梦幻层次。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "空气中漂浮的尘埃、亮片、光点或泡泡，在光下闪烁，增强梦幻层次。",
+   "keywords": [
+    "`floating dust particles",
+    "glitter motes drifting in light",
+    "glowing specks",
+    "bubbles",
+    "bokeh dots",
+    "sparkling air",
+    "dreamy suspended particles`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/frame-blend-ghost",
+   "path": "atlas/motion/frame-blend-ghost.md",
+   "type": "Motion Element",
+   "title": "拖影/动态模糊（Frame-Blend Ghost）",
+   "description": "帧混合产生的重影、拖尾与慢速快门模糊，梦幻或迷幻。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "帧混合产生的重影、拖尾与慢速快门模糊，梦幻或迷幻。",
+   "keywords": [
+    "`frame blending",
+    "ghosting afterimages",
+    "motion trails",
+    "slow-shutter motion blur",
+    "smeared lighttrails",
+    "dreamy echo frames`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/glitch-cut",
+   "path": "atlas/motion/glitch-cut.md",
+   "type": "Motion Element",
+   "title": "故障转场（Glitch Cut）",
+   "description": "以数字故障、画面撕裂或信号中断完成镜头切换，Retro-Future 标志。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "以数字故障、画面撕裂或信号中断完成镜头切换，Retro-Future 标志。",
+   "keywords": [
+    "`glitch transition",
+    "digital distortion cut",
+    "frame tearing",
+    "signal break",
+    "blocky compressionerror",
+    "RGB split switch",
+    "datamosh transition`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/hair-flip-turn",
+   "path": "atlas/motion/hair-flip-turn.md",
+   "type": "Motion Element",
+   "title": "撩发回眸（Hair Flip & Turn）",
+   "description": "主体撩起头发或回头看向镜头，发丝甩出弧线，是 MV 最经典的人物动作。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "主体撩起头发或回头看向镜头，发丝甩出弧线，是 MV 最经典的人物动作。",
+   "keywords": [
+    "`hair flip",
+    "tossing hair back",
+    "looking back over shoulder",
+    "hair swinging in arc",
+    "slow-motionflying strands",
+    "turning to camera",
+    "idol MV move`"
+   ],
+   "links_to": [
+    "atlas/motion/wind-hair-fabric.md",
+    "atlas/wardrobe/index.md"
+   ],
+   "linked_from": [
+    "atlas/motion/stage-performance-motion.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/handheld-sway",
+   "path": "atlas/motion/handheld-sway.md",
+   "type": "Motion Element",
+   "title": "手持浮动（Handheld Sway）",
+   "description": "模仿手持摄像机的轻微晃动与呼吸感，像真实在场的抓拍，DV 风格核心运镜。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "模仿手持摄像机的轻微晃动与呼吸感，像真实在场的抓拍，DV 风格核心运镜。",
+   "keywords": [
+    "`subtle handheld camera sway",
+    "organic breathing shake",
+    "candid camcorder feel",
+    "slight unsteadydrift",
+    "home-video handheld",
+    "gentle wobble`"
+   ],
+   "links_to": [
+    "atlas/grade/vhs-dv-texture.md",
+    "atlas/motion/candid-laugh.md"
+   ],
+   "linked_from": [
+    "atlas/mood/nostalgic-bittersweet.md",
+    "atlas/mood/rebellious-angsty.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/light-sweep",
+   "path": "atlas/motion/light-sweep.md",
+   "type": "Motion Element",
+   "title": "光流扫过（Light Sweep）",
+   "description": "光斑、反射或霓虹色彩在画面与人物表面缓慢流动。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "光斑、反射或霓虹色彩在画面与人物表面缓慢流动。",
+   "keywords": [
+    "`light sweep",
+    "reflections gliding across chrome and sequins",
+    "colored neon glow passing over face",
+    "moving specular highlights",
+    "shimmer flow`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/slow-dream",
+   "path": "atlas/motion/slow-dream.md",
+   "type": "Motion Element",
+   "title": "慢速梦幻（Slow Dream Pacing）",
+   "description": "长镜头、慢动作、留白与舒缓节奏，让观众沉浸在氛围里。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "长镜头、慢动作、留白与舒缓节奏，让观众沉浸在氛围里。",
+   "keywords": [
+    "`slow dreamlike pacing",
+    "long take",
+    "slow motion",
+    "lingering shots",
+    "minimal cuts",
+    "hypnotic andflowing",
+    "contemplative`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/slow-orbit",
+   "path": "atlas/motion/slow-orbit.md",
+   "type": "Motion Element",
+   "title": "缓慢环绕（Slow Orbit）",
+   "description": "镜头围绕主体缓慢弧形环绕，展示立体感与闪亮轮廓。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "镜头围绕主体缓慢弧形环绕，展示立体感与闪亮轮廓。",
+   "keywords": [
+    "`slow orbit",
+    "gentle arc around subject",
+    "circling camera",
+    "180 / 360 slow move",
+    "rim light sweepingacross face",
+    "dreamy rotation`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/mood/cold-futuristic.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/slow-push-in",
+   "path": "atlas/motion/slow-push-in.md",
+   "type": "Motion Element",
+   "title": "缓慢推进（Slow Push-In）",
+   "description": "镜头向主体极缓慢推近，制造凝视、沉浸与情绪收紧。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "镜头向主体极缓慢推近，制造凝视、沉浸与情绪收紧。",
+   "keywords": [
+    "`slow push-in",
+    "slow dolly forward",
+    "gradual move toward subject",
+    "creeping zoom-in",
+    "steady anddeliberate",
+    "intimate approach`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/stage-performance-motion",
+   "path": "atlas/motion/stage-performance-motion.md",
+   "type": "Motion Element",
+   "title": "舞台表演动态（Stage Performance Motion）",
+   "description": "视觉系的视频动态语汇——甩头、抬手、转身、布料飞扬等带有强烈表演性的动作。",
+   "tags": [
+    "visual-kei",
+    "motion",
+    "performance",
+    "video",
+    "stage"
+   ],
+   "status": "stable",
+   "one_liner": "每一个动作都被放大、节拍化、有明确起止，服务于\"被观看\"这件事。",
+   "keywords": [],
+   "links_to": [
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/motion/hair-flip-turn.md",
+    "atlas/motion/wind-hair-fabric.md",
+    "atlas/wardrobe/black-tailored-suit.md"
+   ],
+   "linked_from": [
+    "atlas/setting/dark-stage.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/strobe",
+   "path": "atlas/motion/strobe.md",
+   "type": "Motion Element",
+   "title": "频闪（Strobe Flash）",
+   "description": "高频明暗闪烁或闪光灯连打，制造强烈节奏与冲击。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "高频明暗闪烁或闪光灯连打，制造强烈节奏与冲击。",
+   "keywords": [
+    "`strobe effect",
+    "rapid flashing",
+    "stutter-cut black frames",
+    "machine-gun flash",
+    "high-frequencyflicker",
+    "beat strobe`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/tape-tracking",
+   "path": "atlas/motion/tape-tracking.md",
+   "type": "Motion Element",
+   "title": "磁带跟踪故障（Tape Tracking）",
+   "description": "VHS 磁迹错位产生的横向条纹、画面滚动与丢帧。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "VHS 磁迹错位产生的横向条纹、画面滚动与丢帧。",
+   "keywords": [
+    "`VHS tracking error",
+    "horizontal tracking bars",
+    "picture roll",
+    "dropped frames",
+    "static noise band",
+    "tape distortion",
+    "analog malfunction`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/walk-toward",
+   "path": "atlas/motion/walk-toward.md",
+   "type": "Motion Element",
+   "title": "走向镜头（Walk Toward Camera）",
+   "description": "主体迎面走来，步伐自信，背景后退，强势且有气场。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "主体迎面走来，步伐自信，背景后退，强势且有气场。",
+   "keywords": [
+    "`walking confidently toward camera",
+    "approaching stride",
+    "eyes locked on lens",
+    "background movingpast",
+    "model walk",
+    "slight sway`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/whip-zoom",
+   "path": "atlas/motion/whip-zoom.md",
+   "type": "Motion Element",
+   "title": "急推变焦（Whip Zoom）",
+   "description": "千禧 DV 标志性的突然数码变焦，快速推近脸部或细节，带粗糙与即兴感。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "千禧 DV 标志性的突然数码变焦，快速推近脸部或细节，带粗糙与即兴感。",
+   "keywords": [
+    "`sudden whip zoom",
+    "quick digital zoom punch-in",
+    "fast push to face",
+    "camcorder zoom snap",
+    "abruptfocus pull",
+    "energetic Y2K home-video zoom`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/motion/wind-hair-fabric",
+   "path": "atlas/motion/wind-hair-fabric.md",
+   "type": "Motion Element",
+   "title": "风吹头发与衣物（Wind Motion）",
+   "description": "微风或风扇吹动发丝、开衫、薄纱与配饰，让画面「活」起来。",
+   "tags": [
+    "y2k",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "微风或风扇吹动发丝、开衫、薄纱与配饰，让画面「活」起来。",
+   "keywords": [
+    "`gentle wind blowing hair and fabric",
+    "strands drifting",
+    "cardigan and sheer layers fluttering",
+    "earrings and chains swaying",
+    "soft breeze",
+    "natural airy motion`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/motion/hair-flip-turn.md",
+    "atlas/motion/stage-performance-motion.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/band-posters",
+   "path": "atlas/setting/band-posters.md",
+   "type": "Visual Element",
+   "title": "海报墙（Band / Idol Posters）",
+   "description": "密集张贴的明星、乐队、动漫海报与杂志页，是年代审美的直接证据。",
+   "tags": [
+    "y2k",
+    "setting",
+    "dressing"
+   ],
+   "status": "stable",
+   "one_liner": "walls plastered with band / idol / anime posters, magazine tear-sheets, taped pages, collage wall,",
+   "keywords": [
+    "`walls plastered with band / idol / anime posters",
+    "magazine tear-sheets",
+    "taped pages",
+    "collage wall",
+    "early-2000s teen icons`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/setting/poster-bedroom.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/beach-poolside",
+   "path": "atlas/setting/beach-poolside.md",
+   "type": "Visual Element",
+   "title": "泳池 / 沙滩（Beach / Poolside）",
+   "description": "古铜阳光、湿润皮肤与水面反光的度假场景，适合身体高光与亮色泳装。",
+   "tags": [
+    "y2k",
+    "setting",
+    "environment"
+   ],
+   "status": "stable",
+   "one_liner": "poolside / beach, turquoise water, inflatable ring, sun glare, wet skin highlights, palm trees,",
+   "keywords": [
+    "`poolside / beach",
+    "turquoise water",
+    "inflatable ring",
+    "sun glare",
+    "wet skin highlights",
+    "palm trees",
+    "bronze sunlight",
+    "sparkling water reflections",
+    "Y2K summer`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/cd-player",
+   "path": "atlas/setting/cd-player.md",
+   "type": "Visual Element",
+   "title": "CD / MD 随身听（CD Player）",
+   "description": "Discman、MD 随身听、光盘与有线耳机，千禧年移动音乐符号。",
+   "tags": [
+    "y2k",
+    "setting",
+    "prop"
+   ],
+   "status": "stable",
+   "one_liner": "portable CD player , MiniDisc player, compact disc, iridescent CD surface, wired",
+   "keywords": [
+    "`portable CD player (Discman)",
+    "MiniDisc player",
+    "compact disc",
+    "iridescent CD surface",
+    "wired",
+    "earphones",
+    "Y2K music gadget`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/dark-stage",
+   "path": "atlas/setting/dark-stage.md",
+   "type": "Visual Element",
+   "title": "视觉系场景：空旷舞台与暗厅（Empty Stage & Dark Hall）",
+   "description": "视觉系影像的典型环境——聚光灯下的空舞台、老旧洋馆、暗色室内，强调孤立与非日常。",
+   "tags": [
+    "visual-kei",
+    "setting",
+    "stage",
+    "dark",
+    "theatrical"
+   ],
+   "status": "stable",
+   "one_liner": "视觉系的场景选择遵循一条原则：环境必须强化人物的\"非日常性\"。",
+   "keywords": [
+    "`empty stage with single spotlight",
+    "dark hall",
+    "pure black studio backdrop",
+    "abandoned",
+    "theatre",
+    "old mansion interior",
+    "cathedral ruins",
+    "moody rehearsal room",
+    "rain-soaked night",
+    "street with wet reflections",
+    "rose garden in dim light",
+    "theatrical backstage with mirror",
+    "and bulbs",
+    "smoke and haze in the air",
+    "floating dust particles",
+    "isolated figure",
+    "dramatic",
+    "environment",
+    "minimal background",
+    "atmospheric depth`"
+   ],
+   "links_to": [
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/mood/cold-futuristic.md",
+    "atlas/mood/rebellious-angsty.md",
+    "atlas/motion/stage-performance-motion.md",
+    "atlas/setting/poster-bedroom.md"
+   ],
+   "linked_from": [
+    "recipes/visual-kei-kote-cold-black.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/desktop-crt",
+   "path": "atlas/setting/desktop-crt.md",
+   "type": "Visual Element",
+   "title": "台式电脑 + CRT（Desktop CRT Computer）",
+   "description": "米白色机箱、CRT 大屁股显示器、机械键盘、拨号上网的千禧桌面。",
+   "tags": [
+    "y2k",
+    "setting",
+    "prop"
+   ],
+   "status": "stable",
+   "one_liner": "beige CRT desktop computer, bulky monitor, mechanical keyboard, dial-up, windows 98 / 2000 UI,",
+   "keywords": [
+    "`beige CRT desktop computer",
+    "bulky monitor",
+    "mechanical keyboard",
+    "dial-up",
+    "windows 98 / 2000 UI",
+    "screen glow",
+    "Y2K computer desk`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/setting/poster-bedroom.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/fairy-lights",
+   "path": "atlas/setting/fairy-lights.md",
+   "type": "Visual Element",
+   "title": "串灯 / 霓虹灯牌（Fairy Lights）",
+   "description": "缠绕的小灯泡串或小型霓虹灯牌，制造点状暖色光源。",
+   "tags": [
+    "y2k",
+    "setting",
+    "dressing"
+   ],
+   "status": "stable",
+   "one_liner": "fairy string lights, mini bulb garland, small neon sign, twinkling warm dots, Y2K ambient decor",
+   "keywords": [
+    "`fairy string lights",
+    "mini bulb garland",
+    "small neon sign",
+    "twinkling warm dots",
+    "Y2K ambient decor`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/flip-phone",
+   "path": "atlas/setting/flip-phone.md",
+   "type": "Visual Element",
+   "title": "翻盖手机（Flip Phone）",
+   "description": "千禧年标志性的折叠/滑盖小手机，彩色外壳、天线、小外屏。",
+   "tags": [
+    "y2k",
+    "setting",
+    "prop"
+   ],
+   "status": "stable",
+   "one_liner": "flip phone, early-2000s clamshell mobile, colorful / rhinestoned casing, antenna, keypad, phone",
+   "keywords": [
+    "`flip phone",
+    "early-2000s clamshell mobile",
+    "colorful / rhinestoned casing",
+    "antenna",
+    "keypad",
+    "phone",
+    "charms",
+    "Y2K technology`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/instant-camera",
+   "path": "atlas/setting/instant-camera.md",
+   "type": "Visual Element",
+   "title": "拍立得 / 傻瓜机（Instant Camera）",
+   "description": "即时成像相机或胶片傻瓜机，闪光灯、彩色塑料机身。",
+   "tags": [
+    "y2k",
+    "setting",
+    "prop"
+   ],
+   "status": "stable",
+   "one_liner": "instant film camera, polaroid-style, disposable point-and-shoot, built-in flash, colorful plastic",
+   "keywords": [
+    "`instant film camera",
+    "polaroid-style",
+    "disposable point-and-shoot",
+    "built-in flash",
+    "colorful plastic",
+    "body",
+    "Y2K camera`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/lava-lamp",
+   "path": "atlas/setting/lava-lamp.md",
+   "type": "Visual Element",
+   "title": "熔岩灯（Lava Lamp）",
+   "description": "玻璃容器内缓慢变形的彩色蜡团，迷幻柔光。",
+   "tags": [
+    "y2k",
+    "setting",
+    "dressing"
+   ],
+   "status": "stable",
+   "one_liner": "lava lamp, flowing wax blobs, soft psychedelic glow, warm night light, Y2K room",
+   "keywords": [
+    "`lava lamp",
+    "flowing wax blobs",
+    "soft psychedelic glow",
+    "warm night light",
+    "Y2K room`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/mall-arcade",
+   "path": "atlas/setting/mall-arcade.md",
+   "type": "Visual Element",
+   "title": "商场 / 游戏厅（Mall / Arcade）",
+   "description": "千禧年购物中心、游戏厅或大头贴馆，霓虹、自动扶梯、游戏机与店铺招牌。",
+   "tags": [
+    "y2k",
+    "setting",
+    "environment"
+   ],
+   "status": "stable",
+   "one_liner": "early-2000s shopping mall, arcade hall, neon signs, escalator, claw machines, purikura booth,",
+   "keywords": [
+    "`early-2000s shopping mall",
+    "arcade hall",
+    "neon signs",
+    "escalator",
+    "claw machines",
+    "purikura booth",
+    "shiny floors",
+    "colorful ambient light",
+    "nostalgic consumerism",
+    "Y2K`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/pink-bathroom",
+   "path": "atlas/setting/pink-bathroom.md",
+   "type": "Visual Element",
+   "title": "粉色浴室（Pink Bathroom）",
+   "description": "粉/彩色瓷砖、陶瓷浴缸与镜面的复古浴室，闪光灯下有强烈千禧写真感。",
+   "tags": [
+    "y2k",
+    "setting",
+    "environment"
+   ],
+   "status": "stable",
+   "one_liner": "pink tiled bathroom, retro pastel ceramic, bathtub, large mirror, flash reflection on tile,",
+   "keywords": [
+    "`pink tiled bathroom",
+    "retro pastel ceramic",
+    "bathtub",
+    "large mirror",
+    "flash reflection on tile",
+    "glossy surfaces",
+    "Y2K photoshoot bathroom`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/plushies",
+   "path": "atlas/setting/plushies.md",
+   "type": "Visual Element",
+   "title": "毛绒玩具（Plushies / Beanie Babies）",
+   "description": "床上与架子上的毛绒玩偶、Beanie Babies 豆豆娃，增添私密少女感。",
+   "tags": [
+    "y2k",
+    "setting",
+    "dressing"
+   ],
+   "status": "stable",
+   "one_liner": "plush toys, beanie babies, stuffed animals piled on bed, cute collectibles, Y2K bedroom",
+   "keywords": [
+    "`plush toys",
+    "beanie babies",
+    "stuffed animals piled on bed",
+    "cute collectibles",
+    "Y2K bedroom`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/setting/poster-bedroom.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/poster-bedroom",
+   "path": "atlas/setting/poster-bedroom.md",
+   "type": "Visual Element",
+   "title": "千禧卧室（Poster-Covered Bedroom）",
+   "description": "贴满海报、堆满私物的少女卧室，是 Y2K 人物向创作最私密、信息量最丰富的场景。",
+   "tags": [
+    "y2k",
+    "setting",
+    "environment"
+   ],
+   "status": "stable",
+   "one_liner": "early-2000s teenage bedroom, walls covered in band and idol posters, magazine clippings, single",
+   "keywords": [
+    "`early-2000s teenage bedroom",
+    "walls covered in band and idol posters",
+    "magazine clippings",
+    "single",
+    "bed with patterned bedding",
+    "CRT desktop computer",
+    "vanity mirror",
+    "plush toys",
+    "CD tower",
+    "lava lamp",
+    "fairy lights",
+    "cluttered cozy",
+    "warm desk-lamp glow",
+    "Y2K personal space`"
+   ],
+   "links_to": [
+    "atlas/setting/band-posters.md",
+    "atlas/setting/desktop-crt.md",
+    "atlas/setting/plushies.md",
+    "atlas/subject/poses.md"
+   ],
+   "linked_from": [
+    "atlas/setting/dark-stage.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/sunset-parking-lot",
+   "path": "atlas/setting/sunset-parking-lot.md",
+   "type": "Visual Element",
+   "title": "黄昏停车场/天台（Sunset Parking Lot）",
+   "description": "露天停车场、天台或空旷街道在橙粉夕阳下的场景，逆光、长阴影、电影感。",
+   "tags": [
+    "y2k",
+    "setting",
+    "environment"
+   ],
+   "status": "stable",
+   "one_liner": "sunset parking lot / rooftop, orange-pink golden-hour light, long shadows, backlit silhouette,",
+   "keywords": [
+    "`sunset parking lot / rooftop",
+    "orange-pink golden-hour light",
+    "long shadows",
+    "backlit silhouette",
+    "asphalt",
+    "chain-link fence",
+    "gradient sky",
+    "cinematic Y2K`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/tamagotchi",
+   "path": "atlas/setting/tamagotchi.md",
+   "type": "Visual Element",
+   "title": "电子宠物（Tamagotchi）",
+   "description": "蛋形掌上电子宠物机，挂绳、小液晶屏与按键。",
+   "tags": [
+    "y2k",
+    "setting",
+    "prop"
+   ],
+   "status": "stable",
+   "one_liner": "tamagotchi, virtual pet keychain toy, egg-shaped handheld, tiny pixel screen, Y2K gadget",
+   "keywords": [
+    "`tamagotchi",
+    "virtual pet keychain toy",
+    "egg-shaped handheld",
+    "tiny pixel screen",
+    "Y2K gadget`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/character-archetypes/androgynous-performer",
+   "path": "atlas/subject/character-archetypes/androgynous-performer.md",
+   "type": "Visual Element",
+   "title": "性别模糊表演者（Androgynous Performer）",
+   "description": "刻意模糊性别的角色原型——兼有男性与女性特征的美学主体，是日系视觉系与千禧时装影像的共同核心。",
+   "tags": [
+    "visual-kei",
+    "subject",
+    "archetype",
+    "androgynous",
+    "core"
+   ],
+   "status": "stable",
+   "one_liner": "而是一种主动的美学策略：同时呈现两种性别的特征，让观者无法归类，",
+   "keywords": [
+    "`androgynous performer",
+    "gender-ambiguous beauty",
+    "effeminate masculine features",
+    "sharp bone",
+    "structure with delicate features",
+    "androgynous elegance",
+    "neither clearly male nor female",
+    "striking androgynous face",
+    "gender-fluid styling",
+    "slender androgynous figure",
+    "androgynous",
+    "glamour",
+    "beautifully ambiguous",
+    "japanese visual kei performer`"
+   ],
+   "links_to": [
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/subject/character-archetypes/asian-millennium-idol.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "references/creators/david-lachapelle.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/visual-kei.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/character-archetypes/asian-millennium-idol",
+   "path": "atlas/subject/character-archetypes/asian-millennium-idol.md",
+   "type": "Visual Element",
+   "title": "亚洲千禧偶像（Asian Millennium Idol）",
+   "description": "2000 年代前后东亚偶像工业制造的少女形象：精致、亲和、带舞台光泽，参考早安少女组、S.E.S.、滨崎步、安室奈美惠、宇多田光等，健康肤色或瓷白肌，笑容甜而有分寸。",
+   "tags": [
+    "y2k",
+    "subject",
+    "character-archetype"
+   ],
+   "status": "stable",
+   "one_liner": "2000 年代前后东亚偶像工业制造的少女形象：精致、亲和、带舞台光泽，参考早安少女组、S.E.S.、滨崎步、安室奈美惠、宇多田光等，健康肤色或瓷白肌，笑容甜而有分寸。",
+   "keywords": [
+    "`East Asian idol",
+    "2000s J-pop / K-pop idol",
+    "morning musume",
+    "glossy porcelain skin",
+    "cute and polished",
+    "highlighted voluminous hair",
+    "glitter makeup",
+    "glossy lips",
+    "layered outfit",
+    "rhinestone accessories",
+    "stage sparkle",
+    "sweet controlled smile",
+    "millennium Asian pop`"
+   ],
+   "links_to": [
+    "recipes/y2k-warm-dv-idol.md",
+    "references/works/index.md"
+   ],
+   "linked_from": [
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/character-archetypes/mixed-ethereal-muse",
+   "path": "atlas/subject/character-archetypes/mixed-ethereal-muse.md",
+   "type": "Visual Element",
+   "title": "混血空灵缪斯（Mixed Ethereal Muse）",
+   "description": "偏高端时尚杂志的混血少女形象：玻璃感眼神、空灵疏离、艺术化光影，常见于千禧年时装大片与先锋摄影师作品。",
+   "tags": [
+    "y2k",
+    "subject",
+    "character-archetype"
+   ],
+   "status": "stable",
+   "one_liner": "偏高端时尚杂志的混血少女形象：玻璃感眼神、空灵疏离、艺术化光影，常见于千禧年时装大片与先锋摄影师作品。",
+   "keywords": [
+    "`ethereal mixed-race muse",
+    "editorial fashion",
+    "glassy eyes",
+    "translucent skin",
+    "dewy",
+    "freckles",
+    "wet-look hair",
+    "soft natural lips",
+    "dreamy",
+    "distant",
+    "avant-garde",
+    "film photography",
+    "soft focus",
+    "haute couture",
+    "fragile",
+    "airy",
+    "magazine editorial`"
+   ],
+   "links_to": [
+    "references/creators/index.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/character-archetypes/virtual-doll-3d",
+   "path": "atlas/subject/character-archetypes/virtual-doll-3d.md",
+   "type": "Visual Element",
+   "title": "虚拟人偶（Virtual Doll / 3D）",
+   "description": "非真人的早期 3D 虚拟角色质感：光滑塑料/树脂皮肤、完美对称五官，参考千禧年游戏 CG、虚拟偶像与低多边形娃娃，带有 uncanny 的数字魅力。",
+   "tags": [
+    "y2k",
+    "subject",
+    "character-archetype"
+   ],
+   "status": "stable",
+   "one_liner": "非真人的早期 3D 虚拟角色质感：光滑塑料/树脂皮肤、完美对称五官，参考千禧年游戏 CG、虚拟偶像与低多边形娃娃，带有 uncanny 的数字魅力。",
+   "keywords": [
+    "`3D rendered character",
+    "virtual idol",
+    "early 2000s CG",
+    "plastic doll skin",
+    "porcelain",
+    "poreless",
+    "oversized eyes",
+    "glossy",
+    "low-poly",
+    "game cutscene look",
+    "uncanny",
+    "stylized",
+    "cel-shaded option",
+    "digital doll",
+    "synthetic",
+    "Y2K game graphics`"
+   ],
+   "links_to": [
+    "atlas/taxonomy/movements/y2k-retro-future.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/character-archetypes/western-pop-diva",
+   "path": "atlas/subject/character-archetypes/western-pop-diva.md",
+   "type": "Visual Element",
+   "title": "欧美流行天后（Western Pop Diva）",
+   "description": "千禧年欧美 Teen Pop / R&B 天后形象：小麦色肌肤、健康自信的性感，参考 Britney Spears、Christina Aguilera、Jennifer Lopez、Destiny's Child。",
+   "tags": [
+    "y2k",
+    "subject",
+    "character-archetype"
+   ],
+   "status": "stable",
+   "one_liner": "千禧年欧美 Teen Pop / R&B 天后形象：小麦色肌肤、健康自信的性感，参考 Britney Spears、Christina Aguilera、Jennifer Lopez、Destiny's Child。",
+   "keywords": [
+    "`Western pop princess",
+    "year-2000 teen pop",
+    "Britney-era",
+    "sun-kissed bronze skin",
+    "blonde highlights",
+    "frosted makeup",
+    "glossy nude lips",
+    "body shimmer",
+    "confident",
+    "athletic",
+    "midriff-baring",
+    "rhinestones",
+    "all-American",
+    "music-video glamour`"
+   ],
+   "links_to": [
+    "references/works/index.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/expressions",
+   "path": "atlas/subject/expressions.md",
+   "type": "Visual Element",
+   "title": "表情（Expressions）",
+   "description": "镜头前表情与表演枚举。",
+   "tags": [
+    "y2k",
+    "subject",
+    "expression"
+   ],
+   "status": "stable",
+   "one_liner": "镜头前的表情与表演枚举。Y2K 人像强调\"被镜头捕捉\"的瞬间感。",
+   "keywords": [
+    "`[选取表情]",
+    "expressive eyes",
+    "camera presence`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/face-and-skin",
+   "path": "atlas/subject/face-and-skin.md",
+   "type": "Visual Element",
+   "title": "面容与肤色（Face & Skin）",
+   "description": "人种特征、肤色与底妆质感枚举。",
+   "tags": [
+    "y2k",
+    "subject",
+    "skin",
+    "face"
+   ],
+   "status": "stable",
+   "one_liner": "面容、人种特征与肤色、底妆质感的枚举维度。简单变体聚合于此；被单独反复使用时再拆分为独立文件。",
+   "keywords": [
+    "`[按上表选取肤色]",
+    "even skin tone",
+    "[finish]",
+    "facial symmetry",
+    "defined features`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/poses",
+   "path": "atlas/subject/poses.md",
+   "type": "Visual Element",
+   "title": "姿态（Poses）",
+   "description": "姿态与肢体语言枚举。",
+   "tags": [
+    "y2k",
+    "subject",
+    "pose"
+   ],
+   "status": "stable",
+   "one_liner": "姿态与肢体语言枚举，区分室内/室外、坐/站/卧。",
+   "keywords": [
+    "`[选取姿态]",
+    "relaxed body language",
+    "natural hands`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/setting/poster-bedroom.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/visual-kei-angura",
+   "path": "atlas/taxonomy/movements/visual-kei-angura.md",
+   "type": "Style Substyle",
+   "title": "Angura / 暗黑哥特系（アングラ系）",
+   "description": "视觉系最戏剧化、艺术性最强的分支——华美颓废的欧风哥特与和风混搭，病态贵族感。",
+   "tags": [
+    "visual-kei",
+    "substyle",
+    "angura",
+    "gothic",
+    "dark"
+   ],
+   "status": "stable",
+   "one_liner": "最具艺术野心、最脱离商业流行的一支。它把造型推向\"舞台剧角色\"的方向——不是穿衣服，",
+   "keywords": [
+    "`angura visual kei",
+    "gothic aristocratic",
+    "dark romantic",
+    "decayed elegance",
+    "black and deep",
+    "crimson",
+    "oxidized gold accents",
+    "layered lace and tulle",
+    "velvet and satin",
+    "corset",
+    "ruffled",
+    "collar",
+    "long flowing hair with headdress",
+    "tulle veil",
+    "dramatic theatrical makeup",
+    "deep red",
+    "lips",
+    "porcelain doll-like face",
+    "faded grandeur",
+    "baroque and gothic",
+    "japanese-western fusion",
+    "candlelit",
+    "melancholic beauty",
+    "androgynous",
+    "ornate`"
+   ],
+   "links_to": [
+    "atlas/taxonomy/movements/visual-kei.md",
+    "references/brands/dior-galliano.md"
+   ],
+   "linked_from": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/tear-bag-makeup.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/satin-velvet.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "🎬 配方.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/visual-kei-kirakira",
+   "path": "atlas/taxonomy/movements/visual-kei-kirakira.md",
+   "type": "Style Substyle",
+   "title": "Kirakira / 华丽系（キラキラ系）",
+   "description": "视觉系的极致炫耀分支——亮片、水钻、羽毛、金属光泽，追求舞台级的炫目奢靡。",
+   "tags": [
+    "visual-kei",
+    "substyle",
+    "kirakira",
+    "glam",
+    "sparkle"
+   ],
+   "status": "stable",
+   "one_liner": "\"キラキラ\" 是日语拟态词，形容闪烁发光的样子。这一支的逻辑很简单：",
+   "keywords": [
+    "`kirakira visual kei",
+    "glamorous sparkling stage costume",
+    "heavy sequins and rhinestones",
+    "crystal embellishments",
+    "metallic silver and gold",
+    "holographic iridescent fabric",
+    "lame and",
+    "foil textures",
+    "feathers and fringe",
+    "glitter makeup",
+    "rhinestones on face",
+    "glossy metallic lips",
+    "shimmering hair with crystal accessories",
+    "dazzling stage lighting",
+    "lens flare and bokeh sparkle",
+    "luxurious showmanship",
+    "high glam J-rock",
+    "glossy and reflective`"
+   ],
+   "links_to": [
+    "atlas/material/gold-lame.md",
+    "atlas/material/liquid-chrome.md",
+    "atlas/material/sequins-beading.md",
+    "atlas/taxonomy/movements/visual-kei.md"
+   ],
+   "linked_from": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/material/satin-velvet.md",
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/visual-kei-kote-kei",
+   "path": "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+   "type": "Style Substyle",
+   "title": "Kote-kei · 古典系（コテ系）",
+   "description": "视觉系最正统的分支——全黑西装、极白妆容、尖刺立发，冷峻锐利的攻击性美学。",
+   "tags": [
+    "visual-kei",
+    "substyle",
+    "kote-kei",
+    "black",
+    "classic"
+   ],
+   "status": "stable",
+   "one_liner": "引申为\"把造型做到极致定型\"的做法——这个名字本身就说明：这个分支的核心是\"结构感\"。",
+   "keywords": [
+    "`kote-kei visual kei",
+    "all black suit",
+    "extreme pale white foundation",
+    "kabuki-like white face",
+    "sharp winged black eyeliner",
+    "elongated outer eye corner",
+    "spiky styled hair with heavy gel",
+    "long straight hair covering one eye",
+    "black leather and lace",
+    "silver hardware",
+    "high contrast",
+    "black and white",
+    "sharp angular silhouette",
+    "cold androgynous J-rock",
+    "aggressive intense stare",
+    "dramatic single-source lighting",
+    "deep shadows",
+    "desaturated`"
+   ],
+   "links_to": [
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md"
+   ],
+   "linked_from": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/tear-bag-makeup.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/visual-kei-oshare-kei",
+   "path": "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+   "type": "Style Substyle",
+   "title": "Oshare-kei · 御洒落系（お洒落系）",
+   "description": "视觉系的轻量甜美分支——彩色头发、糖果色穿搭、明快亲和，是视觉系与 Y2K 流行文化的交叉点。",
+   "tags": [
+    "visual-kei",
+    "substyle",
+    "oshare",
+    "colorful",
+    "pop"
+   ],
+   "status": "stable",
+   "one_liner": "\"视觉系=黑暗\"这一刻板印象的正面反叛。它保留了视觉系的造型强度与戏剧性，",
+   "keywords": [
+    "`oshare-kei visual kei",
+    "colorful dyed hair",
+    "pastel and candy colored hair",
+    "layered wolf cut",
+    "vibrant multicolor styling",
+    "bright colored eyeliner",
+    "cute and cheerful J-rock",
+    "colorful suit",
+    "jacket",
+    "printed shirt",
+    "necktie and suspenders",
+    "youthful androgynous",
+    "pop subculture fashion",
+    "soft voluminous hair",
+    "candy colored palette",
+    "bright playful energy",
+    "japanese street fashion`"
+   ],
+   "links_to": [
+    "atlas/color/pastel-candy-palette.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md"
+   ],
+   "linked_from": [
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "🎬 配方.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/visual-kei",
+   "path": "atlas/taxonomy/movements/visual-kei.md",
+   "type": "Style Movement",
+   "title": "Visual Kei · 日系视觉系",
+   "description": "1980s 中起于日本摇滚场景的视觉化美学家族，以戏剧化妆容、极端发型与华丽服装为核心，90s 末–00s 初为黄金期。",
+   "tags": [
+    "visual-kei",
+    "movement",
+    "japanese",
+    "subculture",
+    "core-pack"
+   ],
+   "status": "stable",
+   "one_liner": "其核心主张是：音乐表演的视觉呈现与音乐本身同等重要。它并非单一风格，而是一个",
+   "keywords": [],
+   "links_to": [
+    "atlas/color/index.md",
+    "atlas/grade/index.md",
+    "atlas/hair/index.md",
+    "atlas/lighting/index.md",
+    "atlas/makeup/index.md",
+    "atlas/material/index.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "references/eras/late-1990s-early-2000s.md"
+   ],
+   "linked_from": [
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/y2k-cyber-goth",
+   "path": "atlas/taxonomy/movements/y2k-cyber-goth.md",
+   "type": "Style Substyle",
+   "title": "Cyber Goth · 赛博哥特（冷黑金属亚文化）",
+   "description": "Y2K 与哥特、工业、锐舞文化交汇的冷黑分支——全黑、PVC、护目镜、赛博义体感，去甜味的暗黑科技。",
+   "tags": [
+    "y2k",
+    "substyle",
+    "cyber-goth",
+    "dark",
+    "industrial",
+    "subculture"
+   ],
+   "status": "stable",
+   "one_liner": "气管、义体、军用件等工业与末日符号",
+   "keywords": [
+    "`cyber goth",
+    "industrial gothic subculture",
+    "black PVC and latex",
+    "matte black leather with",
+    "industrial hardware",
+    "goggles pushed up on forehead",
+    "gas mask",
+    "strapped harness",
+    "mesh and",
+    "fishnet",
+    "combat boots",
+    "dark utilitarian",
+    "dystopian club kid",
+    "techno-industrial",
+    "black with",
+    "neon accents",
+    "cybernetic body modification",
+    "harsh flash photography",
+    "underground rave",
+    "hard-edged and aggressive",
+    "cold metallic minimal",
+    "fetish-industrial`"
+   ],
+   "links_to": [
+    "atlas/material/leather-and-hardware.md",
+    "atlas/material/pvc-vinyl.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ],
+   "linked_from": [
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "🎬 配方.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/y2k-cyber-metal",
+   "path": "atlas/taxonomy/movements/y2k-cyber-metal.md",
+   "type": "Style Substyle",
+   "title": "Cyber Metal · 赛博金属系",
+   "description": "Y2K 的冷峻科技分支：液态金属、镀铬表面、乳胶与 PVC 紧身轮廓，受《黑客帝国》、太空时代时装与千禧年数字界面启发，呈现光滑、反光、近乎无机质的未来感。",
+   "tags": [
+    "y2k",
+    "substyle"
+   ],
+   "status": "stable",
+   "one_liner": "Y2K 的冷峻科技分支：液态金属、镀铬表面、乳胶与 PVC 紧身轮廓，受《黑客帝国》、太空时代时装与千禧年数字界面启发，呈现光滑、反光、近乎无机质的未来感。",
+   "keywords": [
+    "`cyber Y2K",
+    "liquid chrome",
+    "metallic silver",
+    "latex",
+    "PVC",
+    "glossy black",
+    "matrix-inspired",
+    "futuristic HUD",
+    "chrome reflection",
+    "icy blue",
+    "sleek",
+    "android chic",
+    "cyber sparkle`"
+   ],
+   "links_to": [
+    "atlas/color/chrome-cool-palette.md",
+    "atlas/material/liquid-chrome.md",
+    "atlas/material/pvc-vinyl.md",
+    "atlas/material/sequins-beading.md",
+    "references/works/index.md"
+   ],
+   "linked_from": [
+    "atlas/material/leather-and-hardware.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/y2k-grunge-glam",
+   "path": "atlas/taxonomy/movements/y2k-grunge-glam.md",
+   "type": "Style Substyle",
+   "title": "Grunge Glam · 垃圾华丽系",
+   "description": "Y2K 的叛逆分支：emo/朋克/滑板文化与华丽金属装饰对撞——做旧皮革、渔网、铆钉、脏粉与古铜，在颓废和闪亮之间制造张力。",
+   "tags": [
+    "y2k",
+    "substyle"
+   ],
+   "status": "stable",
+   "one_liner": "Y2K 的叛逆分支：emo/朋克/滑板文化与华丽金属装饰对撞——做旧皮革、渔网、铆钉、脏粉与古铜，在颓废和闪亮之间制造张力。",
+   "keywords": [
+    "`grunge Y2K",
+    "emo",
+    "pop-punk",
+    "skate",
+    "distressed leather",
+    "fishnet",
+    "studs",
+    "dirty pink",
+    "bronze",
+    "band tee",
+    "low-rise cargo",
+    "combat boots",
+    "choker",
+    "gritty",
+    "film grain",
+    "flash photography",
+    "riot girl`"
+   ],
+   "links_to": [
+    "atlas/color/warm-dv-bronze-palette.md",
+    "atlas/material/denim-wash.md",
+    "atlas/material/sheer-mesh.md",
+    "references/works/index.md"
+   ],
+   "linked_from": [
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/tear-bag-makeup.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/mood/rebellious-angsty.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/y2k-harajuku-shibuya",
+   "path": "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+   "type": "Style Substyle",
+   "title": "里原宿 / 涩谷系（Harajuku & Shibuya Street）",
+   "description": "日本街头亚文化分支——Decora 堆叠、Gyaru 辣妹、涩谷休闲，色彩与配饰密度极高，是日系 Y2K 与视觉系的交汇地带。",
+   "tags": [
+    "y2k",
+    "substyle",
+    "harajuku",
+    "shibuya",
+    "japanese",
+    "street"
+   ],
+   "status": "stable",
+   "one_liner": "它与视觉系同属日系亚文化，但根植于街头与消费文化而非摇滚舞台，",
+   "keywords": [],
+   "links_to": [
+    "atlas/accessories/hair-accessories.md",
+    "atlas/accessories/hoop-earrings.md",
+    "atlas/accessories/mini-bag.md",
+    "atlas/color/pastel-candy-palette.md",
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "atlas/wardrobe/baby-tee.md",
+    "atlas/wardrobe/chunky-sneakers.md",
+    "atlas/wardrobe/denim-micro-skirt.md"
+   ],
+   "linked_from": [
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/y2k-mcbling",
+   "path": "atlas/taxonomy/movements/y2k-mcbling.md",
+   "type": "Style Substyle",
+   "title": "McBling · 奢华浮夸（炫富美学）",
+   "description": "2000s 嘻哈与名媛文化驱动的炫富分支——水钻、皮草、镀铬、Logo 狂热，把\"贵\"字写在身上。",
+   "tags": [
+    "y2k",
+    "substyle",
+    "mcbling",
+    "glam",
+    "hiphop",
+    "luxury"
+   ],
+   "status": "stable",
+   "one_liner": "名字来自 \"Mc\"（麦当劳式的量产大众化）+ \"Bling\"（珠宝闪光声），",
+   "keywords": [
+    "`McBling aesthetic",
+    "early 2000s celebrity glamour",
+    "excessive luxury",
+    "rhinestone everything",
+    "pink diamond jewelry",
+    "oversized designer sunglasses",
+    "huge logo handbag",
+    "pink fur coat",
+    "juicy",
+    "velvet tracksuit",
+    "chrome and holographic accents",
+    "layered chunky jewelry",
+    "bedazzled flip",
+    "phone",
+    "long bedazzled nails",
+    "body glitter",
+    "bronzed glowing skin",
+    "glossy pink lip gloss",
+    "bling bling",
+    "hip-hop video vixen",
+    "socialite paparazzi style",
+    "tastelessly extravagant",
+    "maximalist 2000s glam`"
+   ],
+   "links_to": [
+    "atlas/accessories/body-glitter.md",
+    "atlas/accessories/mini-bag.md",
+    "atlas/accessories/rhinestone-jewelry-set.md",
+    "atlas/accessories/wrap-sunglasses.md",
+    "atlas/lighting/direct-flash.md",
+    "atlas/material/liquid-chrome.md",
+    "atlas/material/sequins-beading.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ],
+   "linked_from": [
+    "atlas/material/satin-velvet.md",
+    "🎬 配方.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/y2k-retro-future",
+   "path": "atlas/taxonomy/movements/y2k-retro-future.md",
+   "type": "Style Substyle",
+   "title": "Retro Future · 复古未来主义",
+   "description": "Y2K 的低保真数字分支：早期 3D 渲染、低多边形、像素图形、Windows 98 界面、VHS/DV 影像，以今天的眼光怀旧千禧年人们想象中的数字世界。",
+   "tags": [
+    "y2k",
+    "substyle"
+   ],
+   "status": "stable",
+   "one_liner": "Y2K 的低保真数字分支：早期 3D 渲染、低多边形、像素图形、Windows 98 界面、VHS/DV 影像，以今天的眼光怀旧千禧年人们想象中的数字世界。",
+   "keywords": [
+    "`retro-futurism Y2K",
+    "early 3D",
+    "low-poly",
+    "pixel art",
+    "windows 98",
+    "CRT monitor",
+    "dial-up",
+    "vaporware",
+    "lofi render",
+    "VHS scanlines",
+    "neon green",
+    "geocities",
+    "y2k web",
+    "digital nostalgia",
+    "glitch`"
+   ],
+   "links_to": [
+    "atlas/color/neon-clash-palette.md",
+    "atlas/grade/vhs-dv-texture.md",
+    "references/works/index.md"
+   ],
+   "linked_from": [
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/subject/character-archetypes/virtual-doll-3d.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/y2k-sweet-candy",
+   "path": "atlas/taxonomy/movements/y2k-sweet-candy.md",
+   "type": "Style Substyle",
+   "title": "Sweet Candy · 千禧甜酷系",
+   "description": "Y2K 的甜辣少女分支：马卡龙粉蓝紫、亮片、蝴蝶与爱心符号，融合娃娃感与街头辣妹态度，是偶像工业与 McBling 消费文化的甜美产物。",
+   "tags": [
+    "y2k",
+    "substyle"
+   ],
+   "status": "stable",
+   "one_liner": "Y2K 的甜辣少女分支：马卡龙粉蓝紫、亮片、蝴蝶与爱心符号，融合娃娃感与街头辣妹态度，是偶像工业与 McBling 消费文化的甜美产物。",
+   "keywords": [
+    "`sweet Y2K",
+    "mcbling",
+    "pastel pink",
+    "baby blue",
+    "lavender",
+    "glitter",
+    "sequins",
+    "butterflies",
+    "hearts",
+    "baby tee",
+    "low-rise mini skirt",
+    "platform sandals",
+    "rhinestones",
+    "bubbly",
+    "girly",
+    "2000s pop princess`"
+   ],
+   "links_to": [
+    "atlas/color/pastel-candy-palette.md",
+    "atlas/material/gold-lame.md",
+    "atlas/material/sequins-beading.md",
+    "atlas/material/sheer-mesh.md",
+    "references/brands/index.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/y2k",
+   "path": "atlas/taxonomy/movements/y2k.md",
+   "type": "Style Movement",
+   "title": "Y2K · 千禧年风格",
+   "description": "约1997–2006千禧之交的乐观未来主义风格，含四大子风格。",
+   "tags": [
+    "y2k",
+    "movement",
+    "millennium",
+    "core-pack"
+   ],
+   "status": "stable",
+   "one_liner": "（互联网、翻盖手机、太空探索、数字未来）的乐观想象之上，混合了太空时代复古未来主义、街头嘻哈、",
+   "keywords": [
+    "`Y2K aesthetic",
+    "year 2000",
+    "millennium",
+    "early 2000s fashion",
+    "futuristic optimism",
+    "chrome",
+    "metallic",
+    "rhinestones",
+    "glitter",
+    "butterfly motifs",
+    "low-rise",
+    "baby tee",
+    "velour tracksuit",
+    "flip phone",
+    "CD",
+    "cyber sparkle",
+    "retro-futurism",
+    "glossy",
+    "plastic",
+    "jelly textures",
+    "2000s nostalgia`"
+   ],
+   "links_to": [
+    "atlas/accessories/bandana.md",
+    "atlas/audio/europop-dance-anthem.md",
+    "atlas/audio/rnb-ballad.md",
+    "atlas/camera/fisheye-lens.md",
+    "atlas/color/chrome-cool-palette.md",
+    "atlas/color/index.md",
+    "atlas/color/pastel-candy-palette.md",
+    "atlas/grade/digital-overlays.md",
+    "atlas/grade/index.md",
+    "atlas/grade/light-leak.md",
+    "atlas/hair/crimped-hair.md",
+    "atlas/hair/pin-straight-ionic.md",
+    "atlas/hair/side-ponytail.md",
+    "atlas/hair/space-buns.md",
+    "atlas/lighting/neon-practicals.md",
+    "atlas/lighting/tv-crt-glow.md",
+    "atlas/makeup/face-rhinestones.md",
+    "atlas/makeup/long-acrylic-nails.md",
+    "atlas/makeup/under-eye-glitter.md",
+    "atlas/material/liquid-chrome.md",
+    "atlas/material/pvc-vinyl.md",
+    "atlas/material/sheer-mesh.md",
+    "atlas/material/velour.md",
+    "atlas/mood/playful-bubbly.md",
+    "atlas/motion/datamosh.md",
+    "atlas/motion/dolly-tracking.md",
+    "atlas/motion/dutch-drift.md",
+    "atlas/motion/fast-montage.md",
+    "atlas/motion/flash-frame.md",
+    "atlas/motion/floating-particles.md",
+    "atlas/motion/frame-blend-ghost.md",
+    "atlas/motion/glitch-cut.md",
+    "atlas/motion/index.md",
+    "atlas/motion/light-sweep.md",
+    "atlas/motion/slow-dream.md",
+    "atlas/motion/slow-push-in.md",
+    "atlas/motion/strobe.md",
+    "atlas/motion/tape-tracking.md",
+    "atlas/motion/walk-toward.md",
+    "atlas/motion/whip-zoom.md",
+    "atlas/setting/beach-poolside.md",
+    "atlas/setting/cd-player.md",
+    "atlas/setting/fairy-lights.md",
+    "atlas/setting/instant-camera.md",
+    "atlas/setting/mall-arcade.md",
+    "atlas/setting/pink-bathroom.md",
+    "atlas/setting/sunset-parking-lot.md",
+    "atlas/setting/tamagotchi.md",
+    "atlas/subject/character-archetypes/mixed-ethereal-muse.md",
+    "atlas/subject/character-archetypes/virtual-doll-3d.md",
+    "atlas/subject/character-archetypes/western-pop-diva.md",
+    "atlas/subject/index.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md",
+    "atlas/taxonomy/movements/y2k-retro-future.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "atlas/wardrobe/cargo-pants.md",
+    "atlas/wardrobe/low-rise-capris.md",
+    "atlas/wardrobe/velour-tracksuit.md",
+    "atlas/wardrobe/vinyl-pants.md",
+    "references/brands/juicy-couture.md",
+    "references/brands/louis-vuitton-murakami.md",
+    "references/brands/von-dutch.md",
+    "references/eras/late-1990s-early-2000s.md",
+    "references/iconography/butterfly-motif.md",
+    "references/iconography/flame-motif.md",
+    "references/iconography/heart-motif.md",
+    "references/iconography/index.md",
+    "references/index.md",
+    "references/works/millennium-mvs.md",
+    "references/works/the-matrix.md"
+   ],
+   "linked_from": [
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/baby-tee",
+   "path": "atlas/wardrobe/baby-tee.md",
+   "type": "Visual Element",
+   "title": "Baby Tee（短款露腰 T 恤）",
+   "description": "紧身、短至露腰的短袖 T 恤，常印标语、卡通或品牌徽标，是 Y2K 最具代表性的上装。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "top"
+   ],
+   "status": "stable",
+   "one_liner": "Baby Tee 是剪裁紧身、衣长在肚脐以上的短袖 T 恤，源于 90 年代，在 2000 年代成为少女制服。",
+   "keywords": [
+    "`baby tee",
+    "cropped tight t-shirt",
+    "midriff-baring",
+    "ribbed crew neck",
+    "graphic / slogan / logo print",
+    "rhinestone iron-on",
+    "fitted short-sleeve top",
+    "Y2K crop top`"
+   ],
+   "links_to": [
+    "atlas/accessories/belly-chain.md",
+    "atlas/accessories/logo-belt.md",
+    "atlas/wardrobe/denim-micro-skirt.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/platform-sandals.md"
+   ],
+   "linked_from": [
+    "atlas/accessories/belly-chain.md",
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/wardrobe/cargo-pants.md",
+    "atlas/wardrobe/denim-micro-skirt.md",
+    "atlas/wardrobe/low-rise-jeans.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/black-tailored-suit",
+   "path": "atlas/wardrobe/black-tailored-suit.md",
+   "type": "Visual Element",
+   "title": "黑色修身西装（Black Tailored Suit）",
+   "description": "视觉系最核心的服装单品——修身剪裁的全黑西装（含燕尾、长下摆变体），提供冷峻锐利的轮廓。",
+   "tags": [
+    "visual-kei",
+    "wardrobe",
+    "suit",
+    "kote-kei",
+    "core"
+   ],
+   "status": "stable",
+   "one_liner": "它之所以成为图腾，是因为它同时满足两个需求：",
+   "keywords": [
+    "`black tailored suit",
+    "slim fit black blazer",
+    "long tailcoat in black",
+    "sharp shouldered black",
+    "jacket",
+    "black shirt underneath",
+    "high collar",
+    "asymmetrical black coat",
+    "gothic tailored",
+    "silhouette",
+    "silver buttons and hardware on black suit",
+    "formal yet theatrical",
+    "dark formal wear`"
+   ],
+   "links_to": [
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md"
+   ],
+   "linked_from": [
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/motion/stage-performance-motion.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/cargo-pants",
+   "path": "atlas/wardrobe/cargo-pants.md",
+   "type": "Visual Element",
+   "title": "工装裤（Cargo Pants）",
+   "description": "多口袋、宽松直筒的工装裤，受嘻哈与滑板文化影响，Grunge Glam 常用。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "bottom"
+   ],
+   "status": "stable",
+   "one_liner": "cargo pants, baggy utility pants, multi-pocket, low-rise, khaki / olive, skate / hip-hop, Y2K",
+   "keywords": [
+    "`cargo pants",
+    "baggy utility pants",
+    "multi-pocket",
+    "low-rise",
+    "khaki / olive",
+    "skate / hip-hop",
+    "Y2K`"
+   ],
+   "links_to": [
+    "atlas/accessories/choker.md",
+    "atlas/wardrobe/baby-tee.md",
+    "atlas/wardrobe/chunky-sneakers.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/chunky-sneakers",
+   "path": "atlas/wardrobe/chunky-sneakers.md",
+   "type": "Visual Element",
+   "title": "Chunky 复古球鞋（Chunky Sneakers）",
+   "description": "厚底、线条繁复的复古运动鞋/老爹鞋，街头与运动套装搭配。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "footwear"
+   ],
+   "status": "stable",
+   "one_liner": "chunky sneakers, dad shoes, bulky retro trainers, platform sneakers, white-silver, Y2K sporty",
+   "keywords": [
+    "`chunky sneakers",
+    "dad shoes",
+    "bulky retro trainers",
+    "platform sneakers",
+    "white-silver",
+    "Y2K sporty`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/wardrobe/cargo-pants.md",
+    "atlas/wardrobe/velour-tracksuit.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/cropped-bomber",
+   "path": "atlas/wardrobe/cropped-bomber.md",
+   "type": "Visual Element",
+   "title": "短款飞行员夹克（Cropped Bomber）",
+   "description": "截短版型的 MA-1 风格夹克，街头与甜辣混搭常用。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "outerwear"
+   ],
+   "status": "stable",
+   "one_liner": "cropped bomber jacket, MA-1, zip-up, nylon sheen, patched, ribbed cuffs, Y2K streetwear",
+   "keywords": [
+    "`cropped bomber jacket",
+    "MA-1",
+    "zip-up",
+    "nylon sheen",
+    "patched",
+    "ribbed cuffs",
+    "Y2K streetwear`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/wardrobe/tube-top.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/denim-micro-skirt",
+   "path": "atlas/wardrobe/denim-micro-skirt.md",
+   "type": "Visual Element",
+   "title": "牛仔迷你裙（Denim Micro Skirt）",
+   "description": "极短的牛仔半身裙，常做旧、磨边或拼贴，甜辣造型高频单品。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "bottom"
+   ],
+   "status": "stable",
+   "one_liner": "denim micro mini skirt, ultra-short jean skirt, frayed hem, faded wash, A-line, low-rise, Y2K skirt",
+   "keywords": [
+    "`denim micro mini skirt",
+    "ultra-short jean skirt",
+    "frayed hem",
+    "faded wash",
+    "A-line",
+    "low-rise",
+    "Y2K skirt`"
+   ],
+   "links_to": [
+    "atlas/wardrobe/baby-tee.md",
+    "atlas/wardrobe/halter-top.md",
+    "atlas/wardrobe/knee-high-boots.md",
+    "atlas/wardrobe/platform-sandals.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/wardrobe/baby-tee.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/halter-top",
+   "path": "atlas/wardrobe/halter-top.md",
+   "type": "Visual Element",
+   "title": "挂脖上衣（Halter Top）",
+   "description": "颈部系带、裸露肩膀与后背的上衣，千禧年正式与休闲场合皆流行。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "top"
+   ],
+   "status": "stable",
+   "one_liner": "Halter Top 以颈部系带固定肩线，露出肩部、锁骨与后背，强调颈肩线条。",
+   "keywords": [
+    "`halter top",
+    "neck-tie top",
+    "bare shoulders and back",
+    "sleeveless",
+    "tied neckline",
+    "fitted",
+    "shimmer /",
+    "satin / knit halter",
+    "Y2K top`"
+   ],
+   "links_to": [
+    "atlas/accessories/choker.md",
+    "atlas/wardrobe/index.md",
+    "atlas/wardrobe/knee-high-boots.md"
+   ],
+   "linked_from": [
+    "atlas/accessories/choker.md",
+    "atlas/wardrobe/denim-micro-skirt.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/knee-high-boots",
+   "path": "atlas/wardrobe/knee-high-boots.md",
+   "type": "Visual Element",
+   "title": "高筒靴（Knee-High Boots）",
+   "description": "及膝靴，皮革/漆皮/翻折款，迷你裙与裤装皆可搭配，偏成熟强势。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "footwear"
+   ],
+   "status": "stable",
+   "one_liner": "knee-high boots, pointed / round toe, leather / patent, stiletto / flat heel, Y2K boots",
+   "keywords": [
+    "`knee-high boots",
+    "pointed / round toe",
+    "leather / patent",
+    "stiletto / flat heel",
+    "Y2K boots`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/wardrobe/denim-micro-skirt.md",
+    "atlas/wardrobe/halter-top.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/low-rise-capris",
+   "path": "atlas/wardrobe/low-rise-capris.md",
+   "type": "Visual Element",
+   "title": "低腰七分裤（Low-Rise Capris）",
+   "description": "小腿中部长度的卡普里裤，低腰、修身，2000 年代日常与街头常见。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "bottom"
+   ],
+   "status": "stable",
+   "one_liner": "low-rise capri pants, calf-length capris, cropped fitted trousers, denim capris, Y2K capris",
+   "keywords": [
+    "`low-rise capri pants",
+    "calf-length capris",
+    "cropped fitted trousers",
+    "denim capris",
+    "Y2K capris`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/low-rise-jeans",
+   "path": "atlas/wardrobe/low-rise-jeans.md",
+   "type": "Visual Element",
+   "title": "低腰牛仔裤（Low-Rise Jeans）",
+   "description": "腰线落在髋骨以下的牛仔裤，Y2K 最具标志性的下装，常配腰带与露腰上衣。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "bottom"
+   ],
+   "status": "stable",
+   "one_liner": "Low-Rise Jeans 腰线远低于自然腰位（髋骨处或更低），版型从紧身喇叭到直筒皆有。",
+   "keywords": [
+    "`low-rise jeans",
+    "hip-hugger jeans",
+    "low waist denim",
+    "bootcut / flared / skinny",
+    "bleached / faded",
+    "wash",
+    "bedazzled pockets",
+    "visible belt",
+    "Y2K denim`"
+   ],
+   "links_to": [
+    "atlas/accessories/belly-chain.md",
+    "atlas/accessories/logo-belt.md",
+    "atlas/wardrobe/baby-tee.md",
+    "atlas/wardrobe/metallic-cami.md",
+    "atlas/wardrobe/platform-sandals.md"
+   ],
+   "linked_from": [
+    "atlas/accessories/belly-chain.md",
+    "atlas/wardrobe/baby-tee.md",
+    "atlas/wardrobe/metallic-cami.md",
+    "atlas/wardrobe/sheer-cardigan.md",
+    "atlas/wardrobe/tube-top.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🎬 配方.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/metallic-cami",
+   "path": "atlas/wardrobe/metallic-cami.md",
+   "type": "Visual Element",
+   "title": "金属/亮片吊带（Metallic Cami）",
+   "description": "细肩带、金属色或亮片材质的吊带背心，反光闪亮，是混搭层叠的核心内搭。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "top"
+   ],
+   "status": "stable",
+   "one_liner": "Metallic Cami 是细肩带、以金属线面料、亮片或金葱布制成的吊带上衣，捕捉并反射光线。",
+   "keywords": [
+    "`metallic camisole",
+    "sequin cami",
+    "gold / bronze / silver lame spaghetti-strap top",
+    "glittering",
+    "sparkly fitted camisole",
+    "beaded straps",
+    "Y2K going-out top`"
+   ],
+   "links_to": [
+    "atlas/accessories/belly-chain.md",
+    "atlas/accessories/rhinestone-jewelry-set.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/sheer-cardigan.md"
+   ],
+   "linked_from": [
+    "atlas/accessories/belly-chain.md",
+    "atlas/accessories/choker.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/sheer-cardigan.md",
+    "atlas/wardrobe/vinyl-pants.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🎬 配方.md",
+    "🧱 元素图鉴.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/platform-sandals",
+   "path": "atlas/wardrobe/platform-sandals.md",
+   "type": "Visual Element",
+   "title": "厚底凉鞋（Platform Sandals）",
+   "description": "厚底/松糕底、绑带或搭扣的凉鞋，拉长比例，Y2K 甜辣与偶像造型标配。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "footwear"
+   ],
+   "status": "stable",
+   "one_liner": "platform sandals, chunky wedge sandals, cork / clear / rhinestone platform, ankle strap, Y2K",
+   "keywords": [
+    "`platform sandals",
+    "chunky wedge sandals",
+    "cork / clear / rhinestone platform",
+    "ankle strap",
+    "Y2K",
+    "spice-girl shoes",
+    "block heel`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/wardrobe/baby-tee.md",
+    "atlas/wardrobe/denim-micro-skirt.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/sheer-cardigan",
+   "path": "atlas/wardrobe/sheer-cardigan.md",
+   "type": "Visual Element",
+   "title": "薄开衫（Sheer / Knit Cardigan）",
+   "description": "轻薄透视的针织或网纱开衫，松垮披搭，是混搭层叠造型的关键中层。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "layering"
+   ],
+   "status": "stable",
+   "one_liner": "Sheer Cardigan 为薄针织或透视网纱制成的开襟外套，纽扣可敞开，制造柔和层次。",
+   "keywords": [
+    "`sheer cardigan",
+    "lightweight knit cardigan",
+    "open-front",
+    "semi-sheer",
+    "slouchy",
+    "fine shimmer knit",
+    "draped layer",
+    "Y2K layering`"
+   ],
+   "links_to": [
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/metallic-cami.md",
+    "atlas/wardrobe/tube-top.md"
+   ],
+   "linked_from": [
+    "atlas/wardrobe/metallic-cami.md",
+    "atlas/wardrobe/tube-top.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "🎬 配方.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/tube-top",
+   "path": "atlas/wardrobe/tube-top.md",
+   "type": "Visual Element",
+   "title": "抹胸（Tube Top）",
+   "description": "无肩带、贴合胸线的直筒抹胸，常以弹性针织或亮面材质制作。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "top"
+   ],
+   "status": "stable",
+   "one_liner": "Tube Top 是无肩带、围绕胸线的弹性上衣，简洁而有 70s–2000s 复古感。",
+   "keywords": [
+    "`tube top",
+    "strapless top",
+    "bandeau",
+    "elastic fitted",
+    "striped / metallic tube top",
+    "Y2K strapless`"
+   ],
+   "links_to": [
+    "atlas/wardrobe/cropped-bomber.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/sheer-cardigan.md"
+   ],
+   "linked_from": [
+    "atlas/wardrobe/sheer-cardigan.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/velour-tracksuit",
+   "path": "atlas/wardrobe/velour-tracksuit.md",
+   "type": "Visual Element",
+   "title": "丝绒运动套装（Velour Tracksuit）",
+   "description": "连帽拉链外套 + 同料长裤的丝绒套装，Juicy Couture 带火的千禧名流制服。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "set"
+   ],
+   "status": "stable",
+   "one_liner": "velour tracksuit, velvet hoodie and pants, matching set, Juicy Couture style, low-rise track",
+   "keywords": [
+    "`velour tracksuit",
+    "velvet hoodie and pants",
+    "matching set",
+    "Juicy Couture style",
+    "low-rise track",
+    "pants",
+    "zip hoodie",
+    "plush sheen",
+    "Y2K celebrity casual`"
+   ],
+   "links_to": [
+    "atlas/accessories/mini-bag.md",
+    "atlas/accessories/wrap-sunglasses.md",
+    "atlas/wardrobe/chunky-sneakers.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/wardrobe/vinyl-pants",
+   "path": "atlas/wardrobe/vinyl-pants.md",
+   "type": "Visual Element",
+   "title": "PVC 亮面裤（Vinyl Pants）",
+   "description": "乙烯基/PVC 材质的亮面长裤，镜面反光，Cyber Metal 标志单品。",
+   "tags": [
+    "y2k",
+    "wardrobe",
+    "bottom"
+   ],
+   "status": "stable",
+   "one_liner": "vinyl pants, PVC trousers, shiny patent pants, glossy black, reflective, latex-look, cyber Y2K",
+   "keywords": [
+    "`vinyl pants",
+    "PVC trousers",
+    "shiny patent pants",
+    "glossy black",
+    "reflective",
+    "latex-look",
+    "cyber Y2K`"
+   ],
+   "links_to": [
+    "atlas/accessories/wrap-sunglasses.md",
+    "atlas/wardrobe/metallic-cami.md"
+   ],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "guides/image-assets",
+   "path": "guides/image-assets.md",
+   "type": "Guide",
+   "title": "图像资产层规范",
+   "description": "本地图像资产的存放、命名、绑定与检索约定，解决\"审美资产依赖外部 CDN\"的结构性风险。",
+   "tags": [
+    "guide",
+    "assets",
+    "images",
+    "storage"
+   ],
+   "status": "stable",
+   "one_liner": "审美资产的核心是\"看见\"。但当前设计里，图片只能以 URL 形式写在配方的产物记录中",
+   "keywords": [],
+   "links_to": [],
+   "linked_from": [
+    "🏠 主页.md"
+   ]
+  },
+  {
+   "id": "guides/image-generation",
+   "path": "guides/image-generation.md",
+   "type": "Guide",
+   "title": "图片生成规范",
+   "description": "将风格配方或临时选择组装为图像模型 prompt、负向词与参数的规范。",
+   "tags": [
+    "guide",
+    "image-generation",
+    "prompt"
+   ],
+   "status": "stable",
+   "one_liner": "按以下顺序拼接英文描述，先具体后抽象，逗号分隔；每类只保留最有信息量的 2–4 个词：",
+   "keywords": [],
+   "links_to": [
+    "atlas/grade/anti-modern-digital.md"
+   ],
+   "linked_from": [
+    "AGENTS.md",
+    "guides/style-exploration.md"
+   ]
+  },
+  {
+   "id": "guides/ingestion",
+   "path": "guides/ingestion.md",
+   "type": "Guide",
+   "title": "原料编译管道",
+   "description": "将 raw/ 中的审美书籍、杂志、扫描件、文章编译为 atlas/ 结构化概念的流程。",
+   "tags": [
+    "guide",
+    "ingestion",
+    "pipeline",
+    "raw",
+    "compile"
+   ],
+   "status": "stable",
+   "one_liner": "类似 LLM wiki 的编译机制：原始材料进 raw/，经本管道\"编译\"为图鉴中的原子概念。",
+   "keywords": [],
+   "links_to": [
+    "guides/maintenance.md",
+    "raw/_template-source.md"
+   ],
+   "linked_from": [
+    "AGENTS.md"
+   ]
+  },
+  {
+   "id": "guides/maintenance",
+   "path": "guides/maintenance.md",
+   "type": "Guide",
+   "title": "维护规范",
+   "description": "资产库命名、粒度、元数据、索引、日志、生命周期与配方版本规则。",
+   "tags": [
+    "guide",
+    "maintenance",
+    "conventions",
+    "metadata"
+   ],
+   "status": "stable",
+   "one_liner": "允许自定义新 type；未知 type 按通用概念处理，不得报错。",
+   "keywords": [],
+   "links_to": [],
+   "linked_from": [
+    "AGENTS.md",
+    "guides/ingestion.md"
+   ]
+  },
+  {
+   "id": "guides/new-style-pack",
+   "path": "guides/new-style-pack.md",
+   "type": "Guide",
+   "title": "新建风格包规范",
+   "description": "如何为本库新增一个风格运动、子风格或风格家族，含完整 checklist 与质量门槛。",
+   "tags": [
+    "guide",
+    "authoring",
+    "movement",
+    "substyle",
+    "workflow"
+   ],
+   "status": "stable",
+   "one_liner": "那它应该建成风格家族，而不是硬塞成一个子风格。本库实践：Visual Kei 即按此处理",
+   "keywords": [],
+   "links_to": [],
+   "linked_from": [
+    "AGENTS.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "guides/recipe-schema",
+   "path": "guides/recipe-schema.md",
+   "type": "Guide",
+   "title": "配方 schema 规范",
+   "description": "配方双表示约定（Markdown 给人读 + YAML 给 agent 读）、字段定义与校验规则。",
+   "tags": [
+    "guide",
+    "recipe",
+    "schema",
+    "machine-readable"
+   ],
+   "status": "stable",
+   "one_liner": "配方是本库最重要的复用单元，但它有两种读者，需求相反：",
+   "keywords": [],
+   "links_to": [],
+   "linked_from": [
+    "AGENTS.md",
+    "🎬 配方.md"
+   ]
+  },
+  {
+   "id": "guides/style-exploration",
+   "path": "guides/style-exploration.md",
+   "type": "Guide",
+   "title": "风格探索协议",
+   "description": "Agent 基于资产库与用户共同探索、收敛并沉淀视觉风格的对话流程。",
+   "tags": [
+    "guide",
+    "protocol",
+    "exploration",
+    "workflow"
+   ],
+   "status": "stable",
+   "one_liner": "目标：当用户\"说不清楚想要什么\"时，agent 通过结构化提问 + 快速视觉试错，把模糊审美收敛为",
+   "keywords": [],
+   "links_to": [
+    "atlas/mood/index.md",
+    "guides/image-generation.md",
+    "guides/video-generation.md",
+    "log.md",
+    "recipes/index.md",
+    "references/index.md"
+   ],
+   "linked_from": [
+    "AGENTS.md",
+    "🏠 主页.md"
+   ]
+  },
+  {
+   "id": "guides/video-generation",
+   "path": "guides/video-generation.md",
+   "type": "Guide",
+   "title": "视频生成规范",
+   "description": "将图片与风格配方组装为视频生成 prompt（运镜/动作/节奏/转场/声音）的规范。",
+   "tags": [
+    "guide",
+    "video-generation",
+    "prompt",
+    "motion"
+   ],
+   "status": "stable",
+   "one_liner": "以已确认的角色定妆照为首帧，最大程度保证主角不换脸。视频 prompt 只描述\"动\"的部分，",
+   "keywords": [],
+   "links_to": [
+    "atlas/audio/index.md",
+    "atlas/motion/index.md"
+   ],
+   "linked_from": [
+    "AGENTS.md",
+    "guides/style-exploration.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ]
+  },
+  {
+   "id": "raw/_template-source",
+   "path": "raw/_template-source.md",
+   "type": "Raw Source",
+   "title": "<原料标题>",
+   "description": "<一句话说明这份原料是什么>",
+   "tags": [
+    "raw",
+    "<books|magazines|scans|articles>"
+   ],
+   "status": "draft",
+   "one_liner": "<这份原料覆盖哪些维度：人物 / 发型 / 妆容 / 服装 / 配饰 / 场景 / 配色 / 材质 / 光影 / 镜头 / 质感 / 动态 / 情绪；",
+   "keywords": [],
+   "links_to": [],
+   "linked_from": [
+    "guides/ingestion.md"
+   ]
+  },
+  {
+   "id": "recipes/visual-kei-kote-cold-black",
+   "path": "recipes/visual-kei-kote-cold-black.md",
+   "type": "Style Recipe",
+   "title": "Visual Kei · Kote-kei 冷黑肖像（Cold Black Kote-kei Portrait）",
+   "description": "全黑西装、石膏白妆、尖刺立发的经典日系视觉系配方，强单点硬光与高对比质感，含图/视频双 prompt。",
+   "tags": [
+    "visual-kei",
+    "recipe",
+    "kote-kei",
+    "dark",
+    "portrait"
+   ],
+   "status": "stable",
+   "one_liner": "一位性别模糊的日系视觉系表演者，石膏般惨白的脸、上挑的粗黑眼线、",
+   "keywords": [],
+   "links_to": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/mood/cold-futuristic.md",
+    "atlas/setting/dark-stage.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "guides/video-generation.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ],
+   "linked_from": [
+    "🎬 配方.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "recipes/y2k-warm-dv-idol",
+   "path": "recipes/y2k-warm-dv-idol.md",
+   "type": "Style Recipe",
+   "title": "Y2K · 暖调 DV 千禧偶像（Warm DV Millennium Idol）",
+   "description": "橙粉/古铜/脏金暖调、老DV与杂志质感的亚洲偶像少女配方，含图/视频双prompt。",
+   "tags": [
+    "y2k",
+    "recipe",
+    "warm",
+    "idol",
+    "dv"
+   ],
+   "status": "stable",
+   "one_liner": "一位 2000 年代亚洲偶像感少女，在贴满海报的暖光卧室里，金属吊带叠穿薄开衫、低腰裤与闪亮配饰，",
+   "keywords": [],
+   "links_to": [
+    "atlas/accessories/belly-chain.md",
+    "atlas/accessories/body-glitter.md",
+    "atlas/accessories/choker.md",
+    "atlas/accessories/mini-bag.md",
+    "atlas/accessories/rhinestone-jewelry-set.md",
+    "atlas/accessories/wrap-sunglasses.md",
+    "atlas/color/warm-dv-bronze-palette.md",
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/grade/lens-flare-haze.md",
+    "atlas/grade/magazine-flash-grade.md",
+    "atlas/grade/vhs-dv-texture.md",
+    "atlas/hair/chunky-highlights.md",
+    "atlas/hair/face-framing-highlights.md",
+    "atlas/lighting/direct-flash.md",
+    "atlas/lighting/warm-tungsten.md",
+    "atlas/makeup/frosted-eyeshadow.md",
+    "atlas/makeup/glossy-lips.md",
+    "atlas/makeup/sunburnt-blush.md",
+    "atlas/makeup/thin-arched-brows.md",
+    "atlas/material/denim-wash.md",
+    "atlas/material/gold-lame.md",
+    "atlas/material/sequins-beading.md",
+    "atlas/mood/nostalgic-bittersweet.md",
+    "atlas/setting/band-posters.md",
+    "atlas/setting/desktop-crt.md",
+    "atlas/setting/flip-phone.md",
+    "atlas/setting/lava-lamp.md",
+    "atlas/setting/plushies.md",
+    "atlas/setting/poster-bedroom.md",
+    "atlas/subject/character-archetypes/asian-millennium-idol.md",
+    "atlas/subject/expressions.md",
+    "atlas/subject/face-and-skin.md",
+    "atlas/subject/poses.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/metallic-cami.md",
+    "atlas/wardrobe/platform-sandals.md",
+    "atlas/wardrobe/sheer-cardigan.md",
+    "guides/video-generation.md"
+   ],
+   "linked_from": [
+    "atlas/subject/character-archetypes/asian-millennium-idol.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "🎬 配方.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "references/brands/dior-galliano",
+   "path": "references/brands/dior-galliano.md",
+   "type": "Reference",
+   "title": "Dior by John Galliano",
+   "description": "Galliano 执掌的 Christian Dior（1997–2011），千禧高定的浪漫、流浪与华丽混搭。",
+   "tags": [
+    "y2k",
+    "reference",
+    "brand"
+   ],
+   "status": "stable",
+   "one_liner": "John Galliano Dior, romantic haute couture, bias-cut satin, layered eclecticism, newspaper print,",
+   "keywords": [
+    "`John Galliano Dior",
+    "romantic haute couture",
+    "bias-cut satin",
+    "layered eclecticism",
+    "newspaper print",
+    "baroque embellishment",
+    "theatrical Y2K luxury",
+    "saddle bag`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/visual-kei-angura.md"
+   ]
+  },
+  {
+   "id": "references/brands/juicy-couture",
+   "path": "references/brands/juicy-couture.md",
+   "type": "Reference",
+   "title": "Juicy Couture",
+   "description": "美国品牌，以彩色丝绒运动套装定义千禧名流「运动奢华」休闲风。",
+   "tags": [
+    "y2k",
+    "reference",
+    "brand"
+   ],
+   "status": "stable",
+   "one_liner": "Juicy Couture, velour tracksuit, bedazzled logo on rear, matching hoodie and low-rise pants,",
+   "keywords": [
+    "`Juicy Couture",
+    "velour tracksuit",
+    "bedazzled logo on rear",
+    "matching hoodie and low-rise pants",
+    "2000s celebrity casual",
+    "track suit glamour`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "references/brands/louis-vuitton-murakami",
+   "path": "references/brands/louis-vuitton-murakami.md",
+   "type": "Reference",
+   "title": "Louis Vuitton × Murakami",
+   "description": "2003 年起 Louis Vuitton 与村上隆联名，彩色/樱花 monogram 把高定、街头与御宅文化融合。",
+   "tags": [
+    "y2k",
+    "reference",
+    "brand"
+   ],
+   "status": "stable",
+   "one_liner": "Louis Vuitton Murakami monogram, multicolor / cherry-blossom logo, Takashi Murakami collaboration,",
+   "keywords": [
+    "`Louis Vuitton Murakami monogram",
+    "multicolor / cherry-blossom logo",
+    "Takashi Murakami collaboration",
+    "playful luxury",
+    "colorful printed leather",
+    "Y2K it-bag`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "references/brands/von-dutch",
+   "path": "references/brands/von-dutch.md",
+   "type": "Reference",
+   "title": "Von Dutch",
+   "description": "以卡车帽与 Kustom Kulture 美学闻名的街头品牌，千禧 logomania 代表。",
+   "tags": [
+    "y2k",
+    "reference",
+    "brand"
+   ],
+   "status": "stable",
+   "one_liner": "Von Dutch trucker hat, mesh cap with logo, Kustom Kulture, pinstripe / flame graphics, 2000s",
+   "keywords": [
+    "`Von Dutch trucker hat",
+    "mesh cap with logo",
+    "Kustom Kulture",
+    "pinstripe / flame graphics",
+    "2000s",
+    "streetwear logomania",
+    "celebrity casual`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "references/creators/david-lachapelle",
+   "path": "references/creators/david-lachapelle.md",
+   "type": "Reference",
+   "title": "David LaChapelle（大卫·拉夏培尔）",
+   "description": "高饱和超现实千禧商业摄影师。",
+   "tags": [
+    "y2k",
+    "reference",
+    "photographer"
+   ],
+   "status": "stable",
+   "one_liner": "David LaChapelle：美国商业/时尚摄影师，以高饱和色彩、超现实布景与 glossy 名人肖像定义千禧影像。",
+   "keywords": [
+    "`David LaChapelle style",
+    "hyper-saturated surreal pop photography",
+    "glossy flash-lit celebrities",
+    "elaborate kitsch sets",
+    "candy colors",
+    "theatrical",
+    "consumerist dreamscape",
+    "high-shine`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/subject/character-archetypes/androgynous-performer.md"
+   ]
+  },
+  {
+   "id": "references/eras/late-1990s-early-2000s",
+   "path": "references/eras/late-1990s-early-2000s.md",
+   "type": "Reference",
+   "title": "时代：1990s 末–2000s 初（Late 90s–Early 00s）",
+   "description": "千禧年之交的技术、媒介与流行文化背景。",
+   "tags": [
+    "y2k",
+    "reference",
+    "era"
+   ],
+   "status": "stable",
+   "one_liner": "约 1997–2006 的千禧之交：冷战结束后的全球化繁荣、互联网商业化、移动通讯萌芽，以及对 21 世纪",
+   "keywords": [
+    "`turn of the millennium",
+    "late 1990s–early 2000s",
+    "pre-smartphone era",
+    "dial-up",
+    "flip phone",
+    "CD era",
+    "optimistic futurism",
+    "Y2K pop culture",
+    "analog-digital transition`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "references/iconography/butterfly-motif",
+   "path": "references/iconography/butterfly-motif.md",
+   "type": "Reference",
+   "title": "蝴蝶母题（Butterfly Motif）",
+   "description": "Y2K 最具代表性的轻盈符号。",
+   "tags": [
+    "y2k",
+    "reference",
+    "iconography"
+   ],
+   "status": "stable",
+   "one_liner": "象征蜕变、轻盈、新世纪的自由与少女幻想；常见于发夹、项链、印花、美甲与贴纸。",
+   "keywords": [
+    "`butterfly motifs",
+    "glittering butterflies",
+    "butterfly clips and charms",
+    "iridescent wings",
+    "delicate butterfly print",
+    "Y2K symbol`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "references/iconography/flame-motif",
+   "path": "references/iconography/flame-motif.md",
+   "type": "Reference",
+   "title": "火焰母题（Flame Motif）",
+   "description": "横跨甜酷与街头的热情/危险符号。",
+   "tags": [
+    "y2k",
+    "reference",
+    "iconography"
+   ],
+   "status": "stable",
+   "one_liner": "象征热情、速度与危险；常见于改装文化、印花裤、美甲、彩绘与朋克造型。",
+   "keywords": [
+    "`flame graphics",
+    "fire print",
+    "hot-rod flames",
+    "flame-tipped nails",
+    "blazing heart",
+    "Y2K KustomKulture fire motif`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "references/iconography/heart-motif",
+   "path": "references/iconography/heart-motif.md",
+   "type": "Reference",
+   "title": "爱心母题（Heart Motif）",
+   "description": "浪漫甜美的核心符号，常带光泽或火焰变体。",
+   "tags": [
+    "y2k",
+    "reference",
+    "iconography"
+   ],
+   "status": "stable",
+   "one_liner": "象征浪漫与消费主义式的甜美；心形墨镜、吊坠、腰带扣与贴纸高频出现。",
+   "keywords": [
+    "`heart symbols",
+    "glossy / flaming hearts",
+    "heart-shaped sunglasses",
+    "rhinestone hearts",
+    "Y2K loveicon",
+    "cute heart print`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "references/works/millennium-mvs",
+   "path": "references/works/millennium-mvs.md",
+   "type": "Reference",
+   "title": "千禧年 MV 合集（Millennium Music Videos）",
+   "description": "塑造 Y2K 视觉的欧美与日韩标志性 MV。",
+   "tags": [
+    "y2k",
+    "reference",
+    "mv"
+   ],
+   "status": "stable",
+   "one_liner": "千禧年前后塑造 Y2K 视觉的标志性 MV（按地区）。",
+   "keywords": [
+    "`early-2000s music video look",
+    "flash-lit idol sets",
+    "metallic and sequin outfits",
+    "choreographed",
+    "dance",
+    "glossy pop princess",
+    "J-pop / K-pop golden era",
+    "Y2K MV lighting`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "references/works/the-matrix",
+   "path": "references/works/the-matrix.md",
+   "type": "Reference",
+   "title": "《黑客帝国》（The Matrix, 1999）",
+   "description": "Cyber Metal 子风格的电影视觉锚点。",
+   "tags": [
+    "y2k",
+    "reference",
+    "film"
+   ],
+   "status": "stable",
+   "one_liner": "《黑客帝国》（The Matrix, 1999）：以黑色长风衣、乳胶质感、绿色代码与冷调数字美学，",
+   "keywords": [
+    "`The Matrix (1999)",
+    "black trench coat",
+    "latex / leather",
+    "green digital code rain",
+    "mirrored",
+    "sunglasses",
+    "cold cyber palette",
+    "slow-motion",
+    "sleek dystopian future`"
+   ],
+   "links_to": [],
+   "linked_from": [
+    "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "🎬 配方",
+   "path": "🎬 配方.md",
+   "type": "moc",
+   "title": "🎬 配方 MOC",
+   "description": "所有可用风格配方的浏览与状态看板——含产物评分与已知问题。",
+   "tags": [
+    "moc",
+    "recipe"
+   ],
+   "status": "",
+   "one_liner": "修身黑西装与蕾丝细节，站在一束聚光灯下的纯黑空间。",
+   "keywords": [],
+   "links_to": [
+    "assets/recipes/visual-kei-kote-cold-black/v1-2026-10-12.png",
+    "assets/recipes/y2k-warm-dv-idol/v1-2026-10-12-jimeng.png",
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/color/warm-dv-bronze-palette.md",
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/grade/vhs-dv-texture.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/lighting/warm-tungsten.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/metallic-cami.md",
+    "atlas/wardrobe/sheer-cardigan.md",
+    "guides/recipe-schema.md",
+    "log.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ],
+   "linked_from": [
+    "AGENTS.md",
+    "📘 Obsidian 使用指南.md"
+   ]
+  },
+  {
+   "id": "🏠 主页",
+   "path": "🏠 主页.md",
+   "type": "index",
+   "title": "🏠 审美资产库 · 主页",
+   "description": "Obsidian 个人审美资产库的浏览入口——从这里进入风格、配方、元素与原料。",
+   "tags": [
+    "moc",
+    "home",
+    "dashboard"
+   ],
+   "status": "",
+   "one_liner": "python3 tools/validate.py       # 一致性校验（链接/frontmatter/配方引用）",
+   "keywords": [],
+   "links_to": [
+    "AGENTS.md",
+    "assets/index.md",
+    "atlas/accessories/index.md",
+    "atlas/audio/index.md",
+    "atlas/camera/index.md",
+    "atlas/color/index.md",
+    "atlas/grade/index.md",
+    "atlas/hair/index.md",
+    "atlas/lighting/index.md",
+    "atlas/makeup/index.md",
+    "atlas/material/index.md",
+    "atlas/mood/index.md",
+    "atlas/motion/index.md",
+    "atlas/setting/index.md",
+    "atlas/subject/index.md",
+    "atlas/taxonomy/movements/index.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md",
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/taxonomy/movements/y2k-retro-future.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "atlas/wardrobe/index.md",
+    "guides/image-assets.md",
+    "guides/index.md",
+    "guides/style-exploration.md",
+    "index/compact.md",
+    "log.md",
+    "raw/index.md",
+    "recipes/index.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "recipes/y2k-warm-dv-idol.md",
+    "references/index.md",
+    "templates/元素页模板.md",
+    "📘 Obsidian 使用指南.md"
+   ],
+   "linked_from": [
+    "AGENTS.md",
+    "📘 Obsidian 使用指南.md"
+   ]
+  },
+  {
+   "id": "📘 Obsidian 使用指南",
+   "path": "📘 Obsidian 使用指南.md",
+   "type": "guide",
+   "title": "📘 Obsidian 使用指南",
+   "description": "本 vault 的人类使用说明——打开方式、导航、图谱配色、编辑约定、模板与维护命令。",
+   "tags": [
+    "guide",
+    "obsidian",
+    "moc"
+   ],
+   "status": "stable",
+   "one_liner": "1. 启动 Obsidian → 点 \"Open folder as vault\"",
+   "keywords": [],
+   "links_to": [
+    "AGENTS.md",
+    "🎬 配方.md",
+    "🏠 主页.md",
+    "🗺️ 风格系谱.md",
+    "🧱 元素图鉴.md"
+   ],
+   "linked_from": [
+    "🏠 主页.md"
+   ]
+  },
+  {
+   "id": "🗺️ 风格系谱",
+   "path": "🗺️ 风格系谱.md",
+   "type": "moc",
+   "title": "🗺️ 风格系谱 MOC",
+   "description": "所有风格运动与子风格的浏览地图——从家族根页进入各分支。",
+   "tags": [
+    "moc",
+    "taxonomy",
+    "movement"
+   ],
+   "status": "",
+   "one_liner": "",
+   "keywords": [],
+   "links_to": [
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/makeup/dark-lips.md",
+    "atlas/makeup/smoky-eye-visual-kei.md",
+    "atlas/makeup/tear-bag-makeup.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/material/leather-and-hardware.md",
+    "atlas/material/satin-velvet.md",
+    "atlas/motion/stage-performance-motion.md",
+    "atlas/setting/dark-stage.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/taxonomy/movements/visual-kei-angura.md",
+    "atlas/taxonomy/movements/visual-kei-kirakira.md",
+    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
+    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-cyber-goth.md",
+    "atlas/taxonomy/movements/y2k-cyber-metal.md",
+    "atlas/taxonomy/movements/y2k-grunge-glam.md",
+    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
+    "atlas/taxonomy/movements/y2k-mcbling.md",
+    "atlas/taxonomy/movements/y2k-retro-future.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "guides/new-style-pack.md",
+    "recipes/visual-kei-kote-cold-black.md",
+    "recipes/y2k-warm-dv-idol.md"
+   ],
+   "linked_from": [
+    "AGENTS.md",
+    "📘 Obsidian 使用指南.md"
+   ]
+  },
+  {
+   "id": "🧱 元素图鉴",
+   "path": "🧱 元素图鉴.md",
+   "type": "moc",
+   "title": "🧱 元素图鉴 MOC",
+   "description": "14 个视觉维度的原子元素总入口——发型、妆容、材质、光影、质感等积木箱。",
+   "tags": [
+    "moc",
+    "atlas",
+    "elements"
+   ],
+   "status": "",
+   "one_liner": "",
+   "keywords": [],
+   "links_to": [
+    "atlas/accessories/body-glitter.md",
+    "atlas/accessories/index.md",
+    "atlas/audio/index.md",
+    "atlas/camera/index.md",
+    "atlas/color/index.md",
+    "atlas/color/visual-kei-monochrome.md",
+    "atlas/color/warm-dv-bronze-palette.md",
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/grade/high-contrast-grade.md",
+    "atlas/grade/index.md",
+    "atlas/grade/vhs-dv-texture.md",
+    "atlas/hair/chunky-highlights.md",
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/hair/index.md",
+    "atlas/hair/spiky-styled-hair.md",
+    "atlas/lighting/direct-flash.md",
+    "atlas/lighting/dramatic-single-source.md",
+    "atlas/lighting/index.md",
+    "atlas/makeup/index.md",
+    "atlas/makeup/white-foundation.md",
+    "atlas/makeup/winged-eyeliner.md",
+    "atlas/material/index.md",
+    "atlas/material/lace-and-tulle.md",
+    "atlas/mood/index.md",
+    "atlas/motion/index.md",
+    "atlas/setting/dark-stage.md",
+    "atlas/setting/index.md",
+    "atlas/setting/poster-bedroom.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/subject/index.md",
+    "atlas/wardrobe/black-tailored-suit.md",
+    "atlas/wardrobe/index.md",
+    "atlas/wardrobe/low-rise-jeans.md",
+    "atlas/wardrobe/metallic-cami.md"
+   ],
+   "linked_from": [
+    "AGENTS.md",
+    "📘 Obsidian 使用指南.md"
+   ]
+  }
+ ]
+}
