@@ -1,0 +1,97 @@
+# Visual Kei · Kote-kei 冷黑肖像（完整版）— 机读配方
+id: y2k-warm-dv-idol
+version: 2
+title_zh: "Y2K · 暖调 DV 千禧偶像"
+title_en: "Warm DV Millennium Idol"
+status: stable
+updated: 2026-10-12
+movement: atlas/taxonomy/movements/y2k.md
+substyle:
+  - atlas/taxonomy/movements/y2k-sweet-candy.md
+
+locked:
+  archetype: atlas/subject/character-archetypes/asian-millennium-idol.md
+  skin: atlas/subject/face-and-skin.md
+  hair:
+    - atlas/hair/face-framing-highlights.md
+    - atlas/hair/chunky-highlights.md
+  makeup:
+    eyes: atlas/makeup/frosted-eyeshadow.md
+    blush: atlas/makeup/sunburnt-blush.md
+    lips: atlas/makeup/glossy-lips.md
+    brows: atlas/makeup/thin-arched-brows.md
+  wardrobe:
+    - atlas/wardrobe/metallic-cami.md
+    - atlas/wardrobe/sheer-cardigan.md
+    - atlas/wardrobe/low-rise-jeans.md
+  accessories:
+    - atlas/accessories/choker.md
+    - atlas/accessories/belly-chain.md
+    - atlas/accessories/rhinestone-jewelry-set.md
+    - atlas/accessories/body-glitter.md
+  setting: atlas/setting/poster-bedroom.md
+  color: atlas/color/warm-dv-bronze-palette.md
+  material:
+    - atlas/material/gold-lame.md
+    - atlas/material/sequins-beading.md
+    - atlas/material/denim-wash.md
+  lighting: atlas/lighting/warm-tungsten.md
+  grade:
+    - atlas/grade/vhs-dv-texture.md
+    - atlas/grade/magazine-flash-grade.md
+    - atlas/grade/lens-flare-haze.md
+  mood: atlas/mood/nostalgic-bittersweet.md
+
+tunable:
+  expression: [candid-laugh, looking-back]
+  pose: [sitting-bed-edge, hand-on-hip]
+  footwear: [platform-sandals, knee-high-boots, chunky-sneakers]
+  props:
+    - atlas/setting/desktop-crt.md
+    - atlas/setting/plushies.md
+    - atlas/setting/band-posters.md
+    - atlas/setting/lava-lamp.md
+    - atlas/setting/flip-phone.md
+  sunglasses: [in-hand, on-head, worn]
+  grade_strength: [light, medium, heavy]
+  aspect_ratio: ["4:3", "3:4", "9:16"]
+
+video:
+  camera: [handheld-sway, slow-push-in]
+  duration_sec: [5, 8]
+  pacing: slow-dreamy
+
+prompts:
+  image_ref: "recipes/y2k-warm-dv-idol.md#Image Prompt（EN，已组装 · v2）"
+  video_ref: "recipes/y2k-warm-dv-idol.md#Video Prompt（EN，备用；本次不生成）"
+  negative_ref: "recipes/y2k-warm-dv-idol.md#Negative Prompt（v2 · 两层结构）"
+
+outputs:
+  - date: 2026-10-12
+    type: still
+    version: v1
+    dimensions: "2364x1773"
+    aspect: "4:3"
+    remote_url: "https://aka.doubaocdn.com/s/LtVVF5U004"
+    local_path: "assets/recipes/y2k-warm-dv-idol/v1-2026-10-12.png"
+    rating: 2                 # 1-5，年代感不足
+    verdict: fail             # pass | partial | fail
+    issues: ["medium layer missing: looks like modern digital photo",
+             "period authenticity lost"]
+  - date: 2026-10-12
+    type: still
+    version: v1
+    model: "jimeng seedream-5.0-lite"
+    dimensions: "1440x2560"
+    aspect: "9:16"            # 期望 4:3/3:4，被平台忽略
+    local_path: "assets/recipes/y2k-warm-dv-idol/v1-2026-10-12-jimeng.png"
+    rating: 2
+    verdict: fail
+    issues: ["no retro texture, looks contemporary",
+             "wrong aspect ratio (9:16 instead of 4:3)",
+             "modern smartphone visible on bed"]
+
+taste:
+  affinity: 4
+  confidence: medium
+  note: "首个落地配方，验证了暖调方向；CDN 链接需本地化"

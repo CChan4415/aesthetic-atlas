@@ -1,0 +1,12 @@
+# 生成物（可重建，不入库）
+index/graph.json
+index/compact.md
+
+# Obsidian 私有状态（每台机器不同，且含窗口布局等噪音）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 系统噪音
+.DS_Store
+**/.DS_Store

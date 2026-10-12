@@ -1,0 +1,201 @@
+# 资产库变更日志
+
+>  newest first；日期用 `YYYY-MM-DD`。
+
+## 2026-10-12 · 第二阶段：迁移 + 视觉系家族 + 结构性加固
+
+### 迁移
+* **迁移到主工作区**：库从 `~/workspace/doubao_workspace/aesthetic-atlas` 迁至
+  `~/workspace/AIGC/aesthetic-atlas`（作为正式主库；原位置保留为历史快照）。
+  迁移时 160 个 Markdown 文件完整保留，0 断链。
+
+### 新增风格：Visual Kei 日系视觉系（风格家族，与 Y2K 平级）
+* **创建家族根页** [[visual-kei|Visual Kei]]——
+  含时代脉络（1980s 中→现在，5 个时期）、**视觉语法 7 条**、核心母题。
+* **创建四个分支**：
+  [[visual-kei-kote-kei|Kote-kei 古典系]]（黑西装/白妆/尖刺发）、
+  [[visual-kei-angura|Angura 暗黑哥特系]]（蕾丝/束腰/和洋折衷）、
+  [[visual-kei-oshare-kei|Oshare-kei 御洒落系]]（彩发/糖果色）、
+  [[visual-kei-kirakira|Kirakira 华丽系]]（亮片/水钻/奢华）。
+* **建为"风格家族"而非单一子风格**——依据是四分支共享同一套视觉语法
+  （面部即画布、非日常发型、雌雄莫辨、造型即叙事）。
+
+### 新增风格：Y2K 亚文化补充
+* [[y2k-cyber-goth|Cyber Goth 赛博哥特]] — 全黑 PVC/护目镜/工业亚文化
+* [[y2k-mcbling|McBling 奢华浮夸]] — 水钻皮草/Logo 狂热/炫富美学
+* [[y2k-harajuku-shibuya|里原宿 / 涩谷系]] — Decora/Gyaru/日系街头（含 4 变体）
+
+### 新增原子元素（14 个）
+* **发型**：尖刺立发、遮眼刘海
+* **妆容**：白妆、上挑眼线、深色烟熏眼、泪袋妆、暗色唇
+* **材质**：蕾丝与网纱、皮革与金属件、缎面与天鹅绒
+* **服装**：黑色修身西装
+* **光影**：强单点光
+* **质感**：高对比戏剧质感
+* **配色**：视觉系·黑白冷调
+* **主体**：性别模糊表演者（视觉系核心原型）
+* **场景**：空旷舞台与暗厅
+* **动态**：舞台表演动态（视频用）
+
+### 新增配方
+* [[visual-kei-kote-cold-black|Visual Kei · Kote-kei 冷黑肖像]] — 第二个完整配方（v1）
+  含 image/video prompt、负向词、可调参数；与 Y2K 暖调配方构成"冷/暖两极"。
+
+### 结构性加固（补 OKF 的三个缺口）
+* **新增协议** [[recipe-schema|配方 schema 规范]] ——
+  配方**双表示**（`.md` 人读 + `.recipe.yml` 机读），含权威性规则、字段定义、校验规则、`taste` 主观字段。
+  两个配方均已补 `.recipe.yml`。
+* **新增协议** [[new-style-pack|新建风格包规范]] ——
+  填补"如何新建风格运动/子风格/家族"的空白，含 checklist 与质量门槛。
+* **新增协议** [[image-assets|图像资产层规范]] ——
+  建立 `assets/` 本地图像层，解决 CDN 依赖风险；含命名、绑定、参数快照约定。
+* **新增工具** `tools/validate.py` ——
+  一致性校验器：frontmatter/断链/配方引用/资产/索引/命名。当前 **0 错误 0 警告**。
+* **新增工具** `tools/build_index.py` ——
+  生成 [[compact|`index/compact.md`]] 与 `index/graph.json`（含出链/入链），
+  解决"162 个概念页需逐层读 index"的检索退化问题。
+
+### 修复
+* 修正新增页面中的跨维度相对链接（movement ↔ 元素页需 `../taxonomy/movements/`，
+  深层目录需额外上溯一级）；迁移后断链从 87 条降至 0。
+* 根 `index.md` 补 `type` 字段（OKF 唯一必填）。
+* 补 `references/eras/`、`atlas/subject/character-archetypes/` 的 `index.md`。
+* 校验器增加**代码块剥离**，避免把文档示例误判为真实链接。
+
+### 验证
+* **一致性**：192 个 Markdown（162 个概念页），`tools/validate.py` 通过，**0 错误 0 警告**。
+* **检索索引**：162 个概念页已索引，9 个 type 分组，关系图含出链/入链。
+* **配方**：2 个配方双表示配对完整，引用全部有效。
+
+---
+
+## 2026-10-12 · 第一阶段：初始化
+* **初始化**：建立 OKF v0.2 知识包骨架（`atlas/ recipes/ references/ raw/ guides/`）。
+* **创建**：五个 agent 协议——风格探索、图片生成、视频生成、原料编译、维护规范。
+* **创建**：Y2K 核心包（四大子风格、人物/发型/妆容/服装/配饰/场景/色彩/材质/光影/镜头/质感/动态/声音/情绪全维度原子元素）。
+* **创建**：首个完整配方 [[y2k-warm-dv-idol|Y2K · 暖调 DV 千禧偶像]]。
+* **产出**：按配方生成暖调 DV 偶像静帧 v1（2364×1773，4:3），写入画布并 `+get` 回读确认。
+* **验证**：OKF v0.2 一致性检查通过——160 个 Markdown（133 个概念文件），0 个规范错误、0 个断链。
+
+---
+
+## 2026-10-12 · 第三阶段：用户出图反馈 → 修复现代感问题
+
+### 用户实测产出
+* 用户以**即梦 Seedream 5.0 Lite**生成两配方图片，落地到 `assets/recipes/`。
+* **Kote-kei 冷黑肖像**：✅ 方向达成（白妆/尖刺发/黑西装/冷调/性别模糊均对）。
+* **Y2K 暖调 DV 偶像**：❌ **失败**——用户评价"太现实了，没有 2000s 复古质感"。
+
+### 诊断出的失败根因（4 条）
+1. **质感只写在 prompt 末尾一处**，被前 200 词主体描述淹没 → 模型几乎忽略
+2. **负向词只有内容层**（现代物品），缺**介质层**（HDR/DSLR/磨皮/降噪）
+3. **未声明拍摄介质**（没写 "shot on 2000s DV camcorder"）
+4. **画幅只写在 prompt 文字里**，被平台忽略（要 4:3，输出 9:16）
+
+### 修复
+* **新增元素页** [[anti-modern-digital|去现代数码感]]——
+  负向控制元素，含：介质层负向词库、介质锚定写法、强度分级、**完整失败案例记录**。
+  明确区分"内容层（拍什么）"与"介质层（怎么拍的）"。
+* **重写 Y2K 配方 prompt（v1→v2）**：
+  - 介质锚定句**前置到第 5 词**（原在末尾）
+  - 显式写入 `NOT a modern digital photograph`
+  - 皮肤改为 `visible powder foundation texture (not airbrushed)`（对抗磨皮）
+  - 打光 `touch of flash` → `Harsh on-camera direct flash, slightly overexposed`
+  - 正向补 `(NO modern smartphone)`
+  - 负向词扩为**两层结构**，介质层覆盖 7/7 关键项
+* **重写图片生成规范**（guides/image-generation.md）：
+  - 负向词库分内容层/介质层，并给出**按方向取舍表**（怀旧必加、当代戏剧不要加）
+  - 新增「介质锚定 Medium Anchoring」段（5 类介质的正向写法）
+  - 新增画幅警告：**必须用平台原生参数**，勿只写 prompt
+  - 新增「失败归档」机制说明
+* **配方产物记录**：两个配方均回填真实产物、评分、verdict、问题清单；
+  `.recipe.yml` 的 `outputs` 补 `rating`/`verdict`/`issues` 字段，Y2K 配方 version → 2。
+
+### 关键区分（避免过度修正）
+* **Y2K 需要**「去现代数码感」；**Visual Kei Kote-kei 不需要**——
+  后者要的是"当代戏剧高清"，加了做旧会削弱锐利感。已在两处显式标注。
+
+### 验证
+* `tools/validate.py`：194 个 Markdown、163 个概念页，**0 错误**。
+* 结构自检：Y2K v2 prompt 中介质锚定位于**第 5 词**（原末尾）；
+  负向词介质层覆盖 7/7 关键项。
+
+---
+
+## 2026-10-12 · 第五阶段：双库架构确立 + 孤儿页修复
+
+### 双库架构（确立）
+* 明确 **`aesthetic-atlas`（A 库）= 事实源 SSOT**，`aesthetic-vault`（B 库）= Obsidian 前端。
+* **关键依据**：`[[wikilink]]` 是 Obsidian 私有扩展，非标准 Markdown，
+  在 GitHub/VS Code/Typora/pandoc 中退化为纯文本，**不符合 OKF 规范**；
+  而 Obsidian **能**渲染标准 Markdown 链接——即标准链接是超集。
+  → 故两库并存，A 为源、B 为视图，**不可合并**。
+* 新增 **`obsidian-setup/sync.py`**：`a2b` / `b2a` / `check` 三命令，
+  保护 B 库独有的 `.obsidian/`、MOC 页、`templates/`。首次 `check` 显示仅 2 处分叉，
+  `a2b` 后**两库完全一致**。
+
+### 修复孤儿页：57 → 0
+* **修复分析器 bug（主因）**：`tools/build_index.py` 此前把所有 `index.md`
+  整个跳过，导致**目录索引页的出链不计入入链统计**——
+  57 个"孤儿页"中绝大多数其实**被各自的 index.md 正常引用**，只是统计不到。
+  已改为：index 页不作概念条目收录，但其出链计入 `linked_from`。
+* **补齐真实缺失的引用**：在 [[y2k|Y2K 风格页]] 新增
+  「子风格专属元素 / 场景道具 / 视频动态 / 音乐与参考」四个索引段落，
+  将此前无任何页面引用的 41 个元素按归属关系登记（motion 14、setting 8、
+  references 8、hair 4、wardrobe 4 等）。
+* **新增主体链接**：[[visual-kei|Visual Kei]] 根页
+  现引用核心主体原型 [[androgynous-performer|性别模糊表演者]]。
+* **修复链接深度 bug**：从 `atlas/taxonomy/movements/` 出发的链接需 `../../`，
+  指向库根 `references/` 需 `../../../`（首次提交时写错，断链 20+ 条，已修正）。
+* **结果**：完全无入链 0 个；仅被 index 页引用 2 个（`guides/ingestion.md`、
+  `guides/style-exploration.md`，属协议枢纽页，合理）。
+
+### 验证
+* `tools/validate.py`：194 个 Markdown，**0 错误**。
+* 入链统计恢复正常：Kote-kei 18 条居首，白妆 12 条——图谱中心性符合预期。
+
+---
+
+## 2026-10-12 · 第六阶段：合并为单库（用户裁定）
+
+### 决策依据（第一性原理复核）
+用户质疑"Obsidian 不能移植"的结论。复核后**用户正确，此前判断有误**：
+
+* **错误论断**：wikilink 离开 Obsidian 就失去价值 → 故此必须保留双库。
+* **事实**：agent **不"点击"链接**，它读文件内容后用路径/名称访问文件。
+  对比解析难度：
+  - `[白妆](../../atlas/makeup/white-foundation.md)` —— 需先知道**当前文件所在目录**才能解析 `../..`，**位置相关**
+  - `[[white-foundation|白妆]]` —— 按 basename 全局查找，**路径无关**
+  → **wikilink 对 agent 更鲁棒，而非更弱。**
+* **唯一真实代价**：GitHub 等平台不渲染 wikilink 为可点击链接。
+  但这是**渲染层**问题，不影响内容、结构、agent 使用。
+
+### 执行
+* 旧 OKF 库归档为 `aesthetic-atlas.okf-backup/`（未删除，可回退）。
+* Obsidian 库重命名为 **`aesthetic-atlas/`（唯一主库）**。
+* 工作区 `AGENTS.md` 重写：说明单库架构、可移植性、agent 使用方式。
+* 库内 `📘 Obsidian 使用指南.md` 更新：删除"双库分叉"章节，改为说明
+  **Obsidian 是人的可选项，不是库的依赖**。
+
+### 修复（可移植性实测暴露的真实缺陷）
+模拟"复制到新机器 + 删除 `.obsidian/`"，实测发现 **113 个链接无法解析**。逐项修复：
+* **图片被误转成 wikilink**：`[v1-2026-10-12.png](../assets/…)` → `[[v1-2026-10-12]]`（丢失路径）。
+  已改为 Obsidian 附件语法 `![[v1-2026-10-12.png]]`，共 3 处。
+* **非笔记文件被误转**：`tools/validate.py`、`index/graph.json`、`.recipe.yml`
+  被转成 wikilink 后无法解析。已改为行内代码引用，共 6 处。
+* **校验器补规则**：Obsidian 附件链接按 **basename 全局解析**（可在库内任意位置），
+  此前校验器不认，导致误报。
+
+### 验证（可移植性实测）
+```
+复制到 /tmp/portability-test/ + 删除 .obsidian/ + 全新路径：
+  ① tools/validate.py      → 0 错误
+  ② 824 个 wikilink 解析    → 0 失败
+  ③ tools/build_index.py    → 169 概念页，出/入链完整
+  ④ 配方 prompt 提取         → 185 词，正常
+  → 无 Obsidian 全功能可用 ✅
+```
+
+### 当前状态
+* 单库 `aesthetic-atlas/`：203 个 Markdown，0 错误，0 孤儿页，824 wikilink 全通。
+* 工作区 `AGENTS.md` + 库内 `AGENTS.md` 均已更新为单库架构。

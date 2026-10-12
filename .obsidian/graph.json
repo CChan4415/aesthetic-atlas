@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:atlas/taxonomy/movements",
+      "color": {
+        "a": 1,
+        "rgb": 15267026
+      }
+    },
+    {
+      "query": "path:recipes",
+      "color": {
+        "a": 1,
+        "rgb": 16736212
+      }
+    },
+    {
+      "query": "path:atlas/grade or path:atlas/lighting or path:atlas/color",
+      "color": {
+        "a": 1,
+        "rgb": 5886711
+      }
+    },
+    {
+      "query": "path:atlas/makeup or path:atlas/hair",
+      "color": {
+        "a": 1,
+        "rgb": 16237492
+      }
+    },
+    {
+      "query": "path:guides",
+      "color": {
+        "a": 1,
+        "rgb": 8560613
+      }
+    },
+    {
+      "query": "path:references",
+      "color": {
+        "a": 1,
+        "rgb": 10987431
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.35,
+  "lineSizeMultiplier": 1.1,
+  "collapse-forces": true,
+  "centerStrength": 0.45,
+  "repelStrength": 11,
+  "linkStrength": 0.7,
+  "linkDistance": 190,
+  "scale": 0.6663403037583325,
+  "close": false
+}

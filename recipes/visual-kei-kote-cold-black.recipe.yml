@@ -1,0 +1,75 @@
+# Visual Kei · Kote-kei 冷黑肖像 — 机读配方
+# 本文件是 recipes/visual-kei-kote-cold-black.md 的机器可读表示。
+# 规范见 guides/recipe-schema.md。所有引用 ID 均相对于本库根目录。
+id: visual-kei-kote-cold-black
+version: 1
+title_zh: "Visual Kei · Kote-kei 冷黑肖像"
+title_en: "Cold Black Kote-kei Portrait"
+status: stable
+updated: 2026-10-12
+movement: atlas/taxonomy/movements/visual-kei.md
+substyle:
+  - atlas/taxonomy/movements/visual-kei-kote-kei.md
+
+# locked = 风格签名，改动即视为新配方；tunable = 可按项目替换
+locked:
+  archetype: androgynous-japanese-performer
+  makeup:
+    base: atlas/makeup/white-foundation.md
+    eyes:
+      - atlas/makeup/winged-eyeliner.md
+      - atlas/makeup/smoky-eye-visual-kei.md
+    lips: atlas/makeup/dark-lips.md
+  hair:
+    - atlas/hair/spiky-styled-hair.md
+    - atlas/hair/eye-covering-bangs.md
+  wardrobe:
+    - atlas/wardrobe/black-tailored-suit.md
+  material:
+    - atlas/material/leather-and-hardware.md
+    - atlas/material/lace-and-tulle.md
+  color: atlas/color/visual-kei-monochrome.md
+  lighting: atlas/lighting/dramatic-single-source.md
+  setting: atlas/setting/dark-stage.md
+  grade: atlas/grade/high-contrast-grade.md
+  mood: atlas/mood/cold-futuristic.md
+
+tunable:
+  pose: [upright, three-quarter-turn, hand-near-face]
+  eye_visibility: [one-eye-covered, both-visible]
+  background: [pure-black, stage, old-mansion]
+  prop: [none, microphone, guitar]
+  grade_strength: [light, medium, heavy]
+  aspect_ratio: ["3:4", "2:3", "9:16"]
+
+# 视频专用
+video:
+  motion: atlas/motion/stage-performance-motion.md
+  camera: [slow-push-in, static-locked-off]
+  duration_sec: [5, 8]
+  pacing: slow-deliberate
+
+prompts:
+  image_ref: "recipes/visual-kei-kote-cold-black.md#Image Prompt（EN，已组装）"
+  video_ref: "recipes/visual-kei-kote-cold-black.md#Video Prompt（EN）"
+  negative_ref: "recipes/visual-kei-kote-cold-black.md#Negative Prompt"
+
+outputs:
+  - date: 2026-10-12
+    type: still
+    version: v1
+    model: "jimeng seedream-5.0-lite"
+    dimensions: "1440x2560"
+    aspect: "9:16"            # 期望 3:4，被平台忽略
+    local_path: "assets/recipes/visual-kei-kote-cold-black/v1-2026-10-12.png"
+    rating: 4                 # 1-5
+    verdict: pass
+    issues: ["wrong aspect ratio (9:16 instead of 3:4)",
+             "background became foggy rather than empty dark stage"]
+    notes: "方向验证通过：白妆/尖刺发/黑西装/冷调/性别模糊均达成"
+
+
+taste:
+  affinity: 5          # 1-5，主观喜好
+  confidence: medium   # low | medium | high — 对自身偏好的确定程度
+  note: "用户明确的日系视觉系方向；冷黑Kote为家族基准"
