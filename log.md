@@ -2,6 +2,35 @@
 
 >  newest first；日期用 `YYYY-MM-DD`。
 
+## 2026-10-16 · 第十一阶段：Y2K 产物去重 + raw/videos 目录改名
+
+### 修复：Y2K 配方产物 PNG 重复
+* **问题**：`assets/recipes/y2k-warm-dv-idol/` 下两个 PNG 文件 MD5 完全一致——
+  `v1-2026-10-12.png` 与 `v1-2026-10-12-jimeng.png` 是**同一张图**被存了两次。
+* **真相**：recipe.yml 记录的是**两次独立生成**（不同尺寸 2364×1773 vs 1440×2560、不同平台），
+  但磁盘上两份文件实际都是后者（1440×2560）。第一张图（CDN 那张 4:3）**本地副本从未真正落盘**。
+* **修复**：
+  - 删除错误的 `v1-2026-10-12.png`（它其实是 jimeng 那张的副本）
+  - `recipe.yml` outputs[0] 的 `local_path` 改为 `null`，issues 追加 `local file lost; only CDN copy remains`
+  - `recipe.md` 产物表第一行改为「⚠️ 本地文件丢失；仅有 CDN」
+* **教训**：**保存产物时必须核对实际尺寸与声明是否一致**。两张图重名同尺寸时，
+  简单的 `cp` 会用后者覆盖前者而无声无息。
+
+### 修复：`raw/vidoes/` → `raw/videos/` 拼写
+* 目录名拼写错误，且 `.gitignore` 已同步。
+
+### 修复：`recipes/y2k-warm-dv-idol.recipe.yml` L1 注释错误
+* 注释抄成了「Visual Kei · Kote-kei 冷黑肖像（完整版）」—— 改为正确的 Y2K 配方名。
+
+### 新增：整改计划
+* 工作区根目录新建 `WBS.md`，列出 5 阶段 24 项任务（含验收标准与时间估算）。
+* 关键路径是第 2 阶段——用 `raw/videos/` 4 个 PS1/PS2 风格 3D 短片首次跑通编译管道。
+
+### 验证
+* `python3 tools/validate.py` — **0 错误 0 警告**。
+
+---
+
 ## 2026-10-16 · 第十阶段：修复表格 wikilink 转义 + frontmatter
 
 ### 修复：表格内 wikilink 别名竖线未转义（126 处）

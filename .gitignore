@@ -17,5 +17,4 @@
 
 # 原始视频原料（体积大、不可文本化，不入 Git；raw/ 下的 _source.md 登记表仍入库）
 # 若需分享视频，单独用网盘 / 文件传输，不走 Git
-raw/vidoes/
 raw/videos/

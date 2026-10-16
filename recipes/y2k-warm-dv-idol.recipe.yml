@@ -1,4 +1,6 @@
-# Visual Kei · Kote-kei 冷黑肖像（完整版）— 机读配方
+# Y2K · 暖调 DV 千禧偶像（完整版）— 机读配方
+# 本文件是 recipes/y2k-warm-dv-idol.md 的机器可读表示。
+# 规范见 guides/recipe-schema.md。所有引用 ID 均相对于本库根目录。
 id: y2k-warm-dv-idol
 version: 2
 title_zh: "Y2K · 暖调 DV 千禧偶像"
@@ -73,11 +75,12 @@ outputs:
     dimensions: "2364x1773"
     aspect: "4:3"
     remote_url: "https://aka.doubaocdn.com/s/LtVVF5U004"
-    local_path: "assets/recipes/y2k-warm-dv-idol/v1-2026-10-12.png"
+    local_path: null              # ⚠️ 本地文件丢失（曾被误存为 jimeng 那张的副本，已删除）
     rating: 2                 # 1-5，年代感不足
     verdict: fail             # pass | partial | fail
     issues: ["medium layer missing: looks like modern digital photo",
-             "period authenticity lost"]
+             "period authenticity lost",
+             "local file lost; only CDN copy remains"]
   - date: 2026-10-12
     type: still
     version: v1
