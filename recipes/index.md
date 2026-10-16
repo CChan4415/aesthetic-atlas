@@ -30,6 +30,10 @@
   * 机读：`ps2-lowpoly-jk-slice-of-life.recipe.yml`
   * 原料：[[raw/videos/_source|raw/videos/]]（4 部参考视频）
 
+* [[ps2-lowpoly-androgynous-male]] — **PS2 低多边形 · 雌雄莫辨少年**：
+  少年向通用配方（不限场景），遮眼刘海 + 休闲街头，日式小厨房/机车/老式铁馆（v1 · draft · 待出图验证）
+  * 机读：`ps2-lowpoly-androgynous-male.recipe.yml`
+
 > 三个配方构成本库当前的三极：**真人写真（Y2K）/ 舞台戏剧（Visual Kei）/ 虚拟 3D（Retro Game CG）**——
 > 三种完全不同的**介质**。
 

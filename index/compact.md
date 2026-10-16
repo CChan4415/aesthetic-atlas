@@ -6,7 +6,7 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 
 # 检索索引
 
-> 自动生成，共 **180** 个概念页。**请勿手工编辑**——由 `tools/build_index.py` 产出。
+> 自动生成，共 **184** 个概念页。**请勿手工编辑**——由 `tools/build_index.py` 产出。
 > 完整数据（含关键词与出/入链）见 `graph.json`。
 
 ## 用法（给 agent）
@@ -84,8 +84,9 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 - [Visual Kei · 日系视觉系](../atlas/taxonomy/movements/visual-kei.md) — 1980s 中起于日本摇滚场景的视觉化美学家族，以戏剧化妆容、极端发型与华丽服装为核心，90s 末–00s 初为黄金期。
 - [Y2K · 千禧年风格](../atlas/taxonomy/movements/y2k.md) — 约1997–2006千禧之交的乐观未来主义风格，含四大子风格。
 
-## Style Recipe（3）
+## Style Recipe（4）
 
+- [PS2 低多边形 · 雌雄莫辨少年（PS2 Low-Poly Androgynous Male）](../recipes/ps2-lowpoly-androgynous-male.md) — 2000s PS2 游戏渲染风格的低多边形少年角色通用配方——遮眼刘海、休闲街头穿搭，场景可调（厨房/街道/铁馆），含图/视频双 prompt。
 - [PS2 低多边形 JK 校园日常（PS2 Low-Poly JK Slice-of-Life）](../recipes/ps2-lowpoly-jk-slice-of-life.md) — 2000s PS1/PS2 游戏渲染风格的低多边形 JK 校园日常——块状头发、贴图五官、走廊/食堂/地下通道场景，含图/视频双 prompt。
 - [Visual Kei · Kote-kei 冷黑肖像（Cold Black Kote-kei Portrait）](../recipes/visual-kei-kote-cold-black.md) — 全黑西装、石膏白妆、尖刺立发的经典日系视觉系配方，强单点硬光与高对比质感，含图/视频双 prompt。
 - [Y2K · 暖调 DV 千禧偶像（Warm DV Millennium Idol）](../recipes/y2k-warm-dv-idol.md) — 橙粉/古铜/脏金暖调、老DV与杂志质感的亚洲偶像少女配方，含图/视频双prompt。
@@ -108,7 +109,7 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 
 - [AGENTS.md](../AGENTS.md) — 原子元素   ──组合──▶  子风格   ──锁定──▶  配方
 
-## Visual Element（109）
+## Visual Element（112）
 
 - [印花方巾（Bandana）](../atlas/accessories/bandana.md) — 佩斯利印花棉质方巾，系于颈、头、腕或包袋，街头与嘻哈元素。
 - [肚链（Belly Chain）](../atlas/accessories/belly-chain.md) — 环绕腰腹、垂在小腹或髋骨的细链，强调露腰造型，是千禧辣妹标志。
@@ -184,8 +185,10 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 - [串灯 / 霓虹灯牌（Fairy Lights）](../atlas/setting/fairy-lights.md) — 缠绕的小灯泡串或小型霓虹灯牌，制造点状暖色光源。
 - [翻盖手机（Flip Phone）](../atlas/setting/flip-phone.md) — 千禧年标志性的折叠/滑盖小手机，彩色外壳、天线、小外屏。
 - [拍立得 / 傻瓜机（Instant Camera）](../atlas/setting/instant-camera.md) — 即时成像相机或胶片傻瓜机，闪光灯、彩色塑料机身。
+- [日式小厨房 · 2000s（Japanese Apartment Kitchen · 2000s）](../atlas/setting/japanese-kitchen-2000s.md) — 2000 年代日本公寓的窄长小厨房——煤气灶、小冰箱、电饭煲、木质台面，晨光小窗，拥挤但有生活感，低多边形 3D 场景。
 - [熔岩灯（Lava Lamp）](../atlas/setting/lava-lamp.md) — 玻璃容器内缓慢变形的彩色蜡团，迷幻柔光。
 - [商场 / 游戏厅（Mall / Arcade）](../atlas/setting/mall-arcade.md) — 千禧年购物中心、游戏厅或大头贴馆，霓虹、自动扶梯、游戏机与店铺招牌。
+- [老式铁馆（Old-School Iron Gym）](../atlas/setting/old-school-gym-iron.md) — 2000 年代前的老式健身房——铁皮哑铃架、光秃杠铃杆、水泥墙、小告示、白炽灯/荧光灯，无玻璃幕墙无跑步机阵列，硬核撸铁氛围。
 - [粉色浴室（Pink Bathroom）](../atlas/setting/pink-bathroom.md) — 粉/彩色瓷砖、陶瓷浴缸与镜面的复古浴室，闪光灯下有强烈千禧写真感。
 - [毛绒玩具（Plushies / Beanie Babies）](../atlas/setting/plushies.md) — 床上与架子上的毛绒玩偶、Beanie Babies 豆豆娃，增添私密少女感。
 - [千禧卧室（Poster-Covered Bedroom）](../atlas/setting/poster-bedroom.md) — 贴满海报、堆满私物的少女卧室，是 Y2K 人物向创作最私密、信息量最丰富的场景。
@@ -194,6 +197,7 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 - [黄昏停车场/天台（Sunset Parking Lot）](../atlas/setting/sunset-parking-lot.md) — 露天停车场、天台或空旷街道在橙粉夕阳下的场景，逆光、长阴影、电影感。
 - [电子宠物（Tamagotchi）](../atlas/setting/tamagotchi.md) — 蛋形掌上电子宠物机，挂绳、小液晶屏与按键。
 - [瓷砖地下通道（Underground Passage · Tiled）](../atlas/setting/underground-passage-tiled.md) — 2000s 都市地下通道的低多边形 3D 场景——白色瓷砖墙、顶部荧光灯、贴满海报与告示，混凝土或瓷砖地面，昏暗中带暖光。
+- [雌雄莫辨少年（Androgynous Male Youth / 中和面少年）](../atlas/subject/character-archetypes/androgynous-male-youth.md) — 低多边形 3D 风格的日系少年原型——瘦削体型、柔和面部线条、遮眼刘海，介于少年与青年之间的模糊年龄感，气质偏冷偏静，与视觉系"性别模糊"同源但日常化。
 - [性别模糊表演者（Androgynous Performer）](../atlas/subject/character-archetypes/androgynous-performer.md) — 刻意模糊性别的角色原型——兼有男性与女性特征的美学主体，是日系视觉系与千禧时装影像的共同核心。
 - [亚洲千禧偶像（Asian Millennium Idol）](../atlas/subject/character-archetypes/asian-millennium-idol.md) — 2000 年代前后东亚偶像工业制造的少女形象：精致、亲和、带舞台光泽，参考早安少女组、S.E.S.、滨崎步、安室奈美惠、宇多田光等，健康肤色或瓷白肌，笑容甜而有分寸。
 - [低多边形 JK 角色（Low-Poly JK Character）](../atlas/subject/character-archetypes/lowpoly-jk-character.md) — 2000s 游戏风格的低多边形日本女高中生 3D 角色——块状三角面头发、贴图绘制五官、JK 制服（开衫+衬衫+蝴蝶结+格子裙），是 Retro Game CG 的核心人物原型。

@@ -1,0 +1,57 @@
+# PS2 低多边形 · 雌雄莫辨少年 — 机读配方
+# 本文件是 recipes/ps2-lowpoly-androgynous-male.md 的机器可读表示。
+# 规范见 guides/recipe-schema.md。所有引用 ID 均相对于本库根目录。
+id: ps2-lowpoly-androgynous-male
+version: 1
+title_zh: "PS2 低多边形 · 雌雄莫辨少年"
+title_en: "PS2 Low-Poly Androgynous Male"
+status: draft
+updated: 2026-10-17
+movement: atlas/taxonomy/movements/retro-game-cg.md
+substyle: []
+
+# locked = 风格签名，改动即视为新配方；tunable = 可按项目替换
+locked:
+  archetype: atlas/subject/character-archetypes/androgynous-male-youth.md
+  render_medium: atlas/grade/low-poly-3d-render.md
+  hair: atlas/hair/eye-covering-bangs.md
+  wardrobe_style: "casual street: loose hoodie/t-shirt + cargo pants/jeans + chunky sneakers"
+  color_mood: "low-saturation grey-green / cyan / dark yellow, overall cool"
+  grade: atlas/grade/low-poly-3d-render.md
+  mood: "lonely, quiet, morning, slightly melancholic"
+  aspect_ratio: "4:3"
+
+tunable:
+  setting:
+    - atlas/setting/japanese-kitchen-2000s.md
+    - atlas/setting/old-school-gym-iron.md
+    - atlas/setting/underground-passage-tiled.md
+  camera:
+    - atlas/camera/third-person-game-camera.md
+    - atlas/camera/security-camera-cctv.md
+    - eye-level-medium-shot
+  wardrobe_variant: [hoodie, t-shirt, rider-jacket]
+  overlays: [none, bilingual-subtitles, bounding-box]
+  poly_strength: [light, medium, heavy]
+  motorcycle_scene: [riding, pushing]
+  motorcycle_type: "2000s Japanese standard bike (round headlight, single cylinder)"
+
+video:
+  structure: "4-shot montage: breakfast → door → riding → gym"
+  camera: [static-locked-off, fixed-interior, follow-behind, fixed-low-angle]
+  duration_sec: [8, 15]
+  frame_rate: [12, 15]
+  pacing: "slow-melancholic, music added in post"
+  motion_effects: [vertex-wobble, frame-skips, scanlines]
+
+prompts:
+  image_ref: "recipes/ps2-lowpoly-androgynous-male.md#Image Prompt（EN，已组装 · v1 · 厨房场景）"
+  video_ref: "recipes/ps2-lowpoly-androgynous-male.md#Video Prompts（EN · v1 · 4 镜头分镜）"
+  negative_ref: "recipes/ps2-lowpoly-androgynous-male.md#Negative Prompt（v1 · 两层结构）"
+
+outputs: []
+
+taste:
+  affinity: 5
+  confidence: high
+  note: "用户主动指定方向：男生少年感 + 早餐/机车/铁馆视频；图片先行验证"

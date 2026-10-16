@@ -7,6 +7,7 @@
 * [[virtual-doll-3d|virtual-doll-3d]] — 虚拟人偶 / 早期 CG 角色
 * [[mixed-ethereal-muse|mixed-ethereal-muse]] — 混血空灵缪斯（时尚大片）
 * [[lowpoly-jk-character|lowpoly-jk-character]] — **低多边形 JK 角色**（Retro Game CG 核心主体）
+* [[androgynous-male-youth|androgynous-male-youth]] — **雌雄莫辨少年**（Retro Game CG 男性向原型，瘦削遮眼刘海）
 
 ## 面容与身体
 * [[face-and-skin]] — 人种特征、肤色、底妆质感

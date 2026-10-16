@@ -1,7 +1,7 @@
 {
  "generated_by": "tools/build_index.py",
  "note": "可再生成产物，请勿手工编辑",
- "count": 180,
+ "count": 184,
  "entries": [
   {
    "id": "AGENTS",
@@ -434,6 +434,7 @@
     "atlas/grade/digital-overlays.md",
     "atlas/grade/low-poly-3d-render.md",
     "atlas/setting/school-corridor-cctv.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md"
@@ -491,6 +492,7 @@
     "atlas/grade/low-poly-3d-render.md",
     "atlas/setting/school-cafeteria-3d.md",
     "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md"
@@ -685,6 +687,7 @@
     "AGENTS.md",
     "atlas/taxonomy/movements/retro-game-cg.md",
     "guides/image-generation.md",
+    "recipes/ps2-lowpoly-androgynous-male.md",
     "recipes/ps2-lowpoly-jk-slice-of-life.md",
     "recipes/visual-kei-kote-cold-black.md",
     "recipes/y2k-warm-dv-idol.md",
@@ -959,9 +962,12 @@
     "atlas/camera/third-person-game-camera.md",
     "atlas/grade/digital-overlays.md",
     "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/japanese-kitchen-2000s.md",
+    "atlas/setting/old-school-gym-iron.md",
     "atlas/setting/school-cafeteria-3d.md",
     "atlas/setting/school-corridor-cctv.md",
     "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md"
@@ -1047,6 +1053,7 @@
     "atlas/grade/digital-overlays.md",
     "atlas/grade/low-poly-3d-render.md",
     "atlas/setting/school-cafeteria-3d.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "🗺️ 风格系谱.md"
    ]
@@ -1180,6 +1187,7 @@
     "atlas/makeup/white-foundation.md",
     "atlas/makeup/winged-eyeliner.md",
     "atlas/motion/stage-performance-motion.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
     "atlas/wardrobe/black-tailored-suit.md",
     "🗺️ 风格系谱.md",
@@ -3245,6 +3253,49 @@
    ]
   },
   {
+   "id": "atlas/setting/japanese-kitchen-2000s",
+   "path": "atlas/setting/japanese-kitchen-2000s.md",
+   "type": "Visual Element",
+   "title": "日式小厨房 · 2000s（Japanese Apartment Kitchen · 2000s）",
+   "description": "2000 年代日本公寓的窄长小厨房——煤气灶、小冰箱、电饭煲、木质台面，晨光小窗，拥挤但有生活感，低多边形 3D 场景。",
+   "tags": [
+    "retro-game-cg",
+    "setting",
+    "kitchen",
+    "japanese-apartment",
+    "2000s",
+    "3d"
+   ],
+   "status": "draft",
+   "one_liner": "2000 年代日本单身公寓（1K / ワンルーム）的窄长小厨房：进门即厨房（玄関旁），",
+   "keywords": [
+    "`small 2000s Japanese apartment kitchen",
+    "narrow single-counter kitchen",
+    "two-burner gas stove",
+    "small white fridge",
+    "rice cooker",
+    "wooden countertop",
+    "stacked bowls and dishes",
+    "hanging hand towel",
+    "small window with morning light",
+    "cluttered but cozy",
+    "1K apartment kitchen",
+    "low-poly kitchen",
+    "2000s Japanese interior",
+    "morning routine setting`"
+   ],
+   "links_to": [
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/visual-kei.md"
+   ],
+   "linked_from": [
+    "atlas/subject/character-archetypes/androgynous-male-youth.md"
+   ]
+  },
+  {
    "id": "atlas/setting/lava-lamp",
    "path": "atlas/setting/lava-lamp.md",
    "type": "Visual Element",
@@ -3297,6 +3348,53 @@
     "atlas/camera/security-camera-cctv.md",
     "atlas/camera/third-person-game-camera.md",
     "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/old-school-gym-iron",
+   "path": "atlas/setting/old-school-gym-iron.md",
+   "type": "Visual Element",
+   "title": "老式铁馆（Old-School Iron Gym）",
+   "description": "2000 年代前的老式健身房——铁皮哑铃架、光秃杠铃杆、水泥墙、小告示、白炽灯/荧光灯，无玻璃幕墙无跑步机阵列，硬核撸铁氛围。",
+   "tags": [
+    "retro-game-cg",
+    "setting",
+    "gym",
+    "iron-gym",
+    "old-school",
+    "2000s",
+    "3d"
+   ],
+   "status": "draft",
+   "one_liner": "old-school iron gym, 2000s basement gym, metal dumbbell rack, bare barbell, flat bench press,",
+   "keywords": [
+    "`old-school iron gym",
+    "2000s basement gym",
+    "metal dumbbell rack",
+    "bare barbell",
+    "flat bench press",
+    "concrete walls",
+    "handwritten notices taped to wall",
+    "chalk dust",
+    "rubber floor mats",
+    "fluorescent tube lighting",
+    "no mirrors",
+    "no treadmills",
+    "hardcore training gym",
+    "Rocky-style gym",
+    "worn equipment",
+    "peeling paint",
+    "community gym",
+    "low-poly gym interior",
+    "2000s sports club`"
+   ],
+   "links_to": [
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
+    "atlas/taxonomy/movements/retro-game-cg.md"
+   ],
+   "linked_from": [
+    "atlas/subject/character-archetypes/androgynous-male-youth.md"
    ]
   },
   {
@@ -3603,9 +3701,64 @@
    "linked_from": [
     "atlas/camera/third-person-game-camera.md",
     "atlas/grade/low-poly-3d-render.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/character-archetypes/androgynous-male-youth",
+   "path": "atlas/subject/character-archetypes/androgynous-male-youth.md",
+   "type": "Visual Element",
+   "title": "雌雄莫辨少年（Androgynous Male Youth / 中和面少年）",
+   "description": "低多边形 3D 风格的日系少年原型——瘦削体型、柔和面部线条、遮眼刘海，介于少年与青年之间的模糊年龄感，气质偏冷偏静，与视觉系\"性别模糊\"同源但日常化。",
+   "tags": [
+    "retro-game-cg",
+    "subject",
+    "character-archetype",
+    "lowpoly",
+    "male",
+    "androgynous",
+    "3d"
+   ],
+   "status": "draft",
+   "one_liner": "柔和近中性的面部线条、遮眼刘海或中长发，年龄感模糊（15–22 岁之间难以判断）。",
+   "keywords": [
+    "`low-poly androgynous teenage boy",
+    "slim delicate build",
+    "feminine face with male body frame",
+    "chunky triangle bangs covering one eye",
+    "shoulder-length dark hair",
+    "soft features",
+    "flat chest",
+    "narrow shoulders",
+    "baggy hoodie",
+    "cargo pants",
+    "chunky sneakers",
+    "quiet melancholic boy",
+    "2000s Japanese game character",
+    "PS2 low-poly male protagonist",
+    "androgynous youth",
+    "slice-of-life boy`"
+   ],
+   "links_to": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/hair/eye-covering-bangs.md",
+    "atlas/setting/japanese-kitchen-2000s.md",
+    "atlas/setting/old-school-gym-iron.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/visual-kei.md"
+   ],
+   "linked_from": [
+    "atlas/setting/japanese-kitchen-2000s.md",
+    "atlas/setting/old-school-gym-iron.md"
    ]
   },
   {
@@ -3651,6 +3804,7 @@
     "references/creators/david-lachapelle.md"
    ],
    "linked_from": [
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "atlas/taxonomy/movements/visual-kei.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
@@ -3751,9 +3905,11 @@
     "atlas/grade/digital-overlays.md",
     "atlas/grade/low-poly-3d-render.md",
     "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/japanese-kitchen-2000s.md",
     "atlas/setting/school-cafeteria-3d.md",
     "atlas/setting/school-corridor-cctv.md",
     "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md"
    ]
@@ -3996,9 +4152,12 @@
     "atlas/camera/third-person-game-camera.md",
     "atlas/grade/low-poly-3d-render.md",
     "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/japanese-kitchen-2000s.md",
+    "atlas/setting/old-school-gym-iron.md",
     "atlas/setting/school-cafeteria-3d.md",
     "atlas/setting/school-corridor-cctv.md",
     "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "🗺️ 风格系谱.md"
    ]
@@ -4254,8 +4413,10 @@
     "atlas/camera/security-camera-cctv.md",
     "atlas/camera/third-person-game-camera.md",
     "atlas/grade/anti-modern-digital.md",
+    "atlas/setting/japanese-kitchen-2000s.md",
     "atlas/setting/school-cafeteria-3d.md",
     "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/androgynous-male-youth.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
     "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "atlas/taxonomy/movements/visual-kei-angura.md",
@@ -5466,6 +5627,29 @@
     "🎬 配方.md",
     "🗺️ 风格系谱.md"
    ]
+  },
+  {
+   "id": "recipes/ps2-lowpoly-androgynous-male",
+   "path": "recipes/ps2-lowpoly-androgynous-male.md",
+   "type": "Style Recipe",
+   "title": "PS2 低多边形 · 雌雄莫辨少年（PS2 Low-Poly Androgynous Male）",
+   "description": "2000s PS2 游戏渲染风格的低多边形少年角色通用配方——遮眼刘海、休闲街头穿搭，场景可调（厨房/街道/铁馆），含图/视频双 prompt。",
+   "tags": [
+    "retro-game-cg",
+    "recipe",
+    "lowpoly",
+    "male",
+    "androgynous",
+    "ps2",
+    "3d"
+   ],
+   "status": "draft",
+   "one_liner": "一位低多边形 3D 风格的日系少年，瘦削体型、遮眼刘海、柔和近中性的面部，",
+   "keywords": [],
+   "links_to": [
+    "atlas/grade/anti-modern-digital.md"
+   ],
+   "linked_from": []
   },
   {
    "id": "recipes/ps2-lowpoly-jk-slice-of-life",

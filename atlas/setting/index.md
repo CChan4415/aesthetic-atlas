@@ -14,6 +14,8 @@
 * [[school-corridor-cctv]] — 学校走廊（监控视角，荧光灯 + 瓷砖墙 + 储物柜）
 * [[underground-passage-tiled]] — 瓷砖地下通道（海报墙 + 荧光灯 + 混凝土）
 * [[school-cafeteria-3d]] — 学校食堂（长条木桌 + 午后阳光 + JK 群体）
+* [[japanese-kitchen-2000s]] — 日式小厨房（窄长台面 + 煤气灶 + 晨光小窗）
+* [[old-school-gym-iron]] — 老式铁馆（铁皮哑铃架 + 光杆杠铃 + 水泥墙）
 
 > **对比**：Y2K 场景是"生活化的怀旧"（真人摄影）；
 > 视觉系场景是"非日常的戏剧空间"（舞台肖像）；

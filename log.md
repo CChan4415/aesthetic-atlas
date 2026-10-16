@@ -2,6 +2,38 @@
 
 >  newest first；日期用 `YYYY-MM-DD`。
 
+## 2026-10-17 · 第十三阶段：新增配方 ps2-lowpoly-androgynous-male（少年向 · draft）
+
+### 背景
+* 用户看完 Retro Game CG 首批产物后明确方向：「不限定校园，从大的方面写配方」；
+  首个具体目标：**男生图片 +「早餐 → 机车 → 健身」视频**。
+* 经 grilling 20 问收敛：角色 = 视觉系中和面偏男的少年感；服装 = 休闲街头；
+  健身房 = 老式铁馆（避开现代连锁）；机车 = 锁定 2000s 日系街车类别；
+  视频 = 4 镜头短片叙事（8–15s，4:3 上下黑边，后期配乐）；先出图验证再出视频。
+
+### 新增原子元素（3 个）
+* [[androgynous-male-youth]]（subject）—— 雌雄莫辨少年原型；与 [[androgynous-performer]]
+  （视觉系舞台版）对位，本原型为**日常版**；与 [[lowpoly-jk-character]] 构成「少女 / 少年」对
+* [[japanese-kitchen-2000s]]（setting）—— 窄长台面 + 煤气灶 + 小冰箱 + 晨光小窗
+* [[old-school-gym-iron]]（setting）—— 铁皮哑铃架 + 光杆杠铃 + 水泥墙 + 手写告示
+
+### 新增配方
+* [[ps2-lowpoly-androgynous-male]]（v1 · draft）
+  - 介质锚定句沿用 Retro Game CG 家族规则（渲染介质前置）
+  - 负向词两层：内容层 + 渲染介质层 + **年龄防穿帮**（`overly masculine, muscular body, beard, adult man`）
+  - 视频 4 镜头分镜：早餐 → 门口拿头盔 → 第三人称骑行 → 铁馆快切（卧推 + 深蹲）
+
+### 验收标准（用户已确认三项全过才算 pass）
+1. 介质锚定生效（一眼 PS2 低模，非写实 3D / 非 2D 动漫）
+2. 角色形象符合（遮眼刘海 + 少年感 + 雌雄莫辨）
+3. 场景氛围符合（2000s 日系厨房/机车/铁馆，无现代穿帮）
+
+### 验证
+* `tools/validate.py`：220 Markdown / 4 配方 / **0 错误**
+* `tools/build_index.py`：184 概念页
+
+---
+
 ## 2026-10-17 · `tools/validate.py` 新增两条校验规则
 
 ### 规则 1：`check_escapes()` —— 转义污染
