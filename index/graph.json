@@ -31,7 +31,6 @@
     "🧱 元素图鉴.md"
    ],
    "linked_from": [
-    "🏠 主页.md",
     "📘 Obsidian 使用指南.md"
    ]
   },
@@ -87,8 +86,7 @@
    "linked_from": [
     "atlas/wardrobe/baby-tee.md",
     "atlas/wardrobe/low-rise-jeans.md",
-    "atlas/wardrobe/metallic-cami.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/wardrobe/metallic-cami.md"
    ]
   },
   {
@@ -115,7 +113,6 @@
    "links_to": [],
    "linked_from": [
     "atlas/taxonomy/movements/y2k-mcbling.md",
-    "recipes/y2k-warm-dv-idol.md",
     "🧱 元素图鉴.md"
    ]
   },
@@ -144,8 +141,7 @@
    ],
    "linked_from": [
     "atlas/wardrobe/cargo-pants.md",
-    "atlas/wardrobe/halter-top.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/wardrobe/halter-top.md"
    ]
   },
   {
@@ -248,8 +244,7 @@
    "linked_from": [
     "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
     "atlas/taxonomy/movements/y2k-mcbling.md",
-    "atlas/wardrobe/velour-tracksuit.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/wardrobe/velour-tracksuit.md"
    ]
   },
   {
@@ -277,8 +272,7 @@
    "links_to": [],
    "linked_from": [
     "atlas/taxonomy/movements/y2k-mcbling.md",
-    "atlas/wardrobe/metallic-cami.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/wardrobe/metallic-cami.md"
    ]
   },
   {
@@ -306,8 +300,7 @@
    "linked_from": [
     "atlas/taxonomy/movements/y2k-mcbling.md",
     "atlas/wardrobe/velour-tracksuit.md",
-    "atlas/wardrobe/vinyl-pants.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/wardrobe/vinyl-pants.md"
    ]
   },
   {
@@ -422,7 +415,6 @@
    "linked_from": [
     "atlas/color/visual-kei-monochrome.md",
     "atlas/mood/cold-futuristic.md",
-    "atlas/taxonomy/movements/y2k-cyber-metal.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
   },
@@ -452,9 +444,7 @@
     "rave colors`"
    ],
    "links_to": [],
-   "linked_from": [
-    "atlas/taxonomy/movements/y2k-retro-future.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/color/pastel-candy-palette",
@@ -485,7 +475,6 @@
    "linked_from": [
     "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
     "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
-    "atlas/taxonomy/movements/y2k-sweet-candy.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
   },
@@ -516,7 +505,6 @@
    "linked_from": [
     "atlas/grade/high-contrast-grade.md",
     "atlas/lighting/dramatic-single-source.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
@@ -554,8 +542,6 @@
    ],
    "linked_from": [
     "atlas/mood/nostalgic-bittersweet.md",
-    "atlas/taxonomy/movements/y2k-grunge-glam.md",
-    "recipes/y2k-warm-dv-idol.md",
     "🎬 配方.md",
     "🧱 元素图鉴.md"
    ]
@@ -726,7 +712,6 @@
     "atlas/lighting/dramatic-single-source.md",
     "atlas/motion/stage-performance-motion.md",
     "atlas/setting/dark-stage.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
@@ -757,9 +742,7 @@
     "Y2K sparkle`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/grade/light-leak",
@@ -812,9 +795,7 @@
     "Y2K magazine look`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/grade/vhs-dv-texture",
@@ -851,8 +832,6 @@
     "atlas/grade/high-contrast-grade.md",
     "atlas/mood/nostalgic-bittersweet.md",
     "atlas/motion/handheld-sway.md",
-    "atlas/taxonomy/movements/y2k-retro-future.md",
-    "recipes/y2k-warm-dv-idol.md",
     "🎬 配方.md",
     "🧱 元素图鉴.md"
    ]
@@ -880,7 +859,6 @@
    ],
    "links_to": [],
    "linked_from": [
-    "recipes/y2k-warm-dv-idol.md",
     "🧱 元素图鉴.md"
    ]
   },
@@ -950,7 +928,6 @@
     "atlas/motion/stage-performance-motion.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
    ]
@@ -977,9 +954,7 @@
     "soft face-framing layers`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/hair/pin-straight-ionic",
@@ -1100,7 +1075,6 @@
     "atlas/motion/stage-performance-motion.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
@@ -1137,7 +1111,6 @@
    "linked_from": [
     "atlas/grade/anti-modern-digital.md",
     "atlas/taxonomy/movements/y2k-mcbling.md",
-    "recipes/y2k-warm-dv-idol.md",
     "🧱 元素图鉴.md"
    ]
   },
@@ -1192,7 +1165,6 @@
     "atlas/motion/stage-performance-motion.md",
     "atlas/setting/dark-stage.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
@@ -1309,7 +1281,6 @@
    "links_to": [],
    "linked_from": [
     "atlas/lighting/dramatic-single-source.md",
-    "recipes/y2k-warm-dv-idol.md",
     "🎬 配方.md"
    ]
   },
@@ -1355,7 +1326,6 @@
     "atlas/makeup/smoky-eye-visual-kei.md",
     "atlas/makeup/white-foundation.md",
     "atlas/makeup/winged-eyeliner.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🗺️ 风格系谱.md"
    ]
   },
@@ -1407,9 +1377,7 @@
     "2000s eye makeup`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/makeup/glossy-lips",
@@ -1434,9 +1402,7 @@
     "2000s lip`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/makeup/long-acrylic-nails",
@@ -1509,7 +1475,6 @@
     "atlas/makeup/tear-bag-makeup.md",
     "atlas/makeup/white-foundation.md",
     "atlas/makeup/winged-eyeliner.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md"
    ]
@@ -1536,9 +1501,7 @@
     "peachy flush`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/makeup/tear-bag-makeup",
@@ -1603,9 +1566,7 @@
     "penciled precise brows`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/makeup/under-eye-glitter",
@@ -1682,7 +1643,6 @@
     "atlas/makeup/winged-eyeliner.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
@@ -1733,7 +1693,6 @@
     "atlas/makeup/white-foundation.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
@@ -1763,10 +1722,7 @@
     "Y2K denim texture`"
    ],
    "links_to": [],
-   "linked_from": [
-    "atlas/taxonomy/movements/y2k-grunge-glam.md",
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/material/gold-lame",
@@ -1794,9 +1750,7 @@
    "links_to": [],
    "linked_from": [
     "atlas/color/warm-dv-bronze-palette.md",
-    "atlas/taxonomy/movements/visual-kei-kirakira.md",
-    "atlas/taxonomy/movements/y2k-sweet-candy.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/taxonomy/movements/visual-kei-kirakira.md"
    ]
   },
   {
@@ -1845,7 +1799,6 @@
     "atlas/material/leather-and-hardware.md",
     "atlas/material/satin-velvet.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
    ]
@@ -1898,7 +1851,6 @@
     "atlas/material/satin-velvet.md",
     "atlas/taxonomy/movements/y2k-cyber-goth.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🗺️ 风格系谱.md"
    ]
   },
@@ -1930,7 +1882,6 @@
    "linked_from": [
     "atlas/mood/cold-futuristic.md",
     "atlas/taxonomy/movements/visual-kei-kirakira.md",
-    "atlas/taxonomy/movements/y2k-cyber-metal.md",
     "atlas/taxonomy/movements/y2k-mcbling.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
@@ -1964,7 +1915,6 @@
    "linked_from": [
     "atlas/material/leather-and-hardware.md",
     "atlas/taxonomy/movements/y2k-cyber-goth.md",
-    "atlas/taxonomy/movements/y2k-cyber-metal.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
   },
@@ -2039,10 +1989,7 @@
    "links_to": [],
    "linked_from": [
     "atlas/taxonomy/movements/visual-kei-kirakira.md",
-    "atlas/taxonomy/movements/y2k-cyber-metal.md",
-    "atlas/taxonomy/movements/y2k-mcbling.md",
-    "atlas/taxonomy/movements/y2k-sweet-candy.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/taxonomy/movements/y2k-mcbling.md"
    ]
   },
   {
@@ -2072,8 +2019,6 @@
    "links_to": [],
    "linked_from": [
     "atlas/material/lace-and-tulle.md",
-    "atlas/taxonomy/movements/y2k-grunge-glam.md",
-    "atlas/taxonomy/movements/y2k-sweet-candy.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
   },
@@ -2135,8 +2080,7 @@
    ],
    "linked_from": [
     "atlas/hair/eye-covering-bangs.md",
-    "atlas/setting/dark-stage.md",
-    "recipes/visual-kei-kote-cold-black.md"
+    "atlas/setting/dark-stage.md"
    ]
   },
   {
@@ -2166,8 +2110,7 @@
     "atlas/motion/handheld-sway.md"
    ],
    "linked_from": [
-    "atlas/hair/eye-covering-bangs.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/hair/eye-covering-bangs.md"
    ]
   },
   {
@@ -2828,8 +2771,7 @@
    ],
    "links_to": [],
    "linked_from": [
-    "atlas/setting/poster-bedroom.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/setting/poster-bedroom.md"
    ]
   },
   {
@@ -2934,7 +2876,6 @@
     "atlas/setting/poster-bedroom.md"
    ],
    "linked_from": [
-    "recipes/visual-kei-kote-cold-black.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
    ]
@@ -2963,8 +2904,7 @@
    ],
    "links_to": [],
    "linked_from": [
-    "atlas/setting/poster-bedroom.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/setting/poster-bedroom.md"
    ]
   },
   {
@@ -3016,9 +2956,7 @@
     "Y2K technology`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/setting/instant-camera",
@@ -3068,9 +3006,7 @@
     "Y2K room`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/setting/mall-arcade",
@@ -3151,8 +3087,7 @@
    ],
    "links_to": [],
    "linked_from": [
-    "atlas/setting/poster-bedroom.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/setting/poster-bedroom.md"
    ]
   },
   {
@@ -3192,7 +3127,6 @@
    ],
    "linked_from": [
     "atlas/setting/dark-stage.md",
-    "recipes/y2k-warm-dv-idol.md",
     "🧱 元素图鉴.md"
    ]
   },
@@ -3330,8 +3264,7 @@
     "references/works/index.md"
    ],
    "linked_from": [
-    "atlas/subject/character-archetypes/androgynous-performer.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/subject/character-archetypes/androgynous-performer.md"
    ]
   },
   {
@@ -3466,9 +3399,7 @@
     "camera presence`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/subject/face-and-skin",
@@ -3492,9 +3423,7 @@
     "defined features`"
    ],
    "links_to": [],
-   "linked_from": [
-    "recipes/y2k-warm-dv-idol.md"
-   ]
+   "linked_from": []
   },
   {
    "id": "atlas/subject/poses",
@@ -3516,8 +3445,7 @@
    ],
    "links_to": [],
    "linked_from": [
-    "atlas/setting/poster-bedroom.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/setting/poster-bedroom.md"
    ]
   },
   {
@@ -3577,11 +3505,8 @@
     "atlas/makeup/white-foundation.md",
     "atlas/material/lace-and-tulle.md",
     "atlas/material/satin-velvet.md",
-    "atlas/taxonomy/movements/visual-kei.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "🎬 配方.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -3636,11 +3561,9 @@
     "atlas/material/leather-and-hardware.md",
     "atlas/material/satin-velvet.md",
     "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
-    "atlas/taxonomy/movements/visual-kei.md",
     "atlas/taxonomy/movements/y2k-mcbling.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -3694,12 +3617,9 @@
     "atlas/makeup/white-foundation.md",
     "atlas/material/lace-and-tulle.md",
     "atlas/material/leather-and-hardware.md",
-    "atlas/taxonomy/movements/visual-kei.md",
     "atlas/taxonomy/movements/y2k-cyber-goth.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "recipes/visual-kei-kote-cold-black.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -3744,12 +3664,9 @@
    ],
    "linked_from": [
     "atlas/makeup/winged-eyeliner.md",
-    "atlas/taxonomy/movements/visual-kei.md",
     "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "🎬 配方.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -3776,10 +3693,6 @@
     "atlas/makeup/index.md",
     "atlas/material/index.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
-    "atlas/taxonomy/movements/visual-kei-angura.md",
-    "atlas/taxonomy/movements/visual-kei-kirakira.md",
-    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
-    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
     "references/eras/late-1990s-early-2000s.md"
    ],
    "linked_from": [
@@ -3789,7 +3702,6 @@
     "atlas/taxonomy/movements/visual-kei-kirakira.md",
     "atlas/taxonomy/movements/visual-kei-kote-kei.md",
     "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🏠 主页.md",
     "🗺️ 风格系谱.md"
    ]
@@ -3845,9 +3757,7 @@
    "linked_from": [
     "atlas/grade/high-contrast-grade.md",
     "atlas/lighting/dramatic-single-source.md",
-    "🎬 配方.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -3878,20 +3788,14 @@
     "cyber sparkle`"
    ],
    "links_to": [
-    "atlas/color/chrome-cool-palette.md",
-    "atlas/material/liquid-chrome.md",
-    "atlas/material/pvc-vinyl.md",
-    "atlas/material/sequins-beading.md",
     "references/works/index.md"
    ],
    "linked_from": [
     "atlas/material/leather-and-hardware.md",
     "atlas/taxonomy/movements/visual-kei-kote-kei.md",
     "atlas/taxonomy/movements/y2k-cyber-goth.md",
-    "atlas/taxonomy/movements/y2k.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -3926,9 +3830,6 @@
     "riot girl`"
    ],
    "links_to": [
-    "atlas/color/warm-dv-bronze-palette.md",
-    "atlas/material/denim-wash.md",
-    "atlas/material/sheer-mesh.md",
     "references/works/index.md"
    ],
    "linked_from": [
@@ -3941,9 +3842,7 @@
     "atlas/material/leather-and-hardware.md",
     "atlas/mood/rebellious-angsty.md",
     "atlas/taxonomy/movements/y2k-cyber-goth.md",
-    "atlas/taxonomy/movements/y2k.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -3976,8 +3875,7 @@
     "atlas/wardrobe/denim-micro-skirt.md"
    ],
    "linked_from": [
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -4035,9 +3933,7 @@
    ],
    "linked_from": [
     "atlas/material/satin-velvet.md",
-    "🎬 配方.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -4070,16 +3966,12 @@
     "glitch`"
    ],
    "links_to": [
-    "atlas/color/neon-clash-palette.md",
-    "atlas/grade/vhs-dv-texture.md",
     "references/works/index.md"
    ],
    "linked_from": [
     "atlas/hair/spiky-styled-hair.md",
     "atlas/subject/character-archetypes/virtual-doll-3d.md",
-    "atlas/taxonomy/movements/y2k.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -4113,20 +4005,13 @@
     "2000s pop princess`"
    ],
    "links_to": [
-    "atlas/color/pastel-candy-palette.md",
-    "atlas/material/gold-lame.md",
-    "atlas/material/sequins-beading.md",
-    "atlas/material/sheer-mesh.md",
     "references/brands/index.md"
    ],
    "linked_from": [
     "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
     "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
     "atlas/taxonomy/movements/y2k-mcbling.md",
-    "atlas/taxonomy/movements/y2k.md",
-    "recipes/y2k-warm-dv-idol.md",
-    "🏠 主页.md",
-    "🗺️ 风格系谱.md"
+    "🏠 主页.md"
    ]
   },
   {
@@ -4219,10 +4104,6 @@
     "atlas/subject/character-archetypes/virtual-doll-3d.md",
     "atlas/subject/character-archetypes/western-pop-diva.md",
     "atlas/subject/index.md",
-    "atlas/taxonomy/movements/y2k-cyber-metal.md",
-    "atlas/taxonomy/movements/y2k-grunge-glam.md",
-    "atlas/taxonomy/movements/y2k-retro-future.md",
-    "atlas/taxonomy/movements/y2k-sweet-candy.md",
     "atlas/wardrobe/cargo-pants.md",
     "atlas/wardrobe/low-rise-capris.md",
     "atlas/wardrobe/velour-tracksuit.md",
@@ -4335,7 +4216,6 @@
     "atlas/material/leather-and-hardware.md",
     "atlas/motion/stage-performance-motion.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🎬 配方.md",
     "🗺️ 风格系谱.md",
     "🧱 元素图鉴.md"
@@ -4582,7 +4462,6 @@
     "atlas/wardrobe/metallic-cami.md",
     "atlas/wardrobe/sheer-cardigan.md",
     "atlas/wardrobe/tube-top.md",
-    "recipes/y2k-warm-dv-idol.md",
     "🎬 配方.md",
     "🧱 元素图鉴.md"
    ]
@@ -4621,7 +4500,6 @@
     "atlas/wardrobe/low-rise-jeans.md",
     "atlas/wardrobe/sheer-cardigan.md",
     "atlas/wardrobe/vinyl-pants.md",
-    "recipes/y2k-warm-dv-idol.md",
     "🎬 配方.md",
     "🧱 元素图鉴.md"
    ]
@@ -4652,8 +4530,7 @@
    "linked_from": [
     "atlas/wardrobe/baby-tee.md",
     "atlas/wardrobe/denim-micro-skirt.md",
-    "atlas/wardrobe/low-rise-jeans.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "atlas/wardrobe/low-rise-jeans.md"
    ]
   },
   {
@@ -4687,7 +4564,6 @@
    "linked_from": [
     "atlas/wardrobe/metallic-cami.md",
     "atlas/wardrobe/tube-top.md",
-    "recipes/y2k-warm-dv-idol.md",
     "🎬 配方.md"
    ]
   },
@@ -4930,16 +4806,13 @@
    "one_liner": "目标：当用户\"说不清楚想要什么\"时，agent 通过结构化提问 + 快速视觉试错，把模糊审美收敛为",
    "keywords": [],
    "links_to": [
-    "atlas/mood/index.md",
     "guides/image-generation.md",
     "guides/video-generation.md",
     "log.md",
-    "recipes/index.md",
-    "references/index.md"
+    "recipes/index.md"
    ],
    "linked_from": [
-    "AGENTS.md",
-    "🏠 主页.md"
+    "AGENTS.md"
    ]
   },
   {
@@ -5003,29 +4876,11 @@
    "one_liner": "一位性别模糊的日系视觉系表演者，石膏般惨白的脸、上挑的粗黑眼线、",
    "keywords": [],
    "links_to": [
-    "atlas/color/visual-kei-monochrome.md",
     "atlas/grade/anti-modern-digital.md",
-    "atlas/grade/high-contrast-grade.md",
-    "atlas/hair/eye-covering-bangs.md",
-    "atlas/hair/spiky-styled-hair.md",
-    "atlas/lighting/dramatic-single-source.md",
-    "atlas/makeup/dark-lips.md",
-    "atlas/makeup/smoky-eye-visual-kei.md",
-    "atlas/makeup/white-foundation.md",
-    "atlas/makeup/winged-eyeliner.md",
-    "atlas/material/lace-and-tulle.md",
-    "atlas/material/leather-and-hardware.md",
-    "atlas/mood/cold-futuristic.md",
-    "atlas/setting/dark-stage.md",
-    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
-    "atlas/taxonomy/movements/visual-kei.md",
-    "atlas/wardrobe/black-tailored-suit.md",
-    "guides/video-generation.md",
-    "recipes/y2k-warm-dv-idol.md"
+    "guides/video-generation.md"
    ],
    "linked_from": [
     "🎬 配方.md",
-    "🏠 主页.md",
     "🗺️ 风格系谱.md"
    ]
   },
@@ -5046,51 +4901,12 @@
    "one_liner": "一位 2000 年代亚洲偶像感少女，在贴满海报的暖光卧室里，金属吊带叠穿薄开衫、低腰裤与闪亮配饰，",
    "keywords": [],
    "links_to": [
-    "atlas/accessories/belly-chain.md",
-    "atlas/accessories/body-glitter.md",
-    "atlas/accessories/choker.md",
-    "atlas/accessories/mini-bag.md",
-    "atlas/accessories/rhinestone-jewelry-set.md",
-    "atlas/accessories/wrap-sunglasses.md",
-    "atlas/color/warm-dv-bronze-palette.md",
     "atlas/grade/anti-modern-digital.md",
-    "atlas/grade/lens-flare-haze.md",
-    "atlas/grade/magazine-flash-grade.md",
-    "atlas/grade/vhs-dv-texture.md",
-    "atlas/hair/chunky-highlights.md",
-    "atlas/hair/face-framing-highlights.md",
-    "atlas/lighting/direct-flash.md",
-    "atlas/lighting/warm-tungsten.md",
-    "atlas/makeup/frosted-eyeshadow.md",
-    "atlas/makeup/glossy-lips.md",
-    "atlas/makeup/sunburnt-blush.md",
-    "atlas/makeup/thin-arched-brows.md",
-    "atlas/material/denim-wash.md",
-    "atlas/material/gold-lame.md",
-    "atlas/material/sequins-beading.md",
-    "atlas/mood/nostalgic-bittersweet.md",
-    "atlas/setting/band-posters.md",
-    "atlas/setting/desktop-crt.md",
-    "atlas/setting/flip-phone.md",
-    "atlas/setting/lava-lamp.md",
-    "atlas/setting/plushies.md",
-    "atlas/setting/poster-bedroom.md",
-    "atlas/subject/character-archetypes/asian-millennium-idol.md",
-    "atlas/subject/expressions.md",
-    "atlas/subject/face-and-skin.md",
-    "atlas/subject/poses.md",
-    "atlas/taxonomy/movements/y2k-sweet-candy.md",
-    "atlas/wardrobe/low-rise-jeans.md",
-    "atlas/wardrobe/metallic-cami.md",
-    "atlas/wardrobe/platform-sandals.md",
-    "atlas/wardrobe/sheer-cardigan.md",
     "guides/video-generation.md"
    ],
    "linked_from": [
     "atlas/subject/character-archetypes/asian-millennium-idol.md",
-    "recipes/visual-kei-kote-cold-black.md",
     "🎬 配方.md",
-    "🏠 主页.md",
     "🗺️ 风格系谱.md"
    ]
   },
@@ -5421,10 +5237,6 @@
     "atlas/makeup/smoky-eye-visual-kei.md",
     "atlas/makeup/white-foundation.md",
     "atlas/makeup/winged-eyeliner.md",
-    "atlas/taxonomy/movements/visual-kei-angura.md",
-    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
-    "atlas/taxonomy/movements/y2k-cyber-goth.md",
-    "atlas/taxonomy/movements/y2k-mcbling.md",
     "atlas/wardrobe/black-tailored-suit.md",
     "atlas/wardrobe/low-rise-jeans.md",
     "atlas/wardrobe/metallic-cami.md",
@@ -5454,22 +5266,7 @@
    "one_liner": "python3 tools/validate.py       # 一致性校验（链接/frontmatter/配方引用）",
    "keywords": [],
    "links_to": [
-    "AGENTS.md",
     "assets/index.md",
-    "atlas/accessories/index.md",
-    "atlas/audio/index.md",
-    "atlas/camera/index.md",
-    "atlas/color/index.md",
-    "atlas/grade/index.md",
-    "atlas/hair/index.md",
-    "atlas/lighting/index.md",
-    "atlas/makeup/index.md",
-    "atlas/material/index.md",
-    "atlas/mood/index.md",
-    "atlas/motion/index.md",
-    "atlas/setting/index.md",
-    "atlas/subject/index.md",
-    "atlas/taxonomy/movements/index.md",
     "atlas/taxonomy/movements/visual-kei-angura.md",
     "atlas/taxonomy/movements/visual-kei-kirakira.md",
     "atlas/taxonomy/movements/visual-kei-kote-kei.md",
@@ -5483,16 +5280,10 @@
     "atlas/taxonomy/movements/y2k-retro-future.md",
     "atlas/taxonomy/movements/y2k-sweet-candy.md",
     "atlas/taxonomy/movements/y2k.md",
-    "atlas/wardrobe/index.md",
     "guides/image-assets.md",
     "guides/index.md",
-    "guides/style-exploration.md",
-    "index/compact.md",
     "log.md",
     "raw/index.md",
-    "recipes/index.md",
-    "recipes/visual-kei-kote-cold-black.md",
-    "recipes/y2k-warm-dv-idol.md",
     "references/index.md",
     "templates/元素页模板.md",
     "📘 Obsidian 使用指南.md"
@@ -5558,18 +5349,7 @@
     "atlas/motion/stage-performance-motion.md",
     "atlas/setting/dark-stage.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
-    "atlas/taxonomy/movements/visual-kei-angura.md",
-    "atlas/taxonomy/movements/visual-kei-kirakira.md",
-    "atlas/taxonomy/movements/visual-kei-kote-kei.md",
-    "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
     "atlas/taxonomy/movements/visual-kei.md",
-    "atlas/taxonomy/movements/y2k-cyber-goth.md",
-    "atlas/taxonomy/movements/y2k-cyber-metal.md",
-    "atlas/taxonomy/movements/y2k-grunge-glam.md",
-    "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
-    "atlas/taxonomy/movements/y2k-mcbling.md",
-    "atlas/taxonomy/movements/y2k-retro-future.md",
-    "atlas/taxonomy/movements/y2k-sweet-candy.md",
     "atlas/taxonomy/movements/y2k.md",
     "atlas/wardrobe/black-tailored-suit.md",
     "guides/new-style-pack.md",
@@ -5597,37 +5377,23 @@
    "keywords": [],
    "links_to": [
     "atlas/accessories/body-glitter.md",
-    "atlas/accessories/index.md",
-    "atlas/audio/index.md",
-    "atlas/camera/index.md",
-    "atlas/color/index.md",
     "atlas/color/visual-kei-monochrome.md",
     "atlas/color/warm-dv-bronze-palette.md",
     "atlas/grade/anti-modern-digital.md",
     "atlas/grade/high-contrast-grade.md",
-    "atlas/grade/index.md",
     "atlas/grade/vhs-dv-texture.md",
     "atlas/hair/chunky-highlights.md",
     "atlas/hair/eye-covering-bangs.md",
-    "atlas/hair/index.md",
     "atlas/hair/spiky-styled-hair.md",
     "atlas/lighting/direct-flash.md",
     "atlas/lighting/dramatic-single-source.md",
-    "atlas/lighting/index.md",
-    "atlas/makeup/index.md",
     "atlas/makeup/white-foundation.md",
     "atlas/makeup/winged-eyeliner.md",
-    "atlas/material/index.md",
     "atlas/material/lace-and-tulle.md",
-    "atlas/mood/index.md",
-    "atlas/motion/index.md",
     "atlas/setting/dark-stage.md",
-    "atlas/setting/index.md",
     "atlas/setting/poster-bedroom.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
-    "atlas/subject/index.md",
     "atlas/wardrobe/black-tailored-suit.md",
-    "atlas/wardrobe/index.md",
     "atlas/wardrobe/low-rise-jeans.md",
     "atlas/wardrobe/metallic-cami.md"
    ],

@@ -19,8 +19,8 @@ Y2K 的冷峻科技分支：液态金属、镀铬表面、乳胶与 PVC 紧身�
 
 | 维度 | 内容 |
 |---|---|
-| 配色 | 铬银、冰蓝、冷白、黑色，点缀电光蓝/酸绿（见 [[chrome-cool-palette|chrome-cool 配色]]） |
-| 材质 | [[liquid-chrome|液态铬]]、[[pvc-vinyl|PVC/乙烯基]]、[[sequins-beading|亮片水钻]]、乳胶 |
+| 配色 | 铬银、冰蓝、冷白、黑色，点缀电光蓝/酸绿（见 [[chrome-cool-palette\|chrome-cool 配色]]） |
+| 材质 | [[liquid-chrome\|液态铬]]、[[pvc-vinyl\|PVC/乙烯基]]、[[sequins-beading\|亮片水钻]]、乳胶 |
 | 服装 | 金属吊带、紧身 PVC 裤/裙、镜面外套、窄框/包裹式墨镜、choker |
 | 场景 | 白色虚空、数字隧道、金属走廊、霓虹城市夜景、HUD 界面空间 |
 | 光影 | 高对比硬光、冷调边缘光、屏幕反光、镜面反射 |

@@ -2,6 +2,35 @@
 
 >  newest first；日期用 `YYYY-MM-DD`。
 
+## 2026-10-16 · 第十阶段：修复表格 wikilink 转义 + frontmatter
+
+### 修复：表格内 wikilink 别名竖线未转义（126 处）
+* **问题**：库内 `[[a|b]]` 出现在 Markdown 表格中时，`|` 被当作列分隔符，导致整行错位。
+  例：`recipes/y2k-warm-dv-idol.md` 的 Locked Decisions 表（25 行）全部 9 列错位。
+* **修复**：全库批量将表格内的 `[[a|b]]` 改为 `[[a\|b]]`（126 处），分布在 16 个文件：
+  - `recipes/y2k-warm-dv-idol.md`（24 处，表格同时缺列已重写为 3 列）
+  - `recipes/visual-kei-kote-cold-black.md`（14 处）
+  - `🏠 主页.md`（22 处）、`🧱 元素图鉴.md`（14）、`🗺️ 风格系谱.md`（11）、`🎬 配方.md`（6）、`index.md`（9）、`guides/index.md`（8）
+  - 5 个 `atlas/taxonomy/movements/*.md` 与 2 个 guides
+* **同步修订规则**：
+  - `rule.md` L85 反向修正："表格里**不要**转义竖线" → "**必须**转义竖线"
+  - `AGENTS.md` §2 链接语法条款新增同样条目
+* **教训**：Markdown 表格里 `|` 永远是分隔符，wikilink 别名必须 `\|`。validate.py 之前不查这个，需要靠人或新增 lint 规则。
+
+### 修复：`recipes/y2k-warm-dv-idol.md` frontmatter 被 `\---` 转义
+* 头部两处分隔符写成了 `\---`（带反斜杠），导致 frontmatter 完全失效。
+  validate.py 此前一直报「缺少 frontmatter」警告，今天清零。
+
+### 修复：`tools/validate.py` WIKI_RE 不识别 `\|`
+* 旧正则 `[^\]\|#]+` 把 `\|` 当作普通字符读进 target，导致转义后的链接被误判为"无法解析"。
+* 新正则 `((?:[^\]\|#\\]|\\.)+?)` 显式允许反斜杠转义序列，恢复正常解析。
+
+### 验证
+* `python3 tools/validate.py` — **0 错误 0 警告**（此前 1 警告 0 错误）。
+* `python3 tools/build_index.py` — 重建 169 个概念页索引，13 个 type 分组。
+
+---
+
 ## 2026-10-12 · 第二阶段：迁移 + 视觉系家族 + 结构性加固
 
 ### 迁移

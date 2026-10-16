@@ -25,22 +25,22 @@ version: '1'
 
 | 维度 | 决策 | 状态 |
 |---|---|---|
-| 风格运动 | [[visual-kei|Visual Kei 视觉系]] | locked |
-| 子风格 | [[visual-kei-kote-kei|Kote-kei 古典系]] | locked |
+| 风格运动 | [[visual-kei\|Visual Kei 视觉系]] | locked |
+| 子风格 | [[visual-kei-kote-kei\|Kote-kei 古典系]] | locked |
 | 角色原型 | 性别模糊的日系表演者（androgynous，非特定偶像） | locked |
-| 底妆 | [[white-foundation|石膏白妆]]（瓷白、哑光、可见颈部色差） | locked |
-| 眼妆 | [[winged-eyeliner|上挑粗黑眼线]] + [[smoky-eye-visual-kei|深色烟熏]] | locked |
-| 唇妆 | [[dark-lips|苍白唇 / 暗色唇]]（取失血感） | locked |
-| 发型 | [[spiky-styled-hair|尖刺立发]]，或 [[eye-covering-bangs|遮眼刘海]] 长发变体 | locked |
-| 服装 | [[black-tailored-suit|黑色修身西装]]（长下摆），黑衬衫 | locked |
-| 材质 | [[leather-and-hardware|皮革与金属件]] + [[lace-and-tulle|蕾丝与网纱]] | locked |
+| 底妆 | [[white-foundation\|石膏白妆]]（瓷白、哑光、可见颈部色差） | locked |
+| 眼妆 | [[winged-eyeliner\|上挑粗黑眼线]] + [[smoky-eye-visual-kei\|深色烟熏]] | locked |
+| 唇妆 | [[dark-lips\|苍白唇 / 暗色唇]]（取失血感） | locked |
+| 发型 | [[spiky-styled-hair\|尖刺立发]]，或 [[eye-covering-bangs\|遮眼刘海]] 长发变体 | locked |
+| 服装 | [[black-tailored-suit\|黑色修身西装]]（长下摆），黑衬衫 | locked |
+| 材质 | [[leather-and-hardware\|皮革与金属件]] + [[lace-and-tulle\|蕾丝与网纱]] | locked |
 | 配饰 | choker、长皮手套、银质金属件 | locked |
-| 配色 | [[visual-kei-monochrome|视觉系·黑白冷调]] | locked |
-| 光影 | [[dramatic-single-source|强单点光]]（侧光或顶光，硬阴影） | locked |
-| 场景 | [[dark-stage|空旷舞台与暗厅]]（纯黑背景 + 聚光灯） | locked |
+| 配色 | [[visual-kei-monochrome\|视觉系·黑白冷调]] | locked |
+| 光影 | [[dramatic-single-source\|强单点光]]（侧光或顶光，硬阴影） | locked |
+| 场景 | [[dark-stage\|空旷舞台与暗厅]]（纯黑背景 + 聚光灯） | locked |
 | 镜头/构图 | 平视、半身或胸像、居中；竖版 3:4 或 2:3 | locked |
-| 画面质感 | [[high-contrast-grade|高对比戏剧质感]]，中度，轻微去饱和 | locked |
-| 情绪 | [[cold-futuristic|冷峻疏离]]，带危险感 | locked |
+| 画面质感 | [[high-contrast-grade\|高对比戏剧质感]]，中度，轻微去饱和 | locked |
+| 情绪 | [[cold-futuristic\|冷峻疏离]]，带危险感 | locked |
 | 姿态 | 直立、微侧脸、或单手抚发 | tunable |
 | 是否遮眼 | 单侧遮眼 / 双眼可见 | tunable |
 | 背景具体化 | 纯黑场 / 舞台 / 老旧洋馆 | tunable |
@@ -106,7 +106,7 @@ pacing, with a long dramatic pause before the head turn, cool desaturated high-c
 
 | 对比 | 差异 |
 |---|---|
-| [[y2k-warm-dv-idol|Y2K · 暖调 DV 千禧偶像]] | 那个是**暖调、生活化、怀旧、甜**；本配方是**冷调、舞台化、当下、危险** |
+| [[y2k-warm-dv-idol\|Y2K · 暖调 DV 千禧偶像]] | 那个是**暖调、生活化、怀旧、甜**；本配方是**冷调、舞台化、当下、危险** |
 | 一冷一暖、一戏剧一日常，构成本库目前的两极 | 适合验证"风格资产库能否产出气质相反的作品" |
 
 # 产物记录 Outputs

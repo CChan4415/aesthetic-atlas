@@ -17,13 +17,13 @@ created: 2026-10-12
 
 | 区域 | 角色 | 类比 |
 |---|---|---|
-| [[atlas/index|`atlas/`]] | **原子图鉴**：所有视觉元素的精细分类库，可自由组合 | 乐高积木箱 |
-| [[recipes/index|`recipes/`]] | **风格配方**：已锁定的完整风格，开箱即用、可版本维护（Markdown + 机读 YAML） | 预制菜谱 |
-| [[references/index|`references/`]] | **参考资料库**：时代、品牌、创作者、作品、视觉符号 | 图书馆 |
-| [[raw/index|`raw/`]] | **原料区**：未编译的书、杂志、扫描件（pending → compiled） | 收件箱 |
-| [[guides/index|`guides/`]] | **Agent 协议**：探索、生成、编译、维护、建设的行为规范 | 操作手册 |
-| [[compact|`index/`]] | **检索索引**：自动生成的概念清单与关系图（agent 首选入口） | 索引卡 |
-| [[assets/index|`assets/`]] | **图像资产**：本地落地的图片与生成参数快照 | 底片库 |
+| [[atlas/index\|`atlas/`]] | **原子图鉴**：所有视觉元素的精细分类库，可自由组合 | 乐高积木箱 |
+| [[recipes/index\|`recipes/`]] | **风格配方**：已锁定的完整风格，开箱即用、可版本维护（Markdown + 机读 YAML） | 预制菜谱 |
+| [[references/index\|`references/`]] | **参考资料库**：时代、品牌、创作者、作品、视觉符号 | 图书馆 |
+| [[raw/index\|`raw/`]] | **原料区**：未编译的书、杂志、扫描件（pending → compiled） | 收件箱 |
+| [[guides/index\|`guides/`]] | **Agent 协议**：探索、生成、编译、维护、建设的行为规范 | 操作手册 |
+| [[compact\|`index/`]] | **检索索引**：自动生成的概念清单与关系图（agent 首选入口） | 索引卡 |
+| [[assets/index\|`assets/`]] | **图像资产**：本地落地的图片与生成参数快照 | 底片库 |
 | `tools/` | **校验与生成工具** | 质检台 |
 
 ## 2. 收录的风格
@@ -61,7 +61,7 @@ created: 2026-10-12
 
 | 配方 | 一句话 | 气质 |
 |---|---|---|
-| [[visual-kei-kote-cold-black|Visual Kei · Kote-kei 冷黑肖像]] | 黑西装、石膏白妆、尖刺立发、强单点硬光 | 冷、锐利、舞台化 |
-| [[y2k-warm-dv-idol|Y2K · 暖调 DV 千禧偶像]] | 橙粉/古铜/脏金、老 DV、海报卧室 | 暖、怀旧、生活化 |
+| [[visual-kei-kote-cold-black\|Visual Kei · Kote-kei 冷黑肖像]] | 黑西装、石膏白妆、尖刺立发、强单点硬光 | 冷、锐利、舞台化 |
+| [[y2k-warm-dv-idol\|Y2K · 暖调 DV 千禧偶像]] | 橙粉/古铜/脏金、老 DV、海报卧室 | 暖、怀旧、生活化 |
 
 > 两者构成当前的两极，可用于验证"资产库能否产出气质相反的作品"。

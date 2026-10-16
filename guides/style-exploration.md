@@ -18,8 +18,8 @@ generated: { by: human:cc, at: 2026-10-12T00:00:00+08:00 }
 
 | 模式 | 触发信号 | 起点 |
 |---|---|---|
-| **情绪优先 mood-first** | "想要某种感觉/氛围" | [[atlas/mood/index|`atlas/mood/`]] → 反查风格与配色 |
-| **参考优先 reference-first** | 给出明星/电影/MV/品牌/图片 | [[references/index|`references/`]] → 拆解其视觉要素 |
+| **情绪优先 mood-first** | "想要某种感觉/氛围" | [[atlas/mood/index\|`atlas/mood/`]] → 反查风格与配色 |
+| **参考优先 reference-first** | 给出明星/电影/MV/品牌/图片 | [[references/index\|`references/`]] → 拆解其视觉要素 |
 | **配方改良 recipe-modify** | "在某配方基础上改" | 复制对应 recipe，只改指定维度 |
 | **惊喜随机 surprise-me** | "随便来/给我惊喜" | 随机抽取子风格 + 元素组合，允许跨子风格混搭 |
 

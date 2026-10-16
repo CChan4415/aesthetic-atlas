@@ -24,10 +24,10 @@ generated: { by: human:cc, at: 2026-10-12T00:00:00+08:00 }
 
 | 子风格 | 一句话 | 配色倾向 |
 |---|---|---|
-| [[y2k-cyber-metal|Cyber Metal]] | 冷峻科技、液态金属 | 银/铬/冰蓝/黑 |
-| [[y2k-sweet-candy|Sweet Candy]] | 甜辣少女、亮片蝴蝶 | 粉/蓝/紫马卡龙 |
-| [[y2k-retro-future|Retro Future]] | 低保真数字、早期互联网 | 荧光撞色 + CRT 色 |
-| [[y2k-grunge-glam|Grunge Glam]] | emo 朋克、叛逆做旧 | 脏粉/黑/古铜 |
+| [[y2k-cyber-metal\|Cyber Metal]] | 冷峻科技、液态金属 | 银/铬/冰蓝/黑 |
+| [[y2k-sweet-candy\|Sweet Candy]] | 甜辣少女、亮片蝴蝶 | 粉/蓝/紫马卡龙 |
+| [[y2k-retro-future\|Retro Future]] | 低保真数字、早期互联网 | 荧光撞色 + CRT 色 |
+| [[y2k-grunge-glam\|Grunge Glam]] | emo 朋克、叛逆做旧 | 脏粉/黑/古铜 |
 
 > 子风格之间允许混搭（例如 Sweet Candy 配色 + Cyber Metal 材质），这是 Y2K 的常见玩法。
 

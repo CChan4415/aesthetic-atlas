@@ -34,10 +34,10 @@ generated: { by: agent:deepseek, at: 2026-10-12T10:40:00+08:00 }
 
 | 分支 | 一句话 | 色调 | 气质 | 页 |
 |---|---|---|---|---|
-| **Kote-kei 古典系** | 黑西装、白妆、尖刺发，最正统的视觉系图腾 | 黑 / 白 / 银 | 冷峻、锐利、攻击性 | [[visual-kei-kote-kei|kote-kei]] |
-| **Angura / 暗黑哥特系** | 戏剧化、和风欧风混搭、华美颓废 | 黑 / 深红 / 暗金 | 华美、病态、神秘 | [[visual-kei-angura|angura]] |
-| **Oshare-kei 御洒落系** | 彩发糖果色、偏甜美流行的轻量分支 | 粉 / 彩 / 亮色 | 明快、可爱、亲和 | [[visual-kei-oshare-kei|oshare-kei]] |
-| **Kirakira / 华丽系** | 亮片、水钻、羽毛，极致炫耀性华丽 | 金 / 银 / 彩宝 | 炫目、奢靡、舞台感 | [[visual-kei-kirakira|kirakira]] |
+| **Kote-kei 古典系** | 黑西装、白妆、尖刺发，最正统的视觉系图腾 | 黑 / 白 / 银 | 冷峻、锐利、攻击性 | [[visual-kei-kote-kei\|kote-kei]] |
+| **Angura / 暗黑哥特系** | 戏剧化、和风欧风混搭、华美颓废 | 黑 / 深红 / 暗金 | 华美、病态、神秘 | [[visual-kei-angura\|angura]] |
+| **Oshare-kei 御洒落系** | 彩发糖果色、偏甜美流行的轻量分支 | 粉 / 彩 / 亮色 | 明快、可爱、亲和 | [[visual-kei-oshare-kei\|oshare-kei]] |
+| **Kirakira / 华丽系** | 亮片、水钻、羽毛，极致炫耀性华丽 | 金 / 银 / 彩宝 | 炫目、奢靡、舞台感 | [[visual-kei-kirakira\|kirakira]] |
 
 # 视觉语法：家族共性 Visual Grammar
 
