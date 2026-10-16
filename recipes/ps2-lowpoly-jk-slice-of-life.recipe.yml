@@ -59,7 +59,31 @@ prompts:
   video_ref: "recipes/ps2-lowpoly-jk-slice-of-life.md#Video Prompt（EN · v1）"
   negative_ref: "recipes/ps2-lowpoly-jk-slice-of-life.md#Negative Prompt（v1 · 两层结构）"
 
-outputs: []
+outputs:
+  - date: 2026-10-17
+    type: still
+    version: v1
+    model: "jimeng seedream (2K mode)"
+    dimensions: "2304x1728"
+    aspect: "4:3"
+    local_path: "assets/recipes/ps2-lowpoly-jk-slice-of-life/v1-2026-10-17-jimeng-2k-a.png"
+    rating: 2
+    verdict: fail
+    issues: ["medium layer partial: low-poly hair present but skin shaded with gradient",
+             "texture too sharp: 64x64 bitmap feel missing",
+             "lighting too modern: soft shadows + AO present",
+             "no medium noise: no scanlines, no compression artifacts",
+             "2K resolution defeats low-poly anchoring"]
+  - date: 2026-10-17
+    type: still
+    version: v1
+    model: "jimeng seedream (2K mode)"
+    dimensions: "2304x1728"
+    aspect: "4:3"
+    local_path: "assets/recipes/ps2-lowpoly-jk-slice-of-life/v1-2026-10-17-jimeng-2k-b.png"
+    rating: 2
+    verdict: fail
+    issues: ["same as v1-a: rendered as 'modern anime CG with lowpoly hair' instead of true PS2 render"]
 
 taste:
   affinity: 5          # 用户明确表达这是"目前更想做的风格"

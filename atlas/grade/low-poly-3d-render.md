@@ -77,7 +77,59 @@ rendered on 2000s game console, retro 3D look`
 
 # 生成提示 / 常见失败
 
-> **预判**（待实测验证）：
+## 实测失败案例（2026-10-17 · 即梦 Seedream · 2K/1.5K 输出）
+
+按 [[ps2-lowpoly-androgynous-male|PS2 低多边形少年配方]] 与 [[ps2-lowpoly-jk-slice-of-life|JK 校园配方]]
+v1 prompt 出图 5 张，**全部偏现代**：模型理解为"低模风格的现代动漫 CG"，而不是真正的 PS2 渲染。
+
+### 实测发现
+
+| 配方要求 | 实际输出 | 判定 |
+|---|---|---|
+| 皮肤：平涂单色 | 有渐变 + 面颊红晕 | ❌ |
+| 眼睛：贴图画 | 详细瞳孔 + 高光 | ❌ |
+| 贴图：像素化模糊 | 清晰可读 | ❌ |
+| 光照：硬阴影无 AO | 柔和 AO + 软阴影 | ❌ |
+| 头发：块状三角面 | 块状但有 shading | ⚠️ 部分达成 |
+| 介质噪点：扫描线/压缩 | 干净锐利 | ❌ |
+| 画幅 4:3 | 4:3 ✓ | ✅ |
+| 服装/场景/构图 | JK 制服 / 厨房布局正确 | ✅ |
+
+### 实测根因（v1 prompt 不足）
+
+1. **"PS2"被当代认知污染**：当代模型认知里 PS2 游戏画面 ≈ 高清重制版；改 `PS1 1998` 更稳
+2. **"low-poly"被理解为"风格化"**：模型只把头发做成块状，其他保持高清；需显式说
+   `skin is FLAT SINGLE COLOR with NO shading, NO gradient`
+3. **"soft shading"未排除**：负向词里有 `smooth shading` 但漏了 `ambient occlusion, soft shadows`——
+   这两是现代渲染的隐形签名
+4. **介质噪点完全缺失**：没写 `scanlines, compression artifacts, chroma noise`
+5. **2K 分辨率 vs prompt 里 `640x480 render resolution` 自相矛盾**：模型忽略后者
+
+### v2 修正策略
+
+- 介质锚定升级：`RENDERED ON A 1998 PS1 GAME CONSOLE, displayed on a CRT TV`
+  （从"渲染"扩到"显示"，强制 CRT 扫描线）
+- 显式平涂：`skin is FLAT SINGLE COLOR with NO shading, NO gradient, NO blush — like a matte plastic doll`
+- 显式像素化贴图：`64x64 textures stretched over polygons`
+- 显式硬光照：`Hard shadows only, NO soft shadows, NO ambient occlusion`
+- 显式介质噪点：`Visible scanlines from CRT display, slight chroma aberration, video compression artifacts`
+- 平台原生分辨率选**最低档**（即梦 1K；2K 实测把 low-poly 锚定冲掉）
+
+### 平台差异（实测）
+
+| 平台 | 最低分辨率 | 低模控制 | 备注 |
+|---|---|---|---|
+| 即梦 Seedream | 1K | ⚠️ 弱（v1.5 部分达标） | 2K 完全失败；1K 接近但皮肤仍渐变 |
+| 千问 Qwen-Image | 480p | 待测 | 中文 prompt 友好 |
+| Stable Diffusion + PS1 LoRA | 512 | ⭐ 最佳 | 需本地/云端部署 |
+| Midjourney | 1024 | ⚠️ 一般 | niji 模式偏动漫插画 |
+
+> **核心教训**：「低模」在当代模型里是个**易被弱化的形容词**——模型会"取部分特征"（头发）
+> 而忽略其他（皮肤/光照/贴图）。**必须用否定句逐条压制**：`NO shading, NO gradient, NO AO, NO soft shadows`。
+
+---
+
+## 原始预判（已被上面实测覆盖，留存作参考）
 
 - **介质锚定句放最前面**：`RENDERED ON A 2000s GAME CONSOLE, low-poly 3D, NOT a modern game engine render`
 - **必须显式排除现代 3D 特征**：`unreal engine 5, ray tracing, subsurface scattering, high-poly sculpt,

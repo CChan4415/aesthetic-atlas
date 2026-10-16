@@ -2,6 +2,47 @@
 
 >  newest first；日期用 `YYYY-MM-DD`。
 
+## 2026-10-17 · 第十四阶段：Retro Game CG v1 实测失败 + 诊断沉淀
+
+### 用户实测：即梦 Seedream 出图 5 张全部偏现代
+
+| 配方 | 数量 | 分辨率 | 判定 |
+|---|---|---|---|
+| ps2-lowpoly-jk-slice-of-life | 2 | 2K | ❌ fail |
+| ps2-lowpoly-androgynous-male | 2 | 2K | ❌ fail |
+| ps2-lowpoly-androgynous-male | 1 | 1.5K | ⚠️ partial（头发/布局/配色对，皮肤/光照/噪点错） |
+
+### 实测根因（更新到 [[low-poly-3d-render]] 的「生成提示 / 常见失败」）
+
+1. **"PS2"被当代认知污染**——当代模型认知里 PS2 ≈ 高清重制版；改 `PS1 1998` 更稳
+2. **"low-poly"只影响头发**——皮肤/光照/贴图保持高清；需显式 `skin is FLAT SINGLE COLOR, NO shading`
+3. **负向词漏 `ambient occlusion, soft shadows`**——现代渲染的隐形签名
+4. **介质噪点完全没写**——需 `scanlines, compression artifacts, chroma noise`
+5. **2K 分辨率冲掉 `640x480 render resolution` 的 prompt 描述**——平台原生参数优先级高于文本
+
+### v2 修正策略（待实测）
+介质锚定升级 `RENDERED ON A 1998 PS1 GAME CONSOLE, displayed on a CRT TV`、
+显式平涂皮肤、显式硬阴影、显式介质噪点、平台选最低分辨率档。
+
+### 平台限制发现
+* **即梦最低 1K**，对真正 PS1 低模感仍太高
+* 用户决定**转向千问（Qwen）或 ComfyUI + PS1 LoRA**——平台差异表已入 [[low-poly-3d-render]]
+
+### 产物回填（按 rule.md §6 强制回填规则）
+* 5 张产物落 `assets/recipes/<id>/`
+* 两个配方的 `.recipe.yml` `outputs` + `.md` 「产物记录 Outputs / Diagnosis」全部回填
+* 每个 output 含 rating / verdict / issues
+
+### 教训
+**"draft 配方"的价值**：v1 全部失败证明了先建 draft 再实测的决策正确——
+如果直接 stable，这次失败会污染主库信用。
+**失败也是资产**：5 张失败图 = 1 张实测根因表 + 1 个 v2 修正策略 + 1 张平台差异表。
+
+### 验证
+* `tools/validate.py`：**0 错误**
+
+---
+
 ## 2026-10-17 · 第十三阶段：新增配方 ps2-lowpoly-androgynous-male（少年向 · draft）
 
 ### 背景
