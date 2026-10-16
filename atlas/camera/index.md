@@ -13,6 +13,10 @@
 * 其他：`wide-angle 广角` · `standard 50mm 标准` · `telephoto 长焦压缩` ·
   `macro 微距` · `tilt-shift 移轴` · `shallow DoF 浅景深` · `deep focus 深景深`
 
+## 游戏与监控视角 Game & Surveillance
+* [[security-camera-cctv]] — 监控视角 / CCTV 高角度（Retro Game CG 核心镜头）
+* [[third-person-game-camera]] — 第三人称游戏视角 / 越肩跟随
+
 ## 构图 Composition
 `centered 居中` · `rule of thirds 三分` · `symmetrical 对称` · `leading lines 引导线` ·
 `frame within frame 框架构图` · `negative space 留白` · `diagonal 对角线`

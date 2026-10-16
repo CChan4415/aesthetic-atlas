@@ -1,0 +1,67 @@
+# PS2 低多边形 JK 校园日常 — 机读配方
+# 本文件是 recipes/ps2-lowpoly-jk-slice-of-life.md 的机器可读表示。
+# 规范见 guides/recipe-schema.md。所有引用 ID 均相对于本库根目录。
+id: ps2-lowpoly-jk-slice-of-life
+version: 1
+title_zh: "PS2 低多边形 JK 校园日常"
+title_en: "PS2 Low-Poly JK Slice-of-Life"
+status: draft
+updated: 2026-10-16
+movement: atlas/taxonomy/movements/retro-game-cg.md
+substyle: []  # Low-Poly JK Slice-of-Life 子风格待建（首批配方目标）
+
+# locked = 风格签名，改动即视为新配方；tunable = 可按项目替换
+locked:
+  archetype: atlas/subject/character-archetypes/lowpoly-jk-character.md
+  render_medium: atlas/grade/low-poly-3d-render.md
+  wardrobe_jk_uniform:
+    - white-shirt
+    - beige-cardigan
+    - black-bow-tie
+    - plaid-pleated-skirt
+    - knee-high-socks
+    - loafers
+  hair:
+    - long-straight-covering-eye  # 待建概念页
+    # 或 double-braids
+  color_mood: "low-saturation grey-green / cyan / dark yellow, overall cool"
+  camera:
+    - atlas/camera/security-camera-cctv.md
+    - atlas/camera/third-person-game-camera.md
+  setting:
+    - atlas/setting/school-corridor-cctv.md
+    - atlas/setting/underground-passage-tiled.md
+    - atlas/setting/school-cafeteria-3d.md
+  lighting:
+    - fluorescent-ceiling-light    # 待建概念页
+    - warm-tungsten
+    - afternoon-sunlight
+  grade: atlas/grade/low-poly-3d-render.md
+  mood: "lonely, youthful, nostalgic, slightly melancholic"
+
+tunable:
+  expression: [gaze, silent, slight-look-down]
+  pose: [walking, standing, eating-alone]
+  overlays: [bounding-box-and-bilingual-subtitles, bilingual-subtitles-only, no-overlays]
+  aspect_ratio: ["4:3", "9:16"]
+  poly_strength: [light, medium, heavy]  # 中度 = PS2 实时渲染（默认）
+  hair_variant: [long-straight-covering-eye, double-braids, medium-curly]
+
+video:
+  camera: [fixed-cctv, slow-push-in, follow-behind]
+  duration_sec: [5, 10]
+  pacing: slow-melancholic
+  frame_rate: [12, 15]  # 低帧率是关键风格特征
+  motion_effects: [vertex-wobble, frame-skips, scanlines]
+
+prompts:
+  image_ref: "recipes/ps2-lowpoly-jk-slice-of-life.md#Image Prompt（EN，已组装 · v1）"
+  video_ref: "recipes/ps2-lowpoly-jk-slice-of-life.md#Video Prompt（EN · v1）"
+  negative_ref: "recipes/ps2-lowpoly-jk-slice-of-life.md#Negative Prompt（v1 · 两层结构）"
+
+outputs: []
+
+taste:
+  affinity: 5          # 用户明确表达这是"目前更想做的风格"
+  confidence: high     # 用户提供的 4 个参考视频方向高度一致
+  note: "基于 raw/videos/ 4 部参考视频编译的首个配方；用户主要目标方向"

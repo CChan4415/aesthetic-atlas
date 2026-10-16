@@ -2,6 +2,67 @@
 
 >  newest first；日期用 `YYYY-MM-DD`。
 
+## 2026-10-16 · 第十二阶段：首次跑通 raw → atlas → recipe 编译管道（Retro Game CG）
+
+> **里程碑**：这是本库**首次真实执行 `guides/ingestion.md` 七步编译管道**——
+> 原料不再是"计划中的占位"，而是真实喂入、抽帧、盘点、提取、合并、链接、沉淀。
+
+### 原料入库
+* 4 部视频原料（他人创作，仅作风格学习）：@natural water / @鴉鴉的幻覺 / @龙崎日舞 × 2
+* `raw/videos/_source.md` 登记表：含作者署名、用途声明、覆盖维度盘点、与现有风格的关系判断
+* `raw/videos/index.md` + `raw/index.md` 更新
+* 抽帧：4 视频 × 6 帧（开头/15%/35%/55%/75%/92%），共 24 张入 `assets/raw/videos/<id>/`
+* **视频原件不入 Git**（体积大、不可文本化），已在 .gitignore 排除
+
+### 新增风格运动：Retro Game CG · 复古游戏 CG
+* **[[retro-game-cg]]** — 1997–2006 年 PS1/PS2 世代游戏渲染美学
+* **与 Y2K / Visual Kei 的根本区别**：介质是 **3D 渲染**而非真人摄影
+* 视觉语法 7 条（低多边形是结构不是缺陷 / 贴图分辨率低 / vertex wobble / affine texture warping / 固定相机 / 简单光照 / 4:3 画幅）
+* 下设 4 个子方向，首个落地：**Low-Poly JK Slice-of-Life**
+
+### 新增原子元素（11 个）
+* **grade**（渲染介质）：
+  - [[low-poly-3d-render]] — PS1/PS2 实时渲染的三角面/低分辨率贴图/vertex wobble
+  - [[ps2-fmv-grade]] — PS2 FMV 预渲染质感（介于低模与当代 3D 之间）
+* **camera**：
+  - [[security-camera-cctv]] — 监控高角度固定视角
+  - [[third-person-game-camera]] — 第三人称游戏跟随视角
+* **subject**：
+  - [[lowpoly-jk-character]] — 低多边形 JK 角色原型
+* **setting**：
+  - [[school-corridor-cctv]] — 学校走廊（监控视角）
+  - [[underground-passage-tiled]] — 瓷砖地下通道
+  - [[school-cafeteria-3d]] — 学校食堂
+
+### 扩展已有元素
+* [[digital-overlays]] — 新增**监控 bounding box**、**双语字幕条**、**斜体标语**、**作者水印** 4 个子类
+* [[anti-modern-digital]] — 新增「**B. 渲染介质锚定词**」章节，区分**摄影介质**与**渲染介质**两大类；
+  补渲染介质专属负向词（`unreal engine 5, ray tracing, photorealistic, subsurface scattering...`）
+
+### 新增配方
+* [[ps2-lowpoly-jk-slice-of-life]] — **PS2 低多边形 JK 校园日常**（v1, draft）
+  - 双 prompt（image + video）+ 两层负向词（内容层 + 渲染介质层）
+  - 介质锚定词：`RENDERED ON A 2000s PS2 GAME CONSOLE, low-poly 3D, NOT a modern photorealistic 3D image`
+  - 待出图验证
+
+### 三个配方构成"三介质三极"
+| 配方 | 介质 | 主体 | 气质 |
+|---|---|---|---|
+| Y2K 暖调 DV 千禧偶像 | 真人摄影（DV） | 偶像 | 暖、怀旧、生活化 |
+| Visual Kei Kote-kei 冷黑 | 真人摄影（舞台） | 表演者 | 冷、锐利、戏剧化 |
+| PS2 Low-Poly JK | **3D 渲染（PS2）** | 虚拟角色 | 孤独、青春、微压抑 |
+
+### 验证
+* `python3 tools/validate.py` — **0 错误 0 警告**（216 Markdown / 3 机读配方 / 180 概念页）
+* `python3 tools/build_index.py` — 索引重建完成
+
+### 待办（下一步）
+- [ ] **出图验证 ps2-lowpoly-jk-slice-of-life 配方**（测试介质锚定词是否有效）
+- [ ] 用户复核：风格边界（v3/v4 视频是 3D 动漫渲染而非纯低模，是否需要拆分子风格）
+- [ ] 子风格页：`lowpoly-jk-slice-of-life` 待建独立子页（当前作为 retro-game-cg 的直接子方向）
+
+---
+
 ## 2026-10-16 · 第十一阶段：Y2K 产物去重 + raw/videos 目录改名
 
 ### 修复：Y2K 配方产物 PNG 重复

@@ -6,7 +6,7 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 
 # 检索索引
 
-> 自动生成，共 **169** 个概念页。**请勿手工编辑**——由 `tools/build_index.py` 产出。
+> 自动生成，共 **180** 个概念页。**请勿手工编辑**——由 `tools/build_index.py` 产出。
 > 完整数据（含关键词与出/入链）见 `graph.json`。
 
 ## 用法（给 agent）
@@ -59,9 +59,10 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 - [急推变焦（Whip Zoom）](../atlas/motion/whip-zoom.md) — 千禧 DV 标志性的突然数码变焦，快速推近脸部或细节，带粗糙与即兴感。
 - [风吹头发与衣物（Wind Motion）](../atlas/motion/wind-hair-fabric.md) — 微风或风扇吹动发丝、开衫、薄纱与配饰，让画面「活」起来。
 
-## Raw Source（1）
+## Raw Source（2）
 
 - [<原料标题>](../raw/_template-source.md) — <一句话说明这份原料是什么>
+- [千禧年低多边形 3D 短片合集（4 部，PS1/PS2-era 风格）](../raw/videos/_source.md) — 4 部日系 2000s 复古 3D / 动漫短片，覆盖 JK 校园日常、地下通道、走廊监控、食堂、教室场景。
 
 ## Reference（11）
 
@@ -77,13 +78,15 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 - [千禧年 MV 合集（Millennium Music Videos）](../references/works/millennium-mvs.md) — 塑造 Y2K 视觉的欧美与日韩标志性 MV。
 - [《黑客帝国》（The Matrix, 1999）](../references/works/the-matrix.md) — Cyber Metal 子风格的电影视觉锚点。
 
-## Style Movement（2）
+## Style Movement（3）
 
+- [复古游戏 CG（Retro Game CG · PS1/PS2-era Low-Poly 3D）](../atlas/taxonomy/movements/retro-game-cg.md) — 1997–2006 年 PS1/PS2 世代游戏画面风格的 3D 渲染美学——低多边形、低分辨率贴图、vertex wobble、固定视角，延伸至同人 CG 与虚拟主播圈。
 - [Visual Kei · 日系视觉系](../atlas/taxonomy/movements/visual-kei.md) — 1980s 中起于日本摇滚场景的视觉化美学家族，以戏剧化妆容、极端发型与华丽服装为核心，90s 末–00s 初为黄金期。
 - [Y2K · 千禧年风格](../atlas/taxonomy/movements/y2k.md) — 约1997–2006千禧之交的乐观未来主义风格，含四大子风格。
 
-## Style Recipe（2）
+## Style Recipe（3）
 
+- [PS2 低多边形 JK 校园日常（PS2 Low-Poly JK Slice-of-Life）](../recipes/ps2-lowpoly-jk-slice-of-life.md) — 2000s PS1/PS2 游戏渲染风格的低多边形 JK 校园日常——块状头发、贴图五官、走廊/食堂/地下通道场景，含图/视频双 prompt。
 - [Visual Kei · Kote-kei 冷黑肖像（Cold Black Kote-kei Portrait）](../recipes/visual-kei-kote-cold-black.md) — 全黑西装、石膏白妆、尖刺立发的经典日系视觉系配方，强单点硬光与高对比质感，含图/视频双 prompt。
 - [Y2K · 暖调 DV 千禧偶像（Warm DV Millennium Idol）](../recipes/y2k-warm-dv-idol.md) — 橙粉/古铜/脏金暖调、老DV与杂志质感的亚洲偶像少女配方，含图/视频双prompt。
 
@@ -105,7 +108,7 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 
 - [AGENTS.md](../AGENTS.md) — 原子元素   ──组合──▶  子风格   ──锁定──▶  配方
 
-## Visual Element（101）
+## Visual Element（109）
 
 - [印花方巾（Bandana）](../atlas/accessories/bandana.md) — 佩斯利印花棉质方巾，系于颈、头、腕或包袋，街头与嘻哈元素。
 - [肚链（Belly Chain）](../atlas/accessories/belly-chain.md) — 环绕腰腹、垂在小腹或髋骨的细链，强调露腰造型，是千禧辣妹标志。
@@ -120,14 +123,18 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 - [欧陆舞曲（Europop Dance Anthem）](../atlas/audio/europop-dance-anthem.md) — 千禧年明亮欧陆舞曲/Teen Pop 风格。
 - [R&B 抒情（R&B Ballad）](../atlas/audio/rnb-ballad.md) — 千禧年丝滑 R&B 慢板风格。
 - [鱼眼镜头（Fisheye Lens）](../atlas/camera/fisheye-lens.md) — 超广角、桶形畸变、球面夸张透视，千禧滑板/派对/偶像写真的标志镜头。
+- [监控视角 / CCTV 高角度（Security Camera / CCTV Angle）](../atlas/camera/security-camera-cctv.md) — 走廊尽头、天花板角落的固定高角度监控摄像头视角——画面带 surveillance 感，常与 bounding box、时间码叠层搭配。
+- [第三人称游戏视角（Third-Person Game Camera）](../atlas/camera/third-person-game-camera.md) — 跟随主体背后或越肩的 3D 游戏视角——镜头随主体移动，观众看到主体后脑勺与前方场景，是 PS1/PS2 游戏与同人 CG 的默认运镜。
 - [去现代数码感（Anti-Modern-Digital / Period Authenticity）](../atlas/grade/anti-modern-digital.md) — 对抗生成模型"默认输出当代高清数码照片"倾向的负向控制元素——年代真实性的强制手段。
 - [交叉冲洗 / 褪色（Cross-Processing）](../atlas/grade/cross-processing.md) — 胶片以错误药水冲洗产生的偏色、高对比与不饱和褪色，复古艺术质感。
-- [后期叠层（Digital Overlays）](../atlas/grade/digital-overlays.md) — 时间码、REC 标识、贴纸、边框、UI 元素、星形闪光等后期图形叠层。
+- [后期叠层（Digital Overlays）](../atlas/grade/digital-overlays.md) — 时间码、REC 标识、贴纸、边框、UI 元素、星形闪光、监控 bounding box、双语字幕等后期图形叠层。
 - [胶片颗粒（Film Grain）](../atlas/grade/film-grain.md) — 胶片介质的银盐颗粒与自然宽容度，比数码更有呼吸感。
 - [高对比戏剧质感（High-Contrast Dramatic Grade）](../atlas/grade/high-contrast-grade.md) — 视觉系的画面质感——深黑压暗、高光锐利、整体去饱和或强偏色，去掉一切生活感。
 - [光晕 / 柔焦（Lens Flare & Haze）](../atlas/grade/lens-flare-haze.md) — 镜头眩光、光晕、雾化与柔焦，制造梦幻和神圣感。
 - [漏光（Light Leak）](../atlas/grade/light-leak.md) — 胶片相机漏光在画面边缘形成的暖色光斑，随机而复古。
+- [低多边形 3D 渲染（Low-Poly 3D Render）](../atlas/grade/low-poly-3d-render.md) — PS1/PS2 世代游戏实时渲染的视觉特征——可见三角面、低分辨率贴图、vertex wobble、简单光照，是 Retro Game CG 风格运动的核心介质。
 - [千禧杂志片调色（Magazine Flash Grade）](../atlas/grade/magazine-flash-grade.md) — 高饱和、闪光灯直打、肤色暖亮、对比明快的杂志内页/封面调色。
+- [PS2 FMV 预渲染质感（PS2 FMV Grade / Pre-rendered CG）](../atlas/grade/ps2-fmv-grade.md) — PS2 世代游戏预渲染过场动画（FMV / OP / ED）的画面质感——比实时渲染精细但仍保留 2000s CG 的渲染限制痕迹，介于低模与当代 3D 之间。
 - [VHS / DV 磁带质感（VHS-DV Texture）](../atlas/grade/vhs-dv-texture.md) — 家用录像带与数码摄像机的影像特征：噪点、扫描线、色差、跟踪条、低分辨率与时间码。
 - [块状挑染（Chunky Highlights）](../atlas/hair/chunky-highlights.md) — 用粗大发片做高对比度的高光挑染，是千禧年最具辨识度的染发方式，强调光泽与层次。
 - [锡纸/玉米烫（Crimped Hair）](../atlas/hair/crimped-hair.md) — 用夹板压出细密波浪纹理（玉米须/锡纸烫），制造巨大蓬松体积与纹理光泽。
@@ -182,10 +189,14 @@ description: 全部概念页的紧凑清单，agent 优先读本文件定位，�
 - [粉色浴室（Pink Bathroom）](../atlas/setting/pink-bathroom.md) — 粉/彩色瓷砖、陶瓷浴缸与镜面的复古浴室，闪光灯下有强烈千禧写真感。
 - [毛绒玩具（Plushies / Beanie Babies）](../atlas/setting/plushies.md) — 床上与架子上的毛绒玩偶、Beanie Babies 豆豆娃，增添私密少女感。
 - [千禧卧室（Poster-Covered Bedroom）](../atlas/setting/poster-bedroom.md) — 贴满海报、堆满私物的少女卧室，是 Y2K 人物向创作最私密、信息量最丰富的场景。
+- [学校食堂 · 3D（School Cafeteria · 3D）](../atlas/setting/school-cafeteria-3d.md) — 2000s 学校食堂的低多边形 3D 场景——长条木桌、JK 学生群体用餐、午后阳光从大窗斜射入，温暖但孤独。
+- [学校走廊监控视角（School Corridor CCTV）](../atlas/setting/school-corridor-cctv.md) — 2000s 学校走廊的低多边形 3D 场景——荧光灯、瓷砖墙、储物柜、尽头门，常配监控摄像头视角与 bounding box 叠层。
 - [黄昏停车场/天台（Sunset Parking Lot）](../atlas/setting/sunset-parking-lot.md) — 露天停车场、天台或空旷街道在橙粉夕阳下的场景，逆光、长阴影、电影感。
 - [电子宠物（Tamagotchi）](../atlas/setting/tamagotchi.md) — 蛋形掌上电子宠物机，挂绳、小液晶屏与按键。
+- [瓷砖地下通道（Underground Passage · Tiled）](../atlas/setting/underground-passage-tiled.md) — 2000s 都市地下通道的低多边形 3D 场景——白色瓷砖墙、顶部荧光灯、贴满海报与告示，混凝土或瓷砖地面，昏暗中带暖光。
 - [性别模糊表演者（Androgynous Performer）](../atlas/subject/character-archetypes/androgynous-performer.md) — 刻意模糊性别的角色原型——兼有男性与女性特征的美学主体，是日系视觉系与千禧时装影像的共同核心。
 - [亚洲千禧偶像（Asian Millennium Idol）](../atlas/subject/character-archetypes/asian-millennium-idol.md) — 2000 年代前后东亚偶像工业制造的少女形象：精致、亲和、带舞台光泽，参考早安少女组、S.E.S.、滨崎步、安室奈美惠、宇多田光等，健康肤色或瓷白肌，笑容甜而有分寸。
+- [低多边形 JK 角色（Low-Poly JK Character）](../atlas/subject/character-archetypes/lowpoly-jk-character.md) — 2000s 游戏风格的低多边形日本女高中生 3D 角色——块状三角面头发、贴图绘制五官、JK 制服（开衫+衬衫+蝴蝶结+格子裙），是 Retro Game CG 的核心人物原型。
 - [混血空灵缪斯（Mixed Ethereal Muse）](../atlas/subject/character-archetypes/mixed-ethereal-muse.md) — 偏高端时尚杂志的混血少女形象：玻璃感眼神、空灵疏离、艺术化光影，常见于千禧年时装大片与先锋摄影师作品。
 - [虚拟人偶（Virtual Doll / 3D）](../atlas/subject/character-archetypes/virtual-doll-3d.md) — 非真人的早期 3D 虚拟角色质感：光滑塑料/树脂皮肤、完美对称五官，参考千禧年游戏 CG、虚拟偶像与低多边形娃娃，带有 uncanny 的数字魅力。
 - [欧美流行天后（Western Pop Diva）](../atlas/subject/character-archetypes/western-pop-diva.md) — 千禧年欧美 Teen Pop / R&B 天后形象：小麦色肌肤、健康自信的性感，参考 Britney Spears、Christina Aguilera、Jennifer Lopez、Destiny'

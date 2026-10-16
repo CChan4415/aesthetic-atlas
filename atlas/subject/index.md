@@ -6,6 +6,7 @@
 * [[western-pop-diva|western-pop-diva]] — 欧美流行天后（健康性感）
 * [[virtual-doll-3d|virtual-doll-3d]] — 虚拟人偶 / 早期 CG 角色
 * [[mixed-ethereal-muse|mixed-ethereal-muse]] — 混血空灵缪斯（时尚大片）
+* [[lowpoly-jk-character|lowpoly-jk-character]] — **低多边形 JK 角色**（Retro Game CG 核心主体）
 
 ## 面容与身体
 * [[face-and-skin]] — 人种特征、肤色、底妆质感

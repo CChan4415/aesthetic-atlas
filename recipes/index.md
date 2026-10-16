@@ -22,7 +22,16 @@
   橙粉/古铜/脏金，老 DV 与千禧杂志质感，亚洲偶像少女，混搭层叠穿搭，海报卧室（v1，首个落地配方）
   * 机读：`y2k-warm-dv-idol.recipe.yml`
 
-> 两个配方构成本库当前的两极：**一暖一冷、一生活化一舞台化、一怀旧一当下**。
+### Retro Game CG 系列
+
+* [[ps2-lowpoly-jk-slice-of-life]] — **PS2 低多边形 JK 校园日常**：
+  PS1/PS2 游戏渲染风格，块状三角面头发、贴图绘制五官、JK 制服、走廊/食堂/地下通道场景，
+  监控视角或第三人称游戏视角（v1 · draft）
+  * 机读：`ps2-lowpoly-jk-slice-of-life.recipe.yml`
+  * 原料：[[raw/videos/_source|raw/videos/]]（4 部参考视频）
+
+> 三个配方构成本库当前的三极：**真人写真（Y2K）/ 舞台戏剧（Visual Kei）/ 虚拟 3D（Retro Game CG）**——
+> 三种完全不同的**介质**。
 
 ## 规划中 Planned
 

@@ -1,6 +1,6 @@
 # Style Movements · 风格运动
 
-本库当前收录两个**平级**的风格运动，各含自己的子风格体系。
+本库当前收录三个**平级**的风格运动，各含自己的子风格体系。
 
 ## Visual Kei · 日系视觉系（风格家族）
 
@@ -25,6 +25,18 @@
 
 > 子风格之间允许混搭（如 Sweet Candy 配色 + Cyber Metal 材质），这是 Y2K 的常见玩法。
 
+## Retro Game CG · 复古游戏 CG（3D 渲染）
+
+* [[retro-game-cg]] — **复古游戏 CG**：1997–2006 年 PS1/PS2 世代游戏渲染美学，
+  低多边形、低分辨率贴图、vertex wobble、固定视角
+  * Low-Poly JK Slice-of-Life（待建子风格页；首个配方已落 [[ps2-lowpoly-jk-slice-of-life]]）
+  * PS1 Horror（待建）
+  * MMD 小剧场（待建）
+  * PS2 FMV（待建）
+
+> **与 Y2K / Visual Kei 的根本区别**：本运动是**3D 渲染介质**而非真人摄影——
+> Y2K 用 DV/胶片相机拍真人，视觉系用舞台相机拍表演者，Retro Game CG 用游戏引擎渲染虚拟角色。
+
 ## 跨运动混搭 Cross-Movement
 
 视觉系与 Y2K 在时间上重叠、精神上互相渗透，允许跨运动混搭：
@@ -35,8 +47,4 @@
 | Oshare-kei + Sweet Candy | 视觉系彩发 + Y2K 服装语汇 | 目前最自然的日系千禧组合 |
 | Kirakira + McBling | 双重炫耀（亮片 + 炫富） | 易过载，需降低配饰密度 |
 | Angura + 复古未来 | 华美 + 低保真数字 | 气质冲突较大，谨慎使用 |
-
-## 待补 To Be Built
-
-其他风格运动（Vaporwave、Cyberpunk、Dark Academia、Lolita、西方哥特脉络等）
-将在后续按 [[new-style-pack|新建风格包规范]] 补充。
+| Retro Game CG + Y2K | 3D 角色穿 Y2K 服装 / 3D 还原 Y2K 场景 | 介质必须明确：3D 渲染 + Y2K 服装道具 |

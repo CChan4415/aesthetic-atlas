@@ -1,7 +1,7 @@
 {
  "generated_by": "tools/build_index.py",
  "note": "可再生成产物，请勿手工编辑",
- "count": 169,
+ "count": 180,
  "entries": [
   {
    "id": "AGENTS",
@@ -387,6 +387,116 @@
    ]
   },
   {
+   "id": "atlas/camera/security-camera-cctv",
+   "path": "atlas/camera/security-camera-cctv.md",
+   "type": "Visual Element",
+   "title": "监控视角 / CCTV 高角度（Security Camera / CCTV Angle）",
+   "description": "走廊尽头、天花板角落的固定高角度监控摄像头视角——画面带 surveillance 感，常与 bounding box、时间码叠层搭配。",
+   "tags": [
+    "retro-game-cg",
+    "camera",
+    "cctv",
+    "surveillance",
+    "high-angle",
+    "fixed"
+   ],
+   "status": "draft",
+   "one_liner": "security camera angle, CCTV perspective, surveillance footage, high-angle fixed camera,",
+   "keywords": [
+    "`security camera angle",
+    "CCTV perspective",
+    "surveillance footage",
+    "high-angle fixed camera",
+    "corridor end view",
+    "ceiling-mounted camera",
+    "wide-angle surveillance lens",
+    "barrel distortion",
+    "monitoring footage",
+    "observed from above",
+    "fixed surveillance view",
+    "anonymous observation",
+    "top-down corridor shot",
+    "2000s CCTV aesthetic",
+    "security cam footage",
+    "watched from a distance`"
+   ],
+   "links_to": [
+    "atlas/grade/digital-overlays.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/setting/mall-arcade.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-retro-future.md",
+    "raw/videos/_source.md"
+   ],
+   "linked_from": [
+    "atlas/grade/digital-overlays.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/camera/third-person-game-camera",
+   "path": "atlas/camera/third-person-game-camera.md",
+   "type": "Visual Element",
+   "title": "第三人称游戏视角（Third-Person Game Camera）",
+   "description": "跟随主体背后或越肩的 3D 游戏视角——镜头随主体移动，观众看到主体后脑勺与前方场景，是 PS1/PS2 游戏与同人 CG 的默认运镜。",
+   "tags": [
+    "retro-game-cg",
+    "camera",
+    "third-person",
+    "follow-cam",
+    "over-shoulder",
+    "game"
+   ],
+   "status": "draft",
+   "one_liner": "（《古墓丽影》《最终幻想 X》《王国之心》《生化危机 4》越肩视角）。",
+   "keywords": [
+    "`third-person game camera",
+    "follow cam",
+    "behind-the-back view",
+    "over-shoulder shot",
+    "video game camera",
+    "character seen from behind",
+    "camera follows the protagonist",
+    "2000s video game perspective",
+    "PS2 third-person view",
+    "adventure game camera",
+    "player perspective",
+    "camera tracking the character",
+    "over-the-shoulder framing",
+    "game engine camera",
+    "follow behind",
+    "third-person adventure`"
+   ],
+   "links_to": [
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/motion/dolly-tracking.md",
+    "atlas/motion/walk-toward.md",
+    "atlas/setting/mall-arcade.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-retro-future.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "raw/videos/_source.md"
+   ],
+   "linked_from": [
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
    "id": "atlas/color/chrome-cool-palette",
    "path": "atlas/color/chrome-cool-palette.md",
    "type": "Color Palette",
@@ -573,7 +683,9 @@
    ],
    "linked_from": [
     "AGENTS.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
     "guides/image-generation.md",
+    "recipes/ps2-lowpoly-jk-slice-of-life.md",
     "recipes/visual-kei-kote-cold-black.md",
     "recipes/y2k-warm-dv-idol.md",
     "🎬 配方.md",
@@ -614,12 +726,15 @@
    "path": "atlas/grade/digital-overlays.md",
    "type": "Visual Element",
    "title": "后期叠层（Digital Overlays）",
-   "description": "时间码、REC 标识、贴纸、边框、UI 元素、星形闪光等后期图形叠层。",
+   "description": "时间码、REC 标识、贴纸、边框、UI 元素、星形闪光、监控 bounding box、双语字幕等后期图形叠层。",
    "tags": [
     "y2k",
+    "retro-game-cg",
     "grade",
     "overlay",
-    "graphics"
+    "graphics",
+    "cctv",
+    "subtitle"
    ],
    "status": "stable",
    "one_liner": "Y2K digital overlays, camcorder timestamp, playful stickers and frames, retro UI elements,",
@@ -629,12 +744,29 @@
     "playful stickers and frames",
     "retro UI elements",
     "sparkle graphics",
-    "early-2000s on-screen decoration`"
+    "early-2000s on-screen decoration",
+    "red bounding box overlay",
+    "surveillance HUD",
+    "object detection rectangle",
+    "bilingual subtitles",
+    "*italic action line",
+    "roleplay caption",
+    "hardcoded fan-sub",
+    "watermark with @username`"
    ],
-   "links_to": [],
+   "links_to": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "raw/videos/_source.md"
+   ],
    "linked_from": [
+    "atlas/camera/security-camera-cctv.md",
     "atlas/grade/anti-modern-digital.md",
-    "atlas/taxonomy/movements/y2k.md"
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "🗺️ 风格系谱.md"
    ]
   },
   {
@@ -771,6 +903,71 @@
    ]
   },
   {
+   "id": "atlas/grade/low-poly-3d-render",
+   "path": "atlas/grade/low-poly-3d-render.md",
+   "type": "Visual Element",
+   "title": "低多边形 3D 渲染（Low-Poly 3D Render）",
+   "description": "PS1/PS2 世代游戏实时渲染的视觉特征——可见三角面、低分辨率贴图、vertex wobble、简单光照，是 Retro Game CG 风格运动的核心介质。",
+   "tags": [
+    "retro-game-cg",
+    "grade",
+    "3d",
+    "lowpoly",
+    "ps1",
+    "ps2",
+    "render"
+   ],
+   "status": "draft",
+   "one_liner": "游戏主机实时渲染的视觉签名。它不是\"差劲的 3D\"，而是特定硬件限制下的美学——",
+   "keywords": [
+    "`low-poly 3D render",
+    "PS1 graphics",
+    "PS2 graphics",
+    "2000s video game render",
+    "visible triangle faces",
+    "chunky blocky hair",
+    "flat shaded polygons",
+    "low-resolution textures",
+    "vertex lighting",
+    "jagged edges",
+    "no anti-aliasing",
+    "2000s game screenshot",
+    "early 3D render",
+    "N64 aesthetic",
+    "Dreamcast graphics",
+    "texture-mapped face",
+    "mitten hands",
+    "simple gradient skin",
+    "low poly environment",
+    "4:3 frame",
+    "rendered on 2000s game console",
+    "retro 3D look`"
+   ],
+   "links_to": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/y2k-retro-future.md",
+    "raw/videos/_source.md"
+   ],
+   "linked_from": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/digital-overlays.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
    "id": "atlas/grade/magazine-flash-grade",
    "path": "atlas/grade/magazine-flash-grade.md",
    "type": "Visual Element",
@@ -796,6 +993,63 @@
    ],
    "links_to": [],
    "linked_from": []
+  },
+  {
+   "id": "atlas/grade/ps2-fmv-grade",
+   "path": "atlas/grade/ps2-fmv-grade.md",
+   "type": "Visual Element",
+   "title": "PS2 FMV 预渲染质感（PS2 FMV Grade / Pre-rendered CG）",
+   "description": "PS2 世代游戏预渲染过场动画（FMV / OP / ED）的画面质感——比实时渲染精细但仍保留 2000s CG 的渲染限制痕迹，介于低模与当代 3D 之间。",
+   "tags": [
+    "retro-game-cg",
+    "grade",
+    "3d",
+    "ps2",
+    "fmv",
+    "pre-rendered",
+    "2000s"
+   ],
+   "status": "draft",
+   "one_liner": "的画面质感。与实时渲染的 low-poly-3d-render|低多边形 不同，FMV 是离线渲染的（可用更高多边形、",
+   "keywords": [
+    "`PS2 FMV",
+    "pre-rendered cutscene",
+    "2000s game cinematic",
+    "early 2000s CG",
+    "Kingdom Hearts cutscene",
+    "Final Fantasy X FMV",
+    "smooth plastic skin",
+    "simple three-point lighting",
+    "pre-rendered background",
+    "stiff animation",
+    "painted texture face",
+    "2000s video game cinematic",
+    "offline render",
+    "soft shadows",
+    "subtle gradient skin",
+    "low saturation",
+    "4:3 letterbox",
+    "early CG aesthetic",
+    "PlayStation 2 era cutscene`"
+   ],
+   "links_to": [
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/lighting/golden-hour-backlight.md",
+    "atlas/lighting/tv-crt-glow.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/y2k-retro-future.md",
+    "raw/videos/_source.md"
+   ],
+   "linked_from": [
+    "atlas/grade/digital-overlays.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "🗺️ 风格系谱.md"
+   ]
   },
   {
    "id": "atlas/grade/vhs-dv-texture",
@@ -1197,7 +1451,9 @@
    ],
    "links_to": [],
    "linked_from": [
-    "atlas/color/warm-dv-bronze-palette.md"
+    "atlas/color/warm-dv-bronze-palette.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/school-cafeteria-3d.md"
    ]
   },
   {
@@ -1253,6 +1509,7 @@
    ],
    "links_to": [],
    "linked_from": [
+    "atlas/grade/ps2-fmv-grade.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
   },
@@ -2277,6 +2534,7 @@
    ],
    "links_to": [],
    "linked_from": [
+    "atlas/camera/third-person-game-camera.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
   },
@@ -2695,6 +2953,7 @@
    ],
    "links_to": [],
    "linked_from": [
+    "atlas/camera/third-person-game-camera.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
   },
@@ -3035,6 +3294,8 @@
    ],
    "links_to": [],
    "linked_from": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
   },
@@ -3131,6 +3392,116 @@
    ]
   },
   {
+   "id": "atlas/setting/school-cafeteria-3d",
+   "path": "atlas/setting/school-cafeteria-3d.md",
+   "type": "Visual Element",
+   "title": "学校食堂 · 3D（School Cafeteria · 3D）",
+   "description": "2000s 学校食堂的低多边形 3D 场景——长条木桌、JK 学生群体用餐、午后阳光从大窗斜射入，温暖但孤独。",
+   "tags": [
+    "retro-game-cg",
+    "setting",
+    "school",
+    "cafeteria",
+    "3d",
+    "afternoon"
+   ],
+   "status": "draft",
+   "one_liner": "school cafeteria, long wooden tables, Japanese school lunch hall, students eating lunch,",
+   "keywords": [
+    "`school cafeteria",
+    "long wooden tables",
+    "Japanese school lunch hall",
+    "students eating lunch",
+    "afternoon sunlight through large windows",
+    "warm golden light",
+    "long shadows on table",
+    "tray with food",
+    "bento box",
+    "chopsticks",
+    "group of JK students",
+    "melancholic lunch scene",
+    "2000s school cafeteria",
+    "low-poly cafeteria",
+    "low-poly students",
+    "lonely lunch",
+    "observing from a distance",
+    "warm afternoon glow`"
+   ],
+   "links_to": [
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/lighting/golden-hour-backlight.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "raw/videos/_source.md"
+   ],
+   "linked_from": [
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/school-corridor-cctv",
+   "path": "atlas/setting/school-corridor-cctv.md",
+   "type": "Visual Element",
+   "title": "学校走廊监控视角（School Corridor CCTV）",
+   "description": "2000s 学校走廊的低多边形 3D 场景——荧光灯、瓷砖墙、储物柜、尽头门，常配监控摄像头视角与 bounding box 叠层。",
+   "tags": [
+    "retro-game-cg",
+    "setting",
+    "school",
+    "corridor",
+    "cctv",
+    "3d"
+   ],
+   "status": "draft",
+   "one_liner": "school corridor, long empty hallway, ceiling fluorescent lights, tiled walls, lockers,",
+   "keywords": [
+    "`school corridor",
+    "long empty hallway",
+    "ceiling fluorescent lights",
+    "tiled walls",
+    "lockers",
+    "fire extinguisher on wall",
+    "bulletin board",
+    "end of corridor door",
+    "dim lighting",
+    "cool white light",
+    "2000s school interior",
+    "low-poly corridor",
+    "surveillance camera view",
+    "CCTV hallway",
+    "melancholic school",
+    "empty school hallway",
+    "after-school atmosphere",
+    "Japanese school corridor",
+    "liminal space`"
+   ],
+   "links_to": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/grade/digital-overlays.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "raw/videos/_source.md"
+   ],
+   "linked_from": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
    "id": "atlas/setting/sunset-parking-lot",
    "path": "atlas/setting/sunset-parking-lot.md",
    "type": "Visual Element",
@@ -3181,6 +3552,60 @@
    "links_to": [],
    "linked_from": [
     "atlas/taxonomy/movements/y2k.md"
+   ]
+  },
+  {
+   "id": "atlas/setting/underground-passage-tiled",
+   "path": "atlas/setting/underground-passage-tiled.md",
+   "type": "Visual Element",
+   "title": "瓷砖地下通道（Underground Passage · Tiled）",
+   "description": "2000s 都市地下通道的低多边形 3D 场景——白色瓷砖墙、顶部荧光灯、贴满海报与告示，混凝土或瓷砖地面，昏暗中带暖光。",
+   "tags": [
+    "retro-game-cg",
+    "setting",
+    "underground",
+    "tiled",
+    "urban",
+    "3d"
+   ],
+   "status": "draft",
+   "one_liner": "underground passage, tiled tunnel, subway corridor, white tiled walls, fluorescent ceiling lights,",
+   "keywords": [
+    "`underground passage",
+    "tiled tunnel",
+    "subway corridor",
+    "white tiled walls",
+    "fluorescent ceiling lights",
+    "concert posters on wall",
+    "band posters",
+    "poster-covered wall",
+    "concrete floor",
+    "dim lighting",
+    "warm tungsten glow",
+    "2000s urban underground",
+    "Japanese subway passage",
+    "melancholic tunnel",
+    "low-poly underground",
+    "lonely corridor",
+    "liminal underground space",
+    "urban isolation",
+    "yellow-tinged fluorescent light`"
+   ],
+   "links_to": [
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k-sweet-candy.md",
+    "raw/videos/_source.md"
+   ],
+   "linked_from": [
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
    ]
   },
   {
@@ -3265,6 +3690,72 @@
    ],
    "linked_from": [
     "atlas/subject/character-archetypes/androgynous-performer.md"
+   ]
+  },
+  {
+   "id": "atlas/subject/character-archetypes/lowpoly-jk-character",
+   "path": "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+   "type": "Visual Element",
+   "title": "低多边形 JK 角色（Low-Poly JK Character）",
+   "description": "2000s 游戏风格的低多边形日本女高中生 3D 角色——块状三角面头发、贴图绘制五官、JK 制服（开衫+衬衫+蝴蝶结+格子裙），是 Retro Game CG 的核心人物原型。",
+   "tags": [
+    "retro-game-cg",
+    "subject",
+    "character-archetype",
+    "lowpoly",
+    "jk",
+    "3d"
+   ],
+   "status": "draft",
+   "one_liner": "与真人偶像、2D 动漫角色、当代写实 3D 都不同——它是特定硬件限制下的 3D 少女形象：",
+   "keywords": [
+    "`low-poly JK character",
+    "2000s game girl character",
+    "low-poly anime girl",
+    "blocky triangle hair",
+    "texture-mapped face",
+    "painted eyes and mouth",
+    "simple gradient skin",
+    "chunky hair pieces",
+    "Japanese high school uniform",
+    "JK uniform",
+    "beige cardigan",
+    "white shirt",
+    "black bow tie",
+    "plaid pleated skirt",
+    "knee-high socks",
+    "loafers",
+    "mitten hands",
+    "6-head-tall proportion",
+    "PS1 character model",
+    "PS2 girl character",
+    "2000s video game protagonist",
+    "early 3D anime girl",
+    "cel-shaded low-poly`"
+   ],
+   "links_to": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k.md",
+    "raw/videos/_source.md"
+   ],
+   "linked_from": [
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/digital-overlays.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
    ]
   },
   {
@@ -3446,6 +3937,70 @@
    "links_to": [],
    "linked_from": [
     "atlas/setting/poster-bedroom.md"
+   ]
+  },
+  {
+   "id": "atlas/taxonomy/movements/retro-game-cg",
+   "path": "atlas/taxonomy/movements/retro-game-cg.md",
+   "type": "Style Movement",
+   "title": "复古游戏 CG（Retro Game CG · PS1/PS2-era Low-Poly 3D）",
+   "description": "1997–2006 年 PS1/PS2 世代游戏画面风格的 3D 渲染美学——低多边形、低分辨率贴图、vertex wobble、固定视角，延伸至同人 CG 与虚拟主播圈。",
+   "tags": [
+    "retro-game-cg",
+    "movement",
+    "ps1",
+    "ps2",
+    "lowpoly",
+    "2000s",
+    "3d"
+   ],
+   "status": "draft",
+   "one_liner": "游戏主机的实时渲染或预渲染画面为审美参照的当代 3D 创作风格。其核心不是\"还原游戏内容\"，而是",
+   "keywords": [
+    "`low-poly 3D",
+    "PS1 aesthetic",
+    "PS2 aesthetic",
+    "2000s game graphics",
+    "retro game render",
+    "visible triangle edges",
+    "vertex wobble",
+    "affine texture warping",
+    "low-resolution textures",
+    "fixed camera angle",
+    "vertex lighting",
+    "jagged edges",
+    "4:3 frame",
+    "early 3D render",
+    "N64 graphics",
+    "Dreamcast era",
+    "2000s video game screenshot",
+    "pre-rendered FMV",
+    "MMD style",
+    "cel-shaded 3D anime",
+    "low-poly JK character",
+    "slice-of-life 3D",
+    "melancholic school setting`"
+   ],
+   "links_to": [
+    "atlas/camera/index.md",
+    "atlas/grade/anti-modern-digital.md",
+    "atlas/grade/index.md",
+    "atlas/motion/index.md",
+    "atlas/setting/index.md",
+    "atlas/subject/index.md",
+    "raw/videos/_source.md",
+    "references/eras/late-1990s-early-2000s.md"
+   ],
+   "linked_from": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "🗺️ 风格系谱.md"
    ]
   },
   {
@@ -3696,12 +4251,18 @@
     "references/eras/late-1990s-early-2000s.md"
    ],
    "linked_from": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
     "atlas/grade/anti-modern-digital.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/underground-passage-tiled.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "atlas/taxonomy/movements/visual-kei-angura.md",
     "atlas/taxonomy/movements/visual-kei-kirakira.md",
     "atlas/taxonomy/movements/visual-kei-kote-kei.md",
     "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
+    "raw/videos/_source.md",
     "🏠 主页.md",
     "🗺️ 风格系谱.md"
    ]
@@ -3969,6 +4530,10 @@
     "references/works/index.md"
    ],
    "linked_from": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
     "atlas/hair/spiky-styled-hair.md",
     "atlas/subject/character-archetypes/virtual-doll-3d.md",
     "🏠 主页.md"
@@ -4008,6 +4573,8 @@
     "references/brands/index.md"
    ],
    "linked_from": [
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/setting/underground-passage-tiled.md",
     "atlas/taxonomy/movements/visual-kei-oshare-kei.md",
     "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
     "atlas/taxonomy/movements/y2k-mcbling.md",
@@ -4122,9 +4689,13 @@
    ],
    "linked_from": [
     "atlas/grade/anti-modern-digital.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "atlas/taxonomy/movements/y2k-cyber-goth.md",
     "atlas/taxonomy/movements/y2k-harajuku-shibuya.md",
     "atlas/taxonomy/movements/y2k-mcbling.md",
+    "raw/videos/_source.md",
     "🏠 主页.md",
     "🗺️ 风格系谱.md"
    ]
@@ -4860,6 +5431,69 @@
    ]
   },
   {
+   "id": "raw/videos/_source",
+   "path": "raw/videos/_source.md",
+   "type": "Raw Source",
+   "title": "千禧年低多边形 3D 短片合集（4 部，PS1/PS2-era 风格）",
+   "description": "4 部日系 2000s 复古 3D / 动漫短片，覆盖 JK 校园日常、地下通道、走廊监控、食堂、教室场景。",
+   "tags": [
+    "raw",
+    "videos",
+    "ps2",
+    "lowpoly",
+    "jk",
+    "2000s",
+    "slice-of-life"
+   ],
+   "status": "draft",
+   "one_liner": "4 部他人创作的千禧年 3D 复古短片，用户当前最想做的风格。仅作风格学习与编译素材，",
+   "keywords": [],
+   "links_to": [
+    "atlas/taxonomy/movements/visual-kei.md",
+    "atlas/taxonomy/movements/y2k.md"
+   ],
+   "linked_from": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
+    "atlas/grade/digital-overlays.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
+   "id": "recipes/ps2-lowpoly-jk-slice-of-life",
+   "path": "recipes/ps2-lowpoly-jk-slice-of-life.md",
+   "type": "Style Recipe",
+   "title": "PS2 低多边形 JK 校园日常（PS2 Low-Poly JK Slice-of-Life）",
+   "description": "2000s PS1/PS2 游戏渲染风格的低多边形 JK 校园日常——块状头发、贴图五官、走廊/食堂/地下通道场景，含图/视频双 prompt。",
+   "tags": [
+    "retro-game-cg",
+    "recipe",
+    "lowpoly",
+    "jk",
+    "ps2",
+    "slice-of-life",
+    "3d"
+   ],
+   "status": "draft",
+   "one_liner": "一位低多边形 3D 风格的 JK 少女，块状三角面头发、贴图绘制的眼睛、穿着 JK 制服",
+   "keywords": [],
+   "links_to": [
+    "atlas/grade/anti-modern-digital.md"
+   ],
+   "linked_from": [
+    "🎬 配方.md",
+    "🗺️ 风格系谱.md"
+   ]
+  },
+  {
    "id": "recipes/visual-kei-kote-cold-black",
    "path": "recipes/visual-kei-kote-cold-black.md",
    "type": "Style Recipe",
@@ -5071,6 +5705,7 @@
    ],
    "links_to": [],
    "linked_from": [
+    "atlas/taxonomy/movements/retro-game-cg.md",
     "atlas/taxonomy/movements/visual-kei.md",
     "atlas/taxonomy/movements/y2k.md"
    ]
@@ -5226,10 +5861,13 @@
    "links_to": [
     "assets/recipes/visual-kei-kote-cold-black/v1-2026-10-12.png",
     "assets/recipes/y2k-warm-dv-idol/v1-2026-10-12-jimeng.png",
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
     "atlas/color/visual-kei-monochrome.md",
     "atlas/color/warm-dv-bronze-palette.md",
     "atlas/grade/anti-modern-digital.md",
     "atlas/grade/high-contrast-grade.md",
+    "atlas/grade/low-poly-3d-render.md",
     "atlas/grade/vhs-dv-texture.md",
     "atlas/hair/spiky-styled-hair.md",
     "atlas/lighting/dramatic-single-source.md",
@@ -5237,12 +5875,18 @@
     "atlas/makeup/smoky-eye-visual-kei.md",
     "atlas/makeup/white-foundation.md",
     "atlas/makeup/winged-eyeliner.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/setting/underground-passage-tiled.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
     "atlas/wardrobe/black-tailored-suit.md",
     "atlas/wardrobe/low-rise-jeans.md",
     "atlas/wardrobe/metallic-cami.md",
     "atlas/wardrobe/sheer-cardigan.md",
     "guides/recipe-schema.md",
     "log.md",
+    "raw/videos/_source.md",
+    "recipes/ps2-lowpoly-jk-slice-of-life.md",
     "recipes/visual-kei-kote-cold-black.md",
     "recipes/y2k-warm-dv-idol.md"
    ],
@@ -5333,8 +5977,13 @@
    "one_liner": "",
    "keywords": [],
    "links_to": [
+    "atlas/camera/security-camera-cctv.md",
+    "atlas/camera/third-person-game-camera.md",
     "atlas/color/visual-kei-monochrome.md",
+    "atlas/grade/digital-overlays.md",
     "atlas/grade/high-contrast-grade.md",
+    "atlas/grade/low-poly-3d-render.md",
+    "atlas/grade/ps2-fmv-grade.md",
     "atlas/hair/eye-covering-bangs.md",
     "atlas/hair/spiky-styled-hair.md",
     "atlas/lighting/dramatic-single-source.md",
@@ -5348,11 +5997,18 @@
     "atlas/material/satin-velvet.md",
     "atlas/motion/stage-performance-motion.md",
     "atlas/setting/dark-stage.md",
+    "atlas/setting/school-cafeteria-3d.md",
+    "atlas/setting/school-corridor-cctv.md",
+    "atlas/setting/underground-passage-tiled.md",
     "atlas/subject/character-archetypes/androgynous-performer.md",
+    "atlas/subject/character-archetypes/lowpoly-jk-character.md",
+    "atlas/taxonomy/movements/retro-game-cg.md",
     "atlas/taxonomy/movements/visual-kei.md",
     "atlas/taxonomy/movements/y2k.md",
     "atlas/wardrobe/black-tailored-suit.md",
     "guides/new-style-pack.md",
+    "raw/videos/_source.md",
+    "recipes/ps2-lowpoly-jk-slice-of-life.md",
     "recipes/visual-kei-kote-cold-black.md",
     "recipes/y2k-warm-dv-idol.md"
    ],

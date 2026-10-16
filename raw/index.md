@@ -10,6 +10,13 @@
 - `magazines/` — 杂志（单期或专题）
 - `scans/` — 图片扫描、广告片、lookbook
 - `articles/` — 文章、论文、网页存档
+- `videos/` — 视频短片（MP4 / MOV），按 `_source.md` 登记；**视频文件本身不入 Git**（见 `.gitignore`），抽帧入 `assets/raw/videos/`
+
+## 当前原料清单
+
+| 路径 | 类型 | 状态 | 说明 |
+|---|---|---|---|
+| [[raw/videos/_source\|videos/_source]] | 视频合集（4 部） | parsed（已抽帧） | 千禧年低多边形 3D 短片合集，@natural water / @鴉鴉的幻覺 / @龙崎日舞 |
 
 > **建议用法**：拿不准放哪就丢 `inbox/`——不需要先想清楚分类，
 > agent 在 INGEST 时会判断归属并移动/登记。降低"投喂"的心理成本。

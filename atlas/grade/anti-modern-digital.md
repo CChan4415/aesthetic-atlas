@@ -69,6 +69,8 @@ digital clarity, pristine image quality, modern sensor, mirrorless camera
 
 光靠负向词不够，必须**明确声明拍摄介质**。推荐句式：
 
+## A. 摄影介质（真人摄影）
+
 | 目标 | 正向锚定词 |
 |---|---|
 | 千禧家用 DV | `shot on a 2000s consumer DV camcorder, 4:3 interlaced video frame capture, low resolution` |
@@ -76,6 +78,29 @@ digital clarity, pristine image quality, modern sensor, mirrorless camera
 | 千禧傻瓜胶片机 | `shot on a 2000s point-and-shoot film camera, 35mm, flash photography, film grain` |
 | 杂志内页扫描 | `scanned from a 2000s magazine page, halftone print texture, slight paper yellowing` |
 | 早期 CCD 数码 | `shot on an early 2000s CCD digital camera, harsh direct flash, blown highlights, digital noise` |
+
+## B. 渲染介质（3D / CG）★ 新增
+
+| 目标 | 正向锚定词 |
+|---|---|
+| PS1 实时渲染 | `rendered on a PS1 console, low-poly 3D, vertex wobble, affine texture warping, 320x240, no anti-aliasing` |
+| PS2 实时渲染 | `rendered on a PS2 console, low-poly 3D, low-resolution textures, vertex lighting, 640x480, jagged edges` |
+| PS2 预渲染 FMV | `rendered as a 2000s PS2 game FMV cutscene, pre-rendered CG, smooth plastic skin, simple three-point lighting, early 2000s game cinematic` |
+| MMD 同人 CG | `MikuMikuDance style 3D, MMD model render, anime-style low-poly 3D, cel-shaded character, simple background` |
+| N64 实时渲染 | `rendered on Nintendo 64, low-poly 3D, blurry textures, fog for draw distance, chunky polygons` |
+| Dreamcast | `rendered on Dreamcast, late 90s 3D, clean polygons, arcade-perfect port aesthetic` |
+
+**两类介质的共同原则**：
+1. **介质锚定句放最前**（独立大写句）
+2. **负向词分两层**：内容层（年代穿帮物）+ 介质层（现代摄影/现代渲染特征）
+3. **质感强度写明**（轻/中/重）
+
+**渲染介质专属负向词**：
+```
+unreal engine 5, ray tracing, photorealistic, octane render, subsurface scattering,
+high-poly sculpt, smooth shading, realistic hair strands, detailed skin pores, 8k textures,
+motion capture animation, filmic color grading, modern game engine, cinematic lighting
+```
 
 **为什么有效**：把"介质"写进 prompt，模型会切换到对应的**成像模型**，
 而不只是加一层滤镜。这是正向词里信息量最高的部分。
