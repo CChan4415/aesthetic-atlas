@@ -2,6 +2,22 @@
 
 >  newest first；日期用 `YYYY-MM-DD`。
 
+## 2026-10-17 · `tools/validate.py` 新增两条校验规则
+
+### 规则 1：`check_escapes()` —— 转义污染
+* 检测被反斜杠转义的 Markdown/YAML 语法：行首 `\---`、`\s*\- ` → 直接报 **error**。
+* 动机：写入端会自动给 `---` / `-` / `_` 加反斜杠，导致 frontmatter 与列表结构静默失效；
+  这类问题此前已发生过两次（`\---`、`\|`），靠事后人工发现必然再漏 → **必须让校验器兜底**。
+* 检查前先过 `strip_code()`，避免把文档里的教学示例误判为污染。
+* 顺带教训：只报 warning 的问题会被 `0 错误` 掩盖——**导致结构失效的问题应定为 error**。
+
+### 规则 2：`check_material_refs()` —— 原料引用完整性
+* `raw/**/_source.md` 的 `material:` 清单必须能在同目录找到真实文件，找不到即报错。
+
+### 验证
+* `tools/validate.py`：216 个 Markdown，**0 错误 0 警告**。
+* 回归测试：临时还原错误版本 → 如期报出 6 条 error，确认规则真实生效。
+
 ## 2026-10-16 · 第十二阶段：首次跑通 raw → atlas → recipe 编译管道（Retro Game CG）
 
 > **里程碑**：这是本库**首次真实执行 `guides/ingestion.md` 七步编译管道**——

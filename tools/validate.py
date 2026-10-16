@@ -94,6 +94,47 @@ def check_frontmatter():
                 warn(f"[frontmatter] status 取值非标准 '{st}': {rel(p)}")
 
 
+# ------------------------------------------------------- 1b. 转义污染 & 原料引用
+def check_escapes():
+    """检测写入端被自动加反斜杠的 Markdown/YAML 语法。
+
+    真实事故（已发生两次）：
+      - recipes/y2k-warm-dv-idol.md 的 `---` 被写成 `\\---`，frontmatter 整体失效
+      - raw/videos/_source.md 的 `---` / `- ` / 文件名 `_` 被转义，
+        导致 frontmatter 失效且 2 个 material 文件名与磁盘不匹配
+    这类问题校验器原本只报 warning，容易被忽略，故单独升级为 error。
+    """
+    for p in glob.glob(os.path.join(ROOT, "**", "*.md"), recursive=True):
+        if "/tools/" in p or "/.git/" in p:
+            continue
+        text = read(p)
+        # 代码示例里的转义是正常教学内容，不算污染
+        probe = strip_code(text)
+
+        for i, line in enumerate(probe.splitlines(), 1):
+            if re.match(r"^\\+---\s*$", line):
+                err(f"[escape] 分隔符被转义 `{line.strip()}`（应为 ---）: {rel(p)}:{i}")
+            elif re.match(r"^\s*\\+-\s", line):
+                err(f"[escape] 列表项被转义 `{line.strip()}`（应为 - ）: {rel(p)}:{i}")
+
+
+def check_material_refs():
+    """Raw Source 的 material 清单必须能在同目录下找到真实文件。"""
+    for p in glob.glob(os.path.join(ROOT, "raw", "**", "_source.md"), recursive=True):
+        text = read(p)
+        if not text.startswith("---"):
+            continue
+        end = text.find("\n---", 3)
+        block = text[3:end] if end != -1 else ""
+        d = os.path.dirname(p)
+        for m in re.findall(r"^\s*-\s+[\"']?([^\"'\n]+?)[\"']?\s*$", block, re.M):
+            name = m.strip()
+            if not name or name.startswith("<"):
+                continue
+            if not os.path.exists(os.path.join(d, name)):
+                err(f"[material] 原料文件不存在: {rel(p)} → {name}")
+
+
 # ---------------------------------------------------------------- 2. 内部链接
 LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
 WIKI_RE = re.compile(r"!?\[\[((?:[^\]\|#\\]|\\.)+?)(?:#[^\]\|]*)?(?:\\?\|[^\]]*)?\]\]")
@@ -251,6 +292,8 @@ def check_naming():
 def main():
     quiet = "--quiet" in sys.argv
     check_frontmatter()
+    check_escapes()
+    check_material_refs()
     check_links()
     check_recipes()
     check_assets()
